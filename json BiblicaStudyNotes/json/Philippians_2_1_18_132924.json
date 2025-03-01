@@ -1,0 +1,176 @@
+{
+  "id": 132924,
+  "referenceId": 108978,
+  "name": "Philippians 2:1–18",
+  "localizedName": "Philippians 2:1–18",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Belonging to Jesus brought many "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108155",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "spiritual blessings"
+              },
+              {
+                "type": "text",
+                "text": " into the lives of the Philippian believers."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul explained how believers should treat one another because of these blessings. Believers must treat others the way that Jesus treated people."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus has always been "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108329",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Lord"
+              },
+              {
+                "type": "text",
+                "text": " and God. But when he was on earth, Jesus made himself humble. He was a "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108059",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "leader who served"
+              },
+              {
+                "type": "text",
+                "text": ". He was willing to suffer and be put to death. He did all of this because he loved people and wanted to save them."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In the future all that God created will recognise who the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108146",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Lord Jesus Christ"
+              },
+              {
+                "type": "text",
+                "text": " is. This is God’s good purpose for the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108215",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "world"
+              },
+              {
+                "type": "text",
+                "text": ". God wants believers to be a part of fulfilling his purpose. They do this by following Jesus’ example. They mustn’t complain and argue. They are to serve one another and others who aren’t believers. This sets them apart like stars that shine brightly in the night sky."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul was glad and joyful that this was happening among the Philippians."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

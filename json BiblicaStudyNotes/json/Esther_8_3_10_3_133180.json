@@ -1,0 +1,142 @@
+{
+  "id": 133180,
+  "referenceId": 109234,
+  "name": "Esther 8:3–10:3",
+  "localizedName": "Esther 8:3–10:3",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Haman’s orders to destroy the Jews couldn’t be stopped. But Xerxes allowed Esther and Mordecai to write a new order. This was the help for the Jews that Mordecai had talked about. It was how they were rescued from being destroyed."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The order that Mordecai wrote was very different from Haman’s orders. It wasn’t based on anger or on attacking and robbing other people groups. It was based on protecting the Jews. Mordecai’s order allowed the Jews to fight to protect themselves if they were attacked. They could do this on the 13th day of the 12th month. That was the day that Haman’s orders required everyone to kill the Jews."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Because of the new order, few people in Persia followed Haman’s orders. Instead, officials in the Persian government helped the Jews. Only enemies who were trying to destroy the Jews attacked them. The Jews had success in fighting against those enemies. In the city of Susa, the fighting continued for an extra day."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Mordecai’s order allowed the Jews to take what belonged to those who attacked them. But they didn’t do that. Instead, they gave presents to one another and to people who were poor. That was one way that the Jews celebrated that they had been rescued. This time of celebration became the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108523",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Feast of Purim"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Mordecai’s order led to "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108211",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "peace"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108212",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "rest"
+              },
+              {
+                "type": "text",
+                "text": " for the Jews in Persia. Mordecai had almost as much authority in Persia as Xerxes did. He used his authority to do what was good for all of God’s people."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

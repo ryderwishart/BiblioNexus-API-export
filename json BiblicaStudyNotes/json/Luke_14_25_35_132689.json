@@ -1,0 +1,73 @@
+{
+  "id": 132689,
+  "referenceId": 108743,
+  "name": "Luke 14:25–35",
+  "localizedName": "Luke 14:25–35",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus said that people who follow him need to carry their own cross. He meant that it’s hard to be one of his disciples."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "It’s hard because it means giving up a lot of things. It requires being fully committed to Jesus. It often means going against what family members want. It means being willing to die for Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "As a result, people need to think carefully about following Jesus. Each person must decide if following Jesus is worth the cost."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

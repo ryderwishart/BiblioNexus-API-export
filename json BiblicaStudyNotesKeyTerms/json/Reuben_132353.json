@@ -1,0 +1,58 @@
+{
+  "id": 132353,
+  "referenceId": 108407,
+  "name": "Reuben",
+  "localizedName": "Reuben",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "The eldest son of Jacob and Leah. In the Hebrew language the name Reuben means look a son. It sounds like the word for he has seen my suffering. Reuben had sex with his father’s concubine Bilhah. Because of that, he wasn’t allowed to have the rights of being Jacob’s eldest son. His family line became a tribe of Israel."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

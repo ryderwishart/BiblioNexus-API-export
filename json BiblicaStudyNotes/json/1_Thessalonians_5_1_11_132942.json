@@ -1,0 +1,159 @@
+{
+  "id": 132942,
+  "referenceId": 108996,
+  "name": "1 Thessalonians 5:1–11",
+  "localizedName": "1 Thessalonians 5:1–11",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "No one knows when Jesus will return to earth. Paul called that time the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108571",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "day of the Lord"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "To describe it, Paul used Jesus’ words about birth-pains and robbers at night (Matthew 24:8 and 43). Paul talked about Jesus’ return as the end of the time of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108039",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "darkness"
+              },
+              {
+                "type": "text",
+                "text": " and night."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "He also described Jesus’ return as the start of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108546",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "light"
+              },
+              {
+                "type": "text",
+                "text": " and day. Paul wanted the Thessalonians to wait for that time with hope."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Their hope must be strong and protect them like a helmet. Their faith and love were "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108157",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "spiritual armour"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Thessalonians were to encourage one another through their hope, faith and love."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

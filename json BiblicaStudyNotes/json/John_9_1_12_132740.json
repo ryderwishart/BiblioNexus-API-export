@@ -1,0 +1,82 @@
+{
+  "id": 132740,
+  "referenceId": 108794,
+  "name": "John 9:1–12",
+  "localizedName": "John 9:1–12",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "After seeing a blind man, the disciples tried to understand illness and suffering. Was it a punishment for someone’s sin?"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus answered that the man wasn’t born blind because someone did something wrong. In fact, Jesus would use the man’s illness to show God’s power. He healed the blind man."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This was Jesus’ sixth sign in John’s gospel. Healing people was part of the work God had sent Jesus to do. Jesus is God’s Light. He would do God’s works as long as he was in the world."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Everyone who had known the man before was shocked. It was hard to believe that the man who had been blind could now see."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

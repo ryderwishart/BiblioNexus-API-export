@@ -1,0 +1,107 @@
+{
+  "id": 132611,
+  "referenceId": 108665,
+  "name": "Mark 7:1–23",
+  "localizedName": "Mark 7:1–23",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Many of the Pharisees and "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108048",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "teachers of the law"
+              },
+              {
+                "type": "text",
+                "text": " weren’t caring and godly leaders. They required Jews to follow many Jewish laws."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Many of these rules made people’s lives harder and didn’t bring them closer to God. Jesus taught how important God’s commands were. God’s laws were to help people worship him and be close to him."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Yet Jesus taught people a different way of understanding the commands about unclean things. The commands are about avoiding what is evil. Evil words and actions begin when people have evil desires in their "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108419",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "hearts"
+              },
+              {
+                "type": "text",
+                "text": ". Jesus gives those who believe in him a heart that loves and obeys God."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

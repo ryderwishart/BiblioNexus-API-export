@@ -1,0 +1,58 @@
+{
+  "id": 132360,
+  "referenceId": 108414,
+  "name": "Shema",
+  "localizedName": "Shema",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A Jewish prayer that includes Deuteronomy 6:4. In the Hebrew language, the first word of Deuteronomy 6:4 is shema. It means to listen and to take action based on what was heard. In the Hebrew language, hearing and doing are understood to be the same thing. The Shema explains what God’s covenant with the Israelites was about. God is the one and only true God. The Israelites were to obey only God. This was true for each person. It was also true for them as a community. They were to obey the Ten Commandments and all of God’s laws. Many things would help them remember who God is and what he commanded. They were to talk about his commands all the time everywhere and with everyone. They were to write them down. They were to place reminders on their clothes, their bodies, their houses and their gates. They were to ask questions about God freely and talk about him with their children. Jesus used the words of the Shema in Mark 12:29."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

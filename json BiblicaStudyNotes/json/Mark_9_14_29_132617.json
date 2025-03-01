@@ -1,0 +1,73 @@
+{
+  "id": 132617,
+  "referenceId": 108671,
+  "name": "Mark 9:14–29",
+  "localizedName": "Mark 9:14–29",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus’ disciples faced an evil spirit that they couldn’t drive out. This confused them. Earlier, Jesus had given them authority to do the kind of work he did. They had travelled around healing people and driving out evil spirits."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Yet it was becoming harder to follow Jesus the closer he got to his death. The disciples tried to heal a boy but they couldn’t bring new life to him. The boy’s father also struggled to believe that Jesus could heal his son."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus’ words showed how tired he was of people not trusting God’s power. With power and kindness, Jesus took the boy by the hand and lifted him up."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

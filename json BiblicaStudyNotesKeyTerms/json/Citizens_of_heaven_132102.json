@@ -1,0 +1,94 @@
+{
+  "id": 132102,
+  "referenceId": 108156,
+  "name": "Citizens of heaven",
+  "localizedName": "Citizens of heaven",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "People are citizens of the nation where they live or where they were born. Believers are also citizens of heaven. This means that they belong to God and are part of his kingdom. This is true even while they are alive on earth. God slowly spreads his kingdom on earth through believers. As citizens of heaven, they are messengers for God’s kingdom. ("
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108561",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Kingdom of God"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bibleReference",
+                    "attrs": {
+                      "verses": [
+                        {
+                          "startVerse": "1027002001",
+                          "endVerse": "1027002049"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "text": "Daniel 2:1–49"
+              },
+              {
+                "type": "text",
+                "text": ")."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

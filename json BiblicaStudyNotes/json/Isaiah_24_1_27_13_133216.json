@@ -1,0 +1,227 @@
+{
+  "id": 133216,
+  "referenceId": 109270,
+  "name": "Isaiah 24:1–27:13",
+  "localizedName": "Isaiah 24:1–27:13",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The messages of judgement in these chapters are about the whole world. They are examples of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108541",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "apocalyptic writing"
+              },
+              {
+                "type": "text",
+                "text": ". They use powerful and scary pictures and signs to describe judgement. It was hard for Isaiah to share these judgement messages. They made him feel weak and terrible."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The judgement messages were bad news for people who were proud. They were bad news for people who trusted in cities that have high walls. This was a way of talking about trusting a government or army instead of trusting God. The judgement messages were also bad news for the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108462",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "spiritual"
+              },
+              {
+                "type": "text",
+                "text": " forces of evil. These are "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108218",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "evil spiritual beings"
+              },
+              {
+                "type": "text",
+                "text": " and the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108216",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "devil"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The messages of hope in these chapters are also about the whole world. They talk about God ruling as King of the whole world. He will destroy cities that are proud. This means that God will destroy all governments and leaders that are proud. He will destroy governments and leaders that don’t follow his example for being "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108209",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "rulers"
+              },
+              {
+                "type": "text",
+                "text": ". This brings great joy to the people treated badly by those governments and leaders. Then all people will learn to do what is right. All nations will honour God. People who were God’s enemies will be able to make peace with God. They will be able to trust him for safety."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "God will put a stop to things that make people sad and full of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108465",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "shame"
+              },
+              {
+                "type": "text",
+                "text": ". He will destroy death and will give life to people once again. This time of joy is described as a feast that God prepares for all nations. He prepares it on Mount Zion where the temple is. This is a picture of how God would bless all nations through the people of Israel. It’s a picture of how all nations will worship God as the one true God. These messages lead people to sing songs of praise to God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jews understood that Isaiah’s prophecies talked about a time in the future. Some of these messages of hope came true when Babylon lost its power. Some of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108542",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "John"
+              },
+              {
+                "type": "text",
+                "text": "’s visions in Revelation are like Isaiah’s messages of judgement and hope. Revelation chapters 19 to 22 make it clear when Isaiah’s messages will fully come true. That will be when Jesus rules completely as King in the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108543",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "new creation"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

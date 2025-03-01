@@ -1,0 +1,141 @@
+{
+  "id": 132991,
+  "referenceId": 109045,
+  "name": "James 4:1–17",
+  "localizedName": "James 4:1–17",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Being a friend of the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108215",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "world"
+              },
+              {
+                "type": "text",
+                "text": " means acting according to wisdom from the devil. The devil offers people evil pleasure based on sin. This leads people to be full of pride and to want more and more things. It leads them to treat others in terrible ways."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "People who live like this aren’t being faithful to God. God offers people true joy that comes from being near to him. People must be humble if they want to be close to God. They must recognise that they need his "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108235",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "grace"
+              },
+              {
+                "type": "text",
+                "text": " and need to be "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108281",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "forgiven"
+              },
+              {
+                "type": "text",
+                "text": ". They must recognise that God is the one who decides what is right and wrong."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "That is what James meant about God being the Lawgiver. It’s also what he meant about God being the one who brings "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108233",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "judgement"
+              },
+              {
+                "type": "text",
+                "text": ". Speaking badly about other believers goes against what God wants. If someone goes against what God wants it shows that they are full of pride. Pride also makes people sure that what they plan will happen. Then they don’t admit that only God is in control of the future. James wanted believers to do good deeds each day instead of boasting about future plans."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

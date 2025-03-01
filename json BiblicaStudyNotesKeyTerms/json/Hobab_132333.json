@@ -1,0 +1,58 @@
+{
+  "id": 132333,
+  "referenceId": 108387,
+  "name": "Hobab",
+  "localizedName": "Hobab",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Moses’ brother-in-law. He was the son of Reuel who was also called Jethro. Hobab was the brother of Moses’ wife Zipporah. He was part of the Kenite people group. He stayed with the Israelites as they travelled from Mount Sinai to Canaan. He was a guide to them in the desert."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

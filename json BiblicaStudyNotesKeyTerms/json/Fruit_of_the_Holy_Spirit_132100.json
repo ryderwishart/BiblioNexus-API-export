@@ -1,0 +1,58 @@
+{
+  "id": 132100,
+  "referenceId": 108154,
+  "name": "Fruit of the Holy Spirit",
+  "localizedName": "Fruit of the Holy Spirit",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Godly ways that people think, speak and act. These ways show that people are thinking, speaking and acting as Jesus did. The Holy Spirit makes people able to do this. There is no exact number of fruit of the Holy Spirit. Paul and Peter listed examples of the fruit of the Holy Spirit in believers’ lives. These include love, joy, peace, patience, kindness, faithfulness, gentleness and having control of oneself. They include knowledge and godliness. They also include anything that shows that a believer is following Jesus’ example."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

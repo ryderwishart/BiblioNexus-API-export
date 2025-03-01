@@ -1,0 +1,58 @@
+{
+  "id": 132042,
+  "referenceId": 108096,
+  "name": "Church",
+  "localizedName": "Church",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "The community of people who follow Jesus. The church started with disciples in Jerusalem who were from Abraham’s family line. The church has grown to include people from any family, place and nation. They are made one through believing in Jesus and believing that he is the Messiah. God’s kingdom spreads on earth when the church follows Jesus faithfully. The church is also called the body of Christ."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

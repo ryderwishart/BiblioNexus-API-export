@@ -1,0 +1,258 @@
+{
+  "id": 132907,
+  "referenceId": 108961,
+  "name": "Galatians 4:21–31",
+  "localizedName": "Galatians 4:21–31",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Next Paul used "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108259",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Hagar"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108247",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Sarah"
+              },
+              {
+                "type": "text",
+                "text": " as an example. He explained the difference between being a slave and being a child in God’s family."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Hagar and her son "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108262",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Ishmael"
+              },
+              {
+                "type": "text",
+                "text": " lived as slaves in Abraham’s house. Paul compared them to Jews living as slaves to the Law of Moses. That started when God established the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108237",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "covenant"
+              },
+              {
+                "type": "text",
+                "text": " with his people on "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108327",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Mount Sinai"
+              },
+              {
+                "type": "text",
+                "text": ". In Paul’s time, most Jews living in Jerusalem still followed the law."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle"
+                  }
+                ],
+                "text": "Paul talked about Mount Sinai, Jerusalem, and Hagar to help explain the"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108328",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Mount Sinai covenant"
+              },
+              {
+                "type": "text",
+                "text": ". Sarah and her son "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108261",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Isaac"
+              },
+              {
+                "type": "text",
+                "text": " lived as free people in Abraham’s house. Paul compared them to believers living as God’s children in the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108553",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "new covenant"
+              },
+              {
+                "type": "text",
+                "text": ". They become God’s children through the power of God’s Holy Spirit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul called their home the Jerusalem that is above. This was another name for the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108549",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "New Jerusalem"
+              },
+              {
+                "type": "text",
+                "text": ". Talking about that Jerusalem, the Holy Spirit and Sarah helped Paul explain the new covenant."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul taught the Galatians that they shouldn’t live as slaves anymore. In the new covenant they no longer need to live under the law’s authority. They were free people and should live through the power of the Holy Spirit."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

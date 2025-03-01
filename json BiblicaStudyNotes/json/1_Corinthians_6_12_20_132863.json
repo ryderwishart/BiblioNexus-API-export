@@ -1,0 +1,116 @@
+{
+  "id": 132863,
+  "referenceId": 108917,
+  "name": "1 Corinthians 6:12–20",
+  "localizedName": "1 Corinthians 6:12–20",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Many Greek ("
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108194",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Greece"
+              },
+              {
+                "type": "text",
+                "text": ") thinkers believed that the spiritual things mattered more than the physical things. They taught that people’s spirits mattered more than their bodies. This led some people in Paul's time to think that their bodies weren’t very important. They thought that they could do anything they wanted to with their bodies."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "A lot of people in the Corinthian church accepted this idea. They thought that they could have sex however they wanted to. They thought that it made no difference to God or to other believers. They thought that it made no difference to their spirits. This thinking was a result of not understanding Paul’s teaching about freedom."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul showed the Corinthians that people’s bodies and their spirits matter to God. God raised Jesus’ body from the dead. He will also raise up the bodies of believers who die. Those who follow Jesus are one with him in spirit because they believe in him. The Holy Spirit is always with each believer because he lives inside their body. And the body of each believer belongs to the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108143",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "body of Christ"
+              },
+              {
+                "type": "text",
+                "text": ". This is the church."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "What believers do with their bodies can either help the church or hurt it. Paul had written about an example of this in 1 Corinthians 5:1–5. So believers must use their bodies to bring honour to God."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

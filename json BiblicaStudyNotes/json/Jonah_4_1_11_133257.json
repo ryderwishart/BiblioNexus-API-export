@@ -1,0 +1,215 @@
+{
+  "id": 133257,
+  "referenceId": 109311,
+  "name": "Jonah 4:1–11",
+  "localizedName": "Jonah 4:1–11",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Jonah’s anger started when God’s anger stopped. He thought that he was right to be angry. He thought that God was wrong to stop being angry. Jonah didn’t want God to show his tender love to the Assyrians."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "People from the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108220",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "family line"
+              },
+              {
+                "type": "text",
+                "text": " of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108268",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Jacob"
+              },
+              {
+                "type": "text",
+                "text": " considered the Assyrians to be "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108369",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "outsiders"
+              },
+              {
+                "type": "text",
+                "text": ". The Assyrians had treated "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108302",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "God’s people"
+              },
+              {
+                "type": "text",
+                "text": " badly for many years. Jonah wanted God to bring judgement against them and destroy them."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Jonah cared about the plant that God had caused to grow. The plant gave him shade and made him feel comfortable. Jonah’s anger grew when the plant died. He cared more about the plant than he did about "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108202",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "human beings"
+              },
+              {
+                "type": "text",
+                "text": " from Assyria."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "God cared about the plant and took care of it. He also cared about Jonah and about the people and the animals of Nineveh. God had made himself known to "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108300",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Moses"
+              },
+              {
+                "type": "text",
+                "text": " as the God who is tender and kind. God is gracious and slow to get angry. God is faithful and full of love (Exodus 34:6)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Jonah understood that God was tender, kind and full of love for the Israelites ("
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108280",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Israel"
+              },
+              {
+                "type": "text",
+                "text": "). But Jonah didn’t want God to be that way for the people of Nineveh. God showed Jonah that he was full of love for everything and everyone that he created. This included those whom God’s people considered to be their enemies."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": 133129,
+  "referenceId": 109183,
+  "name": "1 Samuel 18:1–23:29",
+  "localizedName": "1 Samuel 18:1–23:29",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Saul’s family members loved David. Jonathan made a covenant of friendship with David that would last for ever. Jonathan accepted that God chose David to be Israel’s next king. He wanted to support David when David was king. He protected David from Saul many times."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Saul’s daughter Michal was in love with David. As David’s wife, she was willing to lie to her father to protect David. David had more and more success as an officer in Saul’s army. But Saul was controlled more and more by fear and jealousy. He refused to accept that God had chosen David to be king."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Instead of turning back to God, Saul tried over and over to kill David. First he sent David into battles hoping that he would be killed while fighting. Then Saul tried to kill Jonathan for protecting David. After that, David ran away from Saul. Saul had an entire town of priests killed because "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108458",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Ahimelek"
+              },
+              {
+                "type": "text",
+                "text": " helped David. This showed that Saul had no respect for people who were anointed to serve God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Many soldiers and their families joined David when he ran away from Saul. So did "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108459",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Abiathar"
+              },
+              {
+                "type": "text",
+                "text": " the priest. But many other Israelites were willing to hand David over to Saul. Even so, David and his men still rescued the Israelites from the Philistines."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 132000,
+  "referenceId": 108054,
+  "name": "Treated badly",
+  "localizedName": "Treated badly",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Many of Jesus’ disciples and followers in the first churches were treated badly or killed. Other Jews made them suffer for following Jesus as the Jewish Messiah. These Jews wanted Christian Jews to return to the Jewish faith and way of life. Roman authorities made them suffer for following Jesus as King of the whole world. They wanted Christians to recognise that the Roman emperor was king ("
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108047",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Rome"
+              },
+              {
+                "type": "text",
+                "text": " Matthew 8:1–17). The Roman government had laws that allowed people to practice the Jewish faith. But in the time of the first churches it didn’t have laws about Christians. This meant that Christians could get in trouble for following Jesus. To avoid trouble, they could go back to living as Jews. This was one way to escape being treated badly. It was very tempting for Christians who were suffering. Many Christians are still treated badly for faithfully following Jesus."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

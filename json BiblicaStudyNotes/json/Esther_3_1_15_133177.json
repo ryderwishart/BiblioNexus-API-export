@@ -1,0 +1,146 @@
+{
+  "id": 133177,
+  "referenceId": 109231,
+  "name": "Esther 3:1–15",
+  "localizedName": "Esther 3:1–15",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108521",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Haman"
+              },
+              {
+                "type": "text",
+                "text": " was very angry because Mordecai refused to honour him. Haman decided to punish all the Jews in Persia because of what Mordecai did. Haman wanted to destroy all the Jews because he was angry."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Punishing all of them was against what the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108335",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Law of Moses"
+              },
+              {
+                "type": "text",
+                "text": " taught. People were only to be punished according to the hurt that they caused other people (Leviticus 24:20). But Haman didn’t follow the Law of Moses. He noticed that the Jews had different practices than other people groups. Haman didn’t like those practices."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "He followed the laws of Persia and even helped make those laws. Xerxes allowed Haman to write orders to support his evil plans against the Jews. The orders applied to everyone in all the lands Persia ruled over. Everyone was commanded to destroy, kill and wipe out all the Jews. Then they were to take everything that belonged to the Jews. They were to do this on the 13th day of the 12th month. Haman chose this day by "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108404",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "casting lots"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Haman and Xerxes weren’t troubled by giving this order. Afterwards they sat down to drink wine. This showed what kind of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108209",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "rulers"
+              },
+              {
+                "type": "text",
+                "text": " they were. They used their power and riches to do what they wanted to do. They didn’t use their authority to do what was good for the people in their kingdom."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

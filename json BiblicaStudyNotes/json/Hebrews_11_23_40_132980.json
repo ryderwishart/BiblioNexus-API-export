@@ -1,0 +1,73 @@
+{
+  "id": 132980,
+  "referenceId": 109034,
+  "name": "Hebrews 11:23–40",
+  "localizedName": "Hebrews 11:23–40",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The author mentioned many people from Israel’s past who had faith in God. They faced difficult things in their families and in their countries. Many of them also suffered very badly in their bodies. They were made to suffer because they refused to live in sinful and evil ways."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "They had sure hope that God would save them from sin, death and evil. That is why the author described Moses as suffering because of Christ. Moses lived hundreds of years before Jesus. But his faith and hope would be made complete through Jesus’ life and work."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The faith of the people on this list didn’t stop even when they faced death. They didn’t fully receive what they were hoping for and what they believed in. But their faith was so strong that they trusted God to raise them from the dead. During their life on earth their hope wasn’t made complete and perfect yet. That would happen through Jesus’ life and work."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

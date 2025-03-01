@@ -1,0 +1,116 @@
+{
+  "id": 132865,
+  "referenceId": 108919,
+  "name": "1 Corinthians 7:17–40",
+  "localizedName": "1 Corinthians 7:17–40",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Corinthians were worried about making the right changes so that they could belong to Christ. They thought they needed to change things about their bodies, their work and their relationships. They thought these changes would make them more acceptable to God and to others."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul had talked about what the Corinthians were like when they first believed in Jesus. They weren’t considered wise, powerful or important. Yet God loved them and chose them. Because of this they were part of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108045",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "God’s family"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul made something very clear. No changes the Corinthians made would change the truth about God’s love for them. This included changing from being a slave to being a free person. It included being "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108257",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "circumcised"
+              },
+              {
+                "type": "text",
+                "text": " or not being circumcised. It included getting married or not getting married. Believers in every situation belong to the Lord. So they are free to make choices in their lives that will honour God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul wasn’t telling the Corinthians to pretend that the present world doesn’t matter. His point was that serving the Lord should be the centre of all their plans."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

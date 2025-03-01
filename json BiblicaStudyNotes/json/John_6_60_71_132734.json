@@ -1,0 +1,90 @@
+{
+  "id": 132734,
+  "referenceId": 108788,
+  "name": "John 6:60–71",
+  "localizedName": "John 6:60–71",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The people of Israel were excited about Jesus and the mighty works he did. But the spiritual truths he taught were hard to understand. The people didn’t know how to obey them. They were hard even for Jesus’ disciples."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Many disciples stopped following Jesus because they couldn’t accept his words. Jesus asked his 12 closest disciples if they would also leave him. Simon "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108572",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Peter"
+              },
+              {
+                "type": "text",
+                "text": " spoke for the whole group and showed that they were committed to Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Peter was the third witness in John’s gospel to say who Jesus is. He called Jesus the Holy One of God. This was a way of saying that Jesus is Israel’s King and Messiah. Yet one of the 12 disciples wouldn’t remain faithful to Jesus."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

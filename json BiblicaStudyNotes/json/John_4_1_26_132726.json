@@ -1,0 +1,214 @@
+{
+  "id": 132726,
+  "referenceId": 108780,
+  "name": "John 4:1–26",
+  "localizedName": "John 4:1–26",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus went from "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108035",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Judea"
+              },
+              {
+                "type": "text",
+                "text": " in the south of Israel to "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108036",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Galilee"
+              },
+              {
+                "type": "text",
+                "text": " in the north. In between them was the area of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108489",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Samaria"
+              },
+              {
+                "type": "text",
+                "text": ". The people who lived there in Jesus’ time were called Samaritans."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108503",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Jews"
+              },
+              {
+                "type": "text",
+                "text": " thought that they were more a part of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108243",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Abraham’s"
+              },
+              {
+                "type": "text",
+                "text": " family than the Samaritans. Most Samaritans and Jews hated one another and tried hard to avoid each other. Jesus didn’t hate Samaritans or avoid them. He asked a Samaritan woman for water. She didn’t understand right away what he was talking about. She was thinking about things she could see and touch. But Jesus was speaking about spiritual things."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "He talked about water, mountains and other things as signs of spiritual truths. People’s spirits need life from Jesus just like their bodies need water. Jesus brings "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108569",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "eternal life"
+              },
+              {
+                "type": "text",
+                "text": " to people. He described this like bringing water to people who are thirsty. He taught that all people could worship God. They could do this with the Spirit’s help. There wasn’t only one place to worship. Those who believe that Jesus is the Messiah are true worshippers of God. This was true for Jews and Samaritans and it’s true for everyone."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus knew everything about the life of the woman he talked with. Most Jews wouldn’t have accepted her because she was a Samaritan. Her relationships with men were not the way the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108335",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Law of Moses"
+              },
+              {
+                "type": "text",
+                "text": " taught that they should be. Yet Jesus invited her to receive "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108559",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "living water"
+              },
+              {
+                "type": "text",
+                "text": " from him."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

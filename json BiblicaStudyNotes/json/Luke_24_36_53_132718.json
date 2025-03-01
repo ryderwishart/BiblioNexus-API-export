@@ -1,0 +1,108 @@
+{
+  "id": 132718,
+  "referenceId": 108772,
+  "name": "Luke 24:36–53",
+  "localizedName": "Luke 24:36–53",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus’ first words to his disciples after his death were words of peace. He made it very clear that he wasn’t a ghost or a spirit. He was with them again in his real body. He even ate cooked fish."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "But his closest friends didn’t recognise him right away. They knew it was him only when they saw nail prints in his hands and feet. Jesus is still a real human being. He is also somehow different than he was before. This is a wonderful mystery."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus explained that the story of his death and resurrection was in the Scriptures. The "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108198",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "stories"
+              },
+              {
+                "type": "text",
+                "text": ", laws, prophecies and poems in the Old Testament pointed to him. Jesus helped the disciples understand the Scriptures clearly. Then he gave them instructions about the work that they were to do."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus’ followers must tell the good news to others. They must preach about being forgiven and what it means to follow Jesus. They must share this message with Jews and with people from every nation."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The disciples were full of joy that Jesus was alive again. After he left them and returned to heaven, they praised God. They were ready to share the joyful story of Jesus and his salvation with others."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 132257,
+  "referenceId": 108311,
+  "name": "Stubborn",
+  "localizedName": "Stubborn",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A way to describe people who refuse to listen to God or obey him. The Bible gives examples of people who choose to be this way. It also talks about God making people stubborn. This happened with Pharaoh during the exodus. It also happened when the Canaanites attacked Joshua’s army. This doesn’t mean that God causes certain people not to believe in him. Pharaoh and the Canaanite armies had shown that they refused to believe in God. They were determined to stop what God wanted done. But God made sure that what he wanted to be done was done. He used how stubborn they were as a way of accomplishing his purposes and plans."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

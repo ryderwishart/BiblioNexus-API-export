@@ -1,0 +1,58 @@
+{
+  "id": 132454,
+  "referenceId": 108508,
+  "name": "Joshua and Zerubbabel",
+  "localizedName": "Joshua and Zerubbabel",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Jewish leaders who returned to Judah from being exiled in Babylon. They led God’s people to rebuild the temple in Jerusalem. Joshua was the son of Jozadak and served as high priest in the second temple. This is a different Joshua to the one who led the Israelites after Moses. Zerubbabel served as the governor of Judah while the Persian government was in control. He was the son of Shealtiel and was from David’s family line. Jesus is from Zerubbabel’s family line."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

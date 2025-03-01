@@ -1,0 +1,283 @@
+{
+  "id": 132915,
+  "referenceId": 108969,
+  "name": "Ephesians 2:11–22",
+  "localizedName": "Ephesians 2:11–22",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Some of the believers Paul wrote to were "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108547",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Gentiles"
+              },
+              {
+                "type": "text",
+                "text": ". They weren’t citizens of the nation of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108280",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Israel"
+              },
+              {
+                "type": "text",
+                "text": ". They lived separated from God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Other believers Paul was writing to were "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108503",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Jews"
+              },
+              {
+                "type": "text",
+                "text": ". They knew about God and God’s "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108237",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "covenants"
+              },
+              {
+                "type": "text",
+                "text": ". Yet they also lived separated from God because their "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108419",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "hearts"
+              },
+              {
+                "type": "text",
+                "text": " hadn’t been changed. That is what Paul meant about being "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108257",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "circumcised"
+              },
+              {
+                "type": "text",
+                "text": " only in their bodies."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Jews and Gentiles also lived separated from one another. Paul described it like a wall of hatred between them. The Holy Spirit works to help Jews and Gentiles "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108255",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "believe in"
+              },
+              {
+                "type": "text",
+                "text": " Jesus. When people believe in Jesus, they belong to him. Belonging to him means that they are brought close to the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108312",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Father"
+              },
+              {
+                "type": "text",
+                "text": ". This happens through the power of the Holy Spirit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "All Jews and Gentiles who belong to Jesus are "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108156",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "citizens of heaven"
+              },
+              {
+                "type": "text",
+                "text": ". They are part of God’s family. This is more important than the family or nation that people are born into. They mustn’t let hatred separate them from one another but must live together in "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108211",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "peace"
+              },
+              {
+                "type": "text",
+                "text": ". Jesus gives them peace with one another and with God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Believers are like stones in a building. All together they are like a "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108417",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "temple"
+              },
+              {
+                "type": "text",
+                "text": " and God lives among them."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

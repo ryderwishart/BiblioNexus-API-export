@@ -1,0 +1,99 @@
+{
+  "id": 132741,
+  "referenceId": 108795,
+  "name": "John 9:13–34",
+  "localizedName": "John 9:13–34",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Once again there was conflict with the religious leaders. They understood the Law of Moses in a certain way. Jesus understood it in a different way."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus had healed people on the Sabbath day before. He had already explained that this didn’t break the Law of Moses. The Pharisees couldn’t agree with one another. Some only cared about Jesus breaking the rules. Others saw proof of God’s power in the signs that Jesus did."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This story is filled with things that are the opposite of what is expected. A man who had been blind since birth could see. The Pharisees saw with their eyes but were blind to spiritual truth. They claimed to know many things but couldn’t understand how Jesus healed a man."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "A humble man with no training knew what had happened to him and who made it happen. He spoke clearly while the Pharisees remained confused. The blind man was the one teaching the religious leaders about the ways of God. They were unkind to him and threw him out of the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108051",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "synagogue"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

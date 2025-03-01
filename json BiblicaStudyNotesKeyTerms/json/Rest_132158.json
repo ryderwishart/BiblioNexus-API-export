@@ -1,0 +1,58 @@
+{
+  "id": 132158,
+  "referenceId": 108212,
+  "name": "Rest",
+  "localizedName": "Rest",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "In the Bible there are many meanings for the word rest. The first meaning is talked about in Genesis chapter 2. After God finished his work of creating the world, he rested. There was peace between God and what he created. Everything that existed had what it needed to live like God wanted it to. Another meaning is talked about in the Ten Commandments. It’s the Sabbath rest. On the seventh day of the week, Israelites were to rest instead of working. Another meaning is talked about in Psalm 95. It’s the rest the Israelites had after they were freed from slavery. God brought them to the land he promised to give them. The full meaning is talked about in Hebrews chapters 3 and 4. Jesus brings true rest to those who believe in him. They begin to enjoy Jesus’ rest when they start following him. They will enjoy it fully when he rules completely as King."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 132908,
+  "referenceId": 108962,
+  "name": "Galatians 5:1–12",
+  "localizedName": "Galatians 5:1–12",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul encouraged the Galatians to accept the freedom Jesus had given them. But that’s not what other teachers told them."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Other teachers told the Gentile believers in Galatia that males had to be circumcised. That went against what the Jewish believers in Jerusalem had decided in Acts chapter 15. Paul called these teachers troublemakers. He was angry at them for teaching things that weren’t true."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul explained why their teachings were dangerous. Jesus had already made the Gentile believers right with God. They didn’t need to be circumcised or obey Jewish laws to be right with God. If they tried to do that, they were saying no to God’s "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108235",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "grace"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul encouraged the Gentile believers to stop worrying about circumcision. He wanted them to pay attention to having faith in Jesus. He wanted them to show their faith by acting in ways that were loving."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

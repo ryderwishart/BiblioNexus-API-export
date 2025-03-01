@@ -1,0 +1,127 @@
+{
+  "id": 132890,
+  "referenceId": 108944,
+  "name": "2 Corinthians 6:11–7:1",
+  "localizedName": "2 Corinthians 6:11–7:1",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "In John chapter 15, Jesus talked about how believers are joined to him through love. Paul described how he and the Corinthian believers were also joined together by love. He made it clear that he served them because he loved them. He begged them to show him their love too."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "But they must be careful who they opened their hearts to. Paul warned them about being joined to people who don’t love and serve Jesus. Many people don’t want God’s light. They worship "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108284",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "false gods"
+              },
+              {
+                "type": "text",
+                "text": " instead of the one true God. They don’t say no to evil."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "God lives among the people who trust in Jesus. They remain "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108364",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "pure"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108361",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "holy"
+              },
+              {
+                "type": "text",
+                "text": " by following Jesus’ example for living. This means that they say no to evil."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

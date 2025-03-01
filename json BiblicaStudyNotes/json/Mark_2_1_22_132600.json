@@ -1,0 +1,116 @@
+{
+  "id": 132600,
+  "referenceId": 108654,
+  "name": "Mark 2:1–22",
+  "localizedName": "Mark 2:1–22",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "People were amazed by Jesus’ teaching and the way he healed people. But the religious leaders became angry when Jesus "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108281",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "forgave"
+              },
+              {
+                "type": "text",
+                "text": " a man’s sin. They believed that only God could forgive sin."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus was a "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108202",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "human being"
+              },
+              {
+                "type": "text",
+                "text": ". The leaders couldn’t understand that God had come to earth as a human being through Jesus. No one expected this. Jesus was showing people what God is like."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus wasn’t afraid to be with people who were ill. He wasn’t afraid of people controlled by demons either. He talked with people who sinned and shared meals with them. He brought hope to people who weren’t accepted by others."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "What Jesus taught and did wasn’t like the things that the religious leaders taught and did. It was so different that Jesus described it like new clothes or new wine. God was doing something completely new through Jesus. He was bringing life that sin and death couldn’t destroy."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

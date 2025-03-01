@@ -1,0 +1,90 @@
+{
+  "id": 132576,
+  "referenceId": 108630,
+  "name": "Matthew 21:28–46",
+  "localizedName": "Matthew 21:28–46",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus told two stories that talked about Israel as God’s vineyard. Many people who said yes to Jesus were like the first son in the first story. This included tax collectors, "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108535",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "prostitutes"
+              },
+              {
+                "type": "text",
+                "text": ", outsiders and people who were hated by others."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Israel’s leaders were like the second son in the story. They said that they would obey God but they didn’t. In the next story, God cared for his vineyard with much love and attention. He expected to find good grapes. Jesus was talking about how people should act when they have turned away from sin. The good harvest should be shown in the lives of those who trust God and obey him. But Israel’s leaders didn’t share any of the harvest with God. They were the tenants in the story who killed God’s servants and his Son. So they couldn’t stay in the vineyard."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The religious leaders were very angry when they heard this story. Jesus once again used words from Psalm 118. This part of the psalm is about an important stone. The builders didn’t want to use it in what they were making. Yet the stone was used. It became the most important stone in the building. The religious leaders were like those builders. Jesus was like the stone. Many of God’s people were refusing to accept him. Yet Jesus would become the most important part of the kingdom God was building."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 132555,
+  "referenceId": 108609,
+  "name": "Matthew 13:1–23",
+  "localizedName": "Matthew 13:1–23",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "When Jesus first began his work among the people of Israel, he spoke openly. He announced the kingdom of heaven and invited people to be part of it. But the religious leaders refused to accept his teaching. And many people in Israel doubted that Jesus really was the Messiah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Because of this, Jesus changed the way he taught in Israel. He stopped speaking plainly and instead taught by telling stories called "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108056",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "parables"
+              },
+              {
+                "type": "text",
+                "text": ". This was the start of Jesus’ third long message. It was full of parables about God’s kingdom."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus told the story about seeds in public to everyone. But he only explained it in private to his disciples. He explained that many people hear the message about the kingdom. Many of them refuse to understand it. Others hear Jesus’ message and obey him. They are like seeds that produce a good crop. Words and actions that accomplish what God wants are the good crop."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

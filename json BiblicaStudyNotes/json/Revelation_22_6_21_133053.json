@@ -1,0 +1,116 @@
+{
+  "id": 133053,
+  "referenceId": 109107,
+  "name": "Revelation 22:6–21",
+  "localizedName": "Revelation 22:6–21",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "An angel made it clear that the visions John had seen were from God. This filled John with so much wonder that he tried to worship the angel. But the angel reminded John that only God was to be worshipped."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "He also told John to share the words of the prophecy he had been given. Three times John recorded Jesus’ promises about his return. Jesus also invited everyone to wash their robes. This was a way of talking about people no longer living in their old ways. Instead they were to follow Jesus’ example for living."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "When people trust in Jesus, they can eat freely from the tree of life. The Holy Spirit and the church invite everyone to come to Jesus. Then people can drink freely of the water of life."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "John urged the believers to pay attention to the prophecy he had written down. Hearing it and turning to God would bring blessing. John said "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108191",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Amen"
+              },
+              {
+                "type": "text",
+                "text": " to Jesus’ promise to come back to earth. John closed his letter to the churches in Asia with a blessing about Jesus’ "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108235",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "grace"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

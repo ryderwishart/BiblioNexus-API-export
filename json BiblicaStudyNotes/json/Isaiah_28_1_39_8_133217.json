@@ -1,0 +1,198 @@
+{
+  "id": 133217,
+  "referenceId": 109271,
+  "name": "Isaiah 28:1–39:8",
+  "localizedName": "Isaiah 28:1–39:8",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "More of Isaiah’s messages of judgement and hope are recorded in these chapters. These judgement messages were against the northern kingdom, the southern kingdom and other nations. The main problem was that God’s people didn’t have respect for the Lord. They didn’t worship only God but also worshipped "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108284",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "false gods"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "God wanted to be their Teacher but they didn’t listen to his teachings. They made fun of God’s rules instead of obeying the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108327",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Mount Sinai"
+              },
+              {
+                "type": "text",
+                "text": " covenant. They wanted peace and "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108212",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "rest"
+              },
+              {
+                "type": "text",
+                "text": " but didn’t ask God for help when enemies attacked them. Instead they trusted other nations like Egypt to protect them."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Because of all this God would allow the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108237",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "covenant"
+              },
+              {
+                "type": "text",
+                "text": " curses to come to his people. He would use other nations to bring his judgement against them. Later he would punish those other nations for being proud. Isaiah urged God’s people to return to the Lord. This meant to turn away from their sin and repent. It meant obeying God and doing what was fair and right. By doing this, God’s people would find peace and rest."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Peace and rest were part of the messages of hope. The messages of hope described a wonderful time in the future. God would be honoured and respected and his people would enjoy the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108379",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "covenant blessings"
+              },
+              {
+                "type": "text",
+                "text": ". The Holy Spirit would be poured out on God’s people. That described how close they would be to God. God would be present with them and everyone would see God’s glory and beauty. People’s bodies would be healed and made strong. They would be safe and protected. They would have everything they needed to live well. They would live as wise and holy people who had respect for God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "The story about Assyria attacking Jerusalem is an example of what Isaiah’s prophecies were about. This story is also recorded in 2 Kings chapters 18 to 20 and in 2 Chronicles chapter 32. Assyria was God’s tool for bringing judgement against the southern kingdom. But Assyria’s leaders were proud and made fun of God. King "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108496",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Hezekiah"
+              },
+              {
+                "type": "text",
+                "text": " and Jerusalem’s leaders made themselves humble. They cried out to God to save them. God saved them from the Assyrian army. The southern kingdom had peace and rest. But Isaiah’s messages of hope weren’t completely fulfilled at that time. Isaiah announced that one day Babylon would take control of the southern kingdom."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": 133227,
+  "referenceId": 109281,
+  "name": "Jeremiah 34:1–45:5",
+  "localizedName": "Jeremiah 34:1–45:5",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "These chapters are a collection of stories from Jeremiah’s life. They include events from Jehoiakim’s rule through the time after Jerusalem was destroyed."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "These stories show something about the people and leaders of the southern kingdom. They didn’t pay any attention to what the Lord had said through Jeremiah. This was true before the Babylonian government took control of the southern kingdom and after."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The story about Rekab’s family line gave an example of faithfully obeying. Rekab’s family line faithfully obeyed the instructions of Rekab’s son Jehonadab. God used their ability to obey as an example. Compared to Rekab’s family, it was clear that God’s people refused to obey him."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Another example of this was what King Jehoiakim did after hearing God’s messages. Baruch was a secretary. He wrote down on scrolls the messages that Jeremiah had spoken for many years. Jehoiakim burnt the scrolls and tried to arrest Jeremiah and Baruch. Baruch wrote them down again with even more messages."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Later, other officials arrested Jeremiah. Some tried to kill him so that he would stop speaking God’s messages. King Zedekiah asked Jeremiah for advice. He asked Jeremiah to pray for him. Jeremiah gave him instructions about being humble and serving the king of Babylon. But Zedekiah and his officials didn’t follow those instructions. Nor did they obey the instructions in the Law of Moses about "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108258",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "slaves"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108378",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "servants"
+              },
+              {
+                "type": "text",
+                "text": ". They had promised to free their slaves but then changed their mind."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Because of these things, God allowed Nebuchadnezzar to fully destroy Jerusalem. The Babylonians treated Jeremiah well and set him free. Gedaliah was a leader who paid attention to God’s messages. He understood that the southern kingdom was supposed to serve Babylon. As governor of Judah that is what he led the people to do. But an officer from David’s family line killed Gedaliah. Then a large group of those left in the southern kingdom ran away to Egypt. They thought that they would be safe from Babylon’s armies there."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jeremiah warned them not to do this. But this group forced Jeremiah and Baruch to go with them to Egypt. In Egypt this group of Jews worshipped a false god called the Queen of Heaven. They believed that Jerusalem had been destroyed because for a time they had stopped worshipping her. This showed that they hadn’t listened to Jeremiah or understood God’s messages at all. God had promised that Baruch wouldn’t be killed when trouble came to Jerusalem. It isn’t known what happened to Jeremiah and Baruch in Egypt."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

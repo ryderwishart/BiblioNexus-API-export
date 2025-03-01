@@ -1,0 +1,58 @@
+{
+  "id": 132345,
+  "referenceId": 108399,
+  "name": "Prophecy",
+  "localizedName": "Prophecy",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "An announcement about what God wants done or about what is going to happen. These messages come from God or God’s word. They are spoken by prophets and this is called prophesying. The prophecies of many prophets before the time of Jesus were written down. They were included in the Old Testament. All together they are called the Prophets. The Holy Spirit makes some people able to prophesy. The messages are to be shared in an orderly way that people can understand. They are shared to help people who don’t know God turn to God. They are shared to encourage people who already follow God. They are shared to help people understand how to obey God faithfully."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

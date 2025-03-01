@@ -1,0 +1,58 @@
+{
+  "id": 132498,
+  "referenceId": 108552,
+  "name": "70 years",
+  "localizedName": "70 years",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A way to describe how long the southern kingdom faced the covenant curse of exile. It was a sign that the exile lasted a long time. It was also a sign that the exile wouldn’t last for ever. 70 years can describe several important periods of time. In the year 605 BC Nebuchadnezzar became king of Babylon. About 70 years later, the Persian government took control of the Babylonian government. In the year 605 BC people from Jerusalem were forced to live in Babylon. About 70 years later, a group of Jews returned to Judah from Babylon. In the year 586 BC Babylonian armies destroyed the temple in Jerusalem. About 70 years later, the Jews rebuilt the temple in Jerusalem."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

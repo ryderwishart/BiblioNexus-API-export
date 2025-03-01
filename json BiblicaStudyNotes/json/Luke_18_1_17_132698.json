@@ -1,0 +1,73 @@
+{
+  "id": 132698,
+  "referenceId": 108752,
+  "name": "Luke 18:1–17",
+  "localizedName": "Luke 18:1–17",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus told stories to teach his disciples more about prayer. The first parable taught them to be like the widow who begged for justice. God’s people should always pray to him. They can trust that he hears them and that he will answer them."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus’ disciples should also be humble when they pray. They shouldn’t use prayer to boast that they are better than others. That is what the Pharisee in Jesus’ second story did. Jesus’ disciples should be like the tax collector in the story. All who ask for God’s mercy will receive it."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Then Jesus showed the disciples another example of God’s mercy. People brought babies and little children to Jesus so that he could bless them. This bothered the disciples. They told the people to stop. But Jesus said he wants everyone to be like humble and needy babies. That way they will be able to receive the blessing of God’s kingdom."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

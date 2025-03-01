@@ -1,0 +1,58 @@
+{
+  "id": 132237,
+  "referenceId": 108291,
+  "name": "Judah",
+  "localizedName": "Judah",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A son of Jacob and Leah. In the Hebrew language his name means praise or giving thanks. Judah slept with his daughter-in-law Tamar. That is how he became the father of Perez and Zerah. Jacob’s blessing over him included a prophecy that kings would come from his family line. Both King David and Jesus the Messiah came from Judah’s family line. Judah’s family line became an important tribe in Israel. The tribe of Judah became the main tribe of the southern kingdom. The southern kingdom of the nation of Israel became known as Judah. This continued when the Babylonian government took control of the southern kingdom. That land was also known as Judah when the Persian government was in control."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

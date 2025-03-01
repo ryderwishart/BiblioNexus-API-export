@@ -1,0 +1,75 @@
+{
+  "id": 132162,
+  "referenceId": 108216,
+  "name": "Devil",
+  "localizedName": "Devil",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "The leader of all evil spiritual beings. The devil had served God in heaven. But he stopped worshipping God and started opposing what God wanted done. He could no longer be in God’s presence in heaven. The Bible described this like a star or lightning falling from heaven. In the Bible the devil is also sometimes called Satan. In the Hebrew language the word satan means the one who brings charges against others. The devil is also called the prince of this world and the prince of demons. He tells lies and accuses God’s people of doing wrong. He tries to make them be unfaithful to God. The devil has power to do evil things in the world. God’s power and authority are greater than the devil’s power. In the Garden of Eden, the devil appeared to Eve in the form of a snake. In Revelation, John described the devil as a dragon. ("
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108218",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Evil spiritual beings"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 132210,
+  "referenceId": 108264,
+  "name": "Sacrifice children",
+  "localizedName": "Sacrifice children",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "To kill children as a way of worshipping and honouring false gods. People would sacrifice children to show how committed they were to the false gods. They would also do it to get a blessing from the false gods. This practice was common in the times and places recorded in the Old Testament. The true God showed that he wasn’t to be worshipped that way. God’s laws make it very clear that human beings aren’t to be sacrificed. This includes children. Leviticus chapters 18 and 20 talk about this."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

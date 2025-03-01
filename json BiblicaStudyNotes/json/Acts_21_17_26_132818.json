@@ -1,0 +1,73 @@
+{
+  "id": 132818,
+  "referenceId": 108872,
+  "name": "Acts 21:17–26",
+  "localizedName": "Acts 21:17–26",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul’s reports about Gentile believers made the church leaders in Jerusalem very happy."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The church in Jerusalem was facing a hard question. Should Jews who believed that Jesus is the Messiah keep obeying the Law of Moses? In Jerusalem, thousands of Jews who followed Jesus also still obeyed the Law of Moses. Many of these Jewish believers thought that Paul was against that. They thought that Paul taught Jews in other places to stop obeying Jewish laws. That wasn’t what Paul taught."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul taught that faith in Jesus is what makes people part of God’s family. Paul didn’t oppose the Law of Moses. The elders asked Paul to show this in public. They hoped that doing so would help Jewish believers in Jerusalem to accept Paul."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

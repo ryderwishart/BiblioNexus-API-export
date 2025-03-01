@@ -1,0 +1,58 @@
+{
+  "id": 132166,
+  "referenceId": 108220,
+  "name": "Family line",
+  "localizedName": "Family line",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A list of people in a family. These lists were very important in the times and places of the Bible. They are also called genealogies. They included certain people in the family but not everyone. They usually included only men. The word son was a way of talking about sons, grandsons or great-grandsons. The lists sometimes included extra information or stories about certain people. Older people told the names and stories to younger people in the family. This way everyone learnt about the family line. Many family lines are recorded in the Bible. They showed what tribe an Israelite or a Jew was from. They showed whether someone could be a priest or came from a royal family."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

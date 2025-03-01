@@ -1,0 +1,58 @@
+{
+  "id": 132066,
+  "referenceId": 108120,
+  "name": "Paul’s letters",
+  "localizedName": "Paul’s letters",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul wrote letters to many believers and churches. Thirteen of these letters are in the New Testament. They include the books of Romans, 1 Corinthians, 2 Corinthians, Galatians, Ephesians, Philippians and Colossians. They also include the books of 1 Thessalonians, 2 Thessalonians, 1 Timothy, 2 Timothy, Titus and Philemon. It was common for Paul to speak out loud what he wanted to say in his letters. A helper wrote the words down. Then Paul added a final message in his own handwriting. This helped people be certain that the letters really were from him. Paul’s helpers carried letters from Paul to the churches or to other people. The church read them out loud and then shared them with other churches in the area. Paul wrote some of his letters while he was in prison."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": 132727,
+  "referenceId": 108781,
+  "name": "John 4:27–42",
+  "localizedName": "John 4:27–42",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus talked about food and harvests to teach his disciples about spiritual truths. He told them what his most important food was. It was the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108208",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "work"
+              },
+              {
+                "type": "text",
+                "text": " his "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108312",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Father"
+              },
+              {
+                "type": "text",
+                "text": " gave him to do. Obeying his Father gave Jesus spiritual strength the way that food gave his body strength."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Other workers like John the Baptist had helped prepare people for when Jesus came. These workers were the ones who planted. Those who believed in Jesus were the plants being harvested. Jesus’ disciples were busy gathering the plants that others had worked hard to plant. The Samaritans were being harvested."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The people in the town believed what the woman told them about Jesus. Even though Jesus was a Jew, the Samaritans wanted him to stay in their village. That wasn’t the way that Jews and Samaritans usually treated one another. When the Samaritans believed Jesus’ words they were changed. They understood that Jesus is the Saviour not only of the Jews. He is the Saviour of everyone who hears his message and believes in him."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 132816,
+  "referenceId": 108870,
+  "name": "Acts 20:13–38",
+  "localizedName": "Acts 20:13–38",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul encouraged the elders of the church at Ephesus and gave them final instructions. He knew he wouldn’t see them again. Everyone was very sad."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul had spent a long time teaching and leading the church in Ephesus. Other teachers would come and teach things that went against the truth about Jesus. This concerned Paul. He described these teachers as being like wolves."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The church elders in Ephesus were to be like "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108278",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "shepherds"
+              },
+              {
+                "type": "text",
+                "text": ". They were to protect the believers like a shepherd would protect sheep from wolves. They were to do this by staying faithful to the truth about Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul trusted God to take care of the church. The Holy Spirit warned Paul that he would face danger everywhere he travelled. The Spirit then led him back to Jerusalem. Paul didn’t worry about being treated badly. He cared only about obeying Jesus his Lord."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": 133239,
+  "referenceId": 109293,
+  "name": "Ezekiel 38:1-39:29",
+  "localizedName": "Ezekiel 38:1-39:29",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The messages of judgment in these chapters are an example of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108541",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "apocalyptic writing"
+              },
+              {
+                "type": "text",
+                "text": ". Ezekiel used powerful and scary pictures and signs to describe judgement. The judgement was against nations that made evil plans. They would attack Israel even though Israel hadn’t done anything wrong."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "At the same time, God was the one who brought these nations out to fight. He did this as a way to show all nations who he is. God is the Holy One in Israel. He is the Lord and King of the whole "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108215",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "world"
+              },
+              {
+                "type": "text",
+                "text": " and has power over all rulers."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "After the battle, the land would be made clean from all the dead bodies. All weapons would be burnt. These messages helped the people Ezekiel spoke to have hope for the future. They were still living in exile. But one day the time of judgement would be over. God would pour out his Spirit on them. This described how close they would be to God. God would show them his tender love."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

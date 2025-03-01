@@ -1,0 +1,127 @@
+{
+  "id": 132682,
+  "referenceId": 108736,
+  "name": "Luke 12:35–59",
+  "localizedName": "Luke 12:35–59",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus talked about his journey to Jerusalem. It was like being on his way to court with the people of Israel. He wanted them to turn away from their sins, believe in him and obey God. He wanted them to accept him as their King and Messiah. Then they could avoid judgement and punishment."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "But he knew that they would kill him. Jesus would suffer. He described it as a baptism of suffering. So judgement would come to Israel for not accepting Jesus as God’s Son. That happened when the Romans destroyed Jerusalem and the temple in "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108061",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "AD 70"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Yet Jesus promised to return to earth. He would rule for ever as the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108557",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Son of Man"
+              },
+              {
+                "type": "text",
+                "text": ". He taught his followers to be prepared to receive him. They can be sure that he will return. No one knows when that will happen. Those who follow Jesus must keep serving him faithfully while he is gone. They must stay faithful to Jesus even when they are "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108054",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "treated badly"
+              },
+              {
+                "type": "text",
+                "text": " for following him. It will be so wonderful for Jesus’ followers when their Master returns."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

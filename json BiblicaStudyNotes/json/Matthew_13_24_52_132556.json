@@ -1,0 +1,73 @@
+{
+  "id": 132556,
+  "referenceId": 108610,
+  "name": "Matthew 13:24–52",
+  "localizedName": "Matthew 13:24–52",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus’ stories taught about his work and the coming of the kingdom of heaven. Jesus’ work on earth didn’t stop evil everywhere all at once. Evil is allowed to remain along with God’s kingdom for now."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Later, judgement will come and evil will be destroyed. God’s kingdom starts in small ways. It grows and spreads through the whole world. All nations and all peoples can be part of it."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This way of understanding God’s kingdom is like a treasure. Some people recognise that Jesus is from God. They understand that his work brings God’s kingdom to earth. These people understand the value of this treasure."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

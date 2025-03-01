@@ -1,0 +1,90 @@
+{
+  "id": 132743,
+  "referenceId": 108797,
+  "name": "John 10:22–42",
+  "localizedName": "John 10:22–42",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Jewish leaders wanted Jesus to say plainly if he was the Messiah. Jesus didn’t answer the way they wanted him to. He said that the works he had done should be enough proof."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "As God’s Son he did God’s work in the world. Jesus’ works were the fourth witness to who he is. The works showed that Jesus and the Father are one. Those who believe this are Jesus’ sheep. They are protected for ever in the shelter of God's hand."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Jewish leaders were very angry at the way Jesus was talking. They tried to kill him. Jesus left Jerusalem and went back across the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108406",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "River Jordan"
+              },
+              {
+                "type": "text",
+                "text": ". People there trusted the works that Jesus did and believed in him."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

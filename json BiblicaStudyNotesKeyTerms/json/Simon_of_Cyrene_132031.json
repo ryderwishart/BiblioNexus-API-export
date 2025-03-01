@@ -1,0 +1,58 @@
+{
+  "id": 132031,
+  "referenceId": 108085,
+  "name": "Simon of Cyrene",
+  "localizedName": "Simon of Cyrene",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A man from Cyrene who carried part of Jesus’ cross. Roman soldiers made him do this. Cyrene was in the country now called Libya in Africa. Many Jews who spoke the Greek language lived there. They would travel to Jerusalem for Jewish feasts. Simon’s sons were named Alexander and Rufus. This Rufus might be the same Rufus Paul talked about in Romans 16:13."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

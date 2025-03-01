@@ -1,0 +1,133 @@
+{
+  "id": 133156,
+  "referenceId": 109210,
+  "name": "2 Chronicles 13:1-14:1",
+  "localizedName": "2 Chronicles 13:1-14:1",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "2 Chronicles records a story about "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108481",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Abijah"
+              },
+              {
+                "type": "text",
+                "text": " that wasn’t included in 2 Kings. This story describes a time when Abijah was faithful to God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Abijah didn’t want to fight against Jeroboam and the army of the northern kingdom. He wanted the northern kingdom to come back together with the southern kingdom. He wanted them to be one nation again with only one king. That king would be from David’s family line. He wanted all "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108286",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "12 tribes"
+              },
+              {
+                "type": "text",
+                "text": " of Israel to worship only God. They would all follow the laws in the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108327",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Mount Sinai"
+              },
+              {
+                "type": "text",
+                "text": " covenant about worshipping God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Abijah spoke to Jeroboam and his army about all of this. The northern kingdom opposed the southern kingdom. Abijah explained that this meant that the northern kingdom was fighting against God. This is because the southern kingdom worshipped God faithfully."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "When the battle began and Abijah’s army cried out to God, God took action. He saved them from Jeroboam’s army. God saved them even though Jeroboam’s army was much bigger."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

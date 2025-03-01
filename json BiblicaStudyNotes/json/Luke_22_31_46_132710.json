@@ -1,0 +1,99 @@
+{
+  "id": 132710,
+  "referenceId": 108764,
+  "name": "Luke 22:31–46",
+  "localizedName": "Luke 22:31–46",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "It was a time of trouble and sadness for Jesus and the disciples. Jesus knew that he was about to die. He would leave his close friends and partners. He was trying to prepare them to keep doing his work when he was gone."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "He knew they would run away and leave him to die alone. Jesus had prayed for their faith to be strong. But the disciples didn’t understand. They thought Jesus wanted them to fight with swords."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus needed them to share his sadness and to pray with him. He didn’t want to have to face what he was about to face. And he didn’t want the disciples to have to face it either. But Jesus was willing to do it."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus was going to face all the forces of evil, sin and death. Jesus’ pain was real. But he was willing to suffer. His suffering would bring "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108196",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "salvation"
+              },
+              {
+                "type": "text",
+                "text": " to everyone who believes in him."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": 132431,
+  "referenceId": 108485,
+  "name": "Jezebel",
+  "localizedName": "Jezebel",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "The daughter of the king of Sidon. She married Ahab and ruled as queen of the northern kingdom of Israel. She wasn’t an Israelite. She did many evil things. She killed many prophets of God but supported many prophets of Baal ("
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle"
+                  }
+                ],
+                "text": "1 Kings 16:29–21:29"
+              },
+              {
+                "type": "text",
+                "text": "). Jezebel was also the name given to a false prophet in the church in Thyatira (Revelation 2:20). This person led many believers to sin. They claimed to have special knowledge about the devil. There may have been a woman named Jezebel doing these things. Or Jesus may have used the name to show how this person was like Queen Jezebel. This false prophet was leading people to worship false gods."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

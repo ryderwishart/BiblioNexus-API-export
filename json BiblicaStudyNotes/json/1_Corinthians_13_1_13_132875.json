@@ -1,0 +1,99 @@
+{
+  "id": 132875,
+  "referenceId": 108929,
+  "name": "1 Corinthians 13:1–13",
+  "localizedName": "1 Corinthians 13:1–13",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The gifts and abilities that the Spirit gives believers must be used with love. Love isn’t a spiritual gift. Love is a way of living. It’s the way that Jesus taught his followers to live. Paul called it the law of Christ."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "He mentioned several ways that people don’t show love. These ways include wanting what belongs to others and bragging. They include people being full of pride and taking care of themselves before others. The Corinthian believers were doing all these things."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Then Paul described the ways of thinking, feeling and acting that are based on love. Love lasts for ever. Spiritual gifts will not last for ever. They are part of the world people live in now that isn’t yet complete. Paul talked about a time when what is complete will come. He was talking about the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108543",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "new creation"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "There is a big difference between the world now and the new creation. It’s the difference between looking through a mirror that isn’t clear and looking straight at something. Believers wait with faith and hope for the new creation. As they wait, they follow Jesus’ way of love."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

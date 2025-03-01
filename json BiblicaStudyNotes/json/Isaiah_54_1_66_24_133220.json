@@ -1,0 +1,176 @@
+{
+  "id": 133220,
+  "referenceId": 109274,
+  "name": "Isaiah 54:1–66:24",
+  "localizedName": "Isaiah 54:1–66:24",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The last chapters in Isaiah described what would happen to people who did things God hated. God hated it when his people only acted as if they worshipped and obeyed him. But what they actually did was commit "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108223",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "murder"
+              },
+              {
+                "type": "text",
+                "text": ". They told lies and treated needy people badly. God hated it when people made evil plans and worshipped false gods. God longed for his people to stop sinning and to obey him. God described his longing like holding out his hands to welcome a "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108311",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "stubborn"
+              },
+              {
+                "type": "text",
+                "text": " nation."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "God promised to bring judgement against his people for their sins. They would suffer and would be put to shame. He also invited them to change so that they could live. He described this like buying food and drink from him at a market. But God gave the food and drink for free. That showed how deeply God wanted them to turn back to him and be forgiven."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The last chapters in Isaiah also described what would happen to people who obeyed God. People who obeyed were humble, trusted God and wanted to be taught by him. They would be blessed and would be welcome in God’s house. That was another name for the temple. God promised to live with anyone who turns away from their sins. This promise applied to people from Jacob’s family line, to "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108369",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "outsiders"
+              },
+              {
+                "type": "text",
+                "text": " and to people from all nations. They would possess God’s holy mountain of Zion. This meant that they could live in the land where God ruled as King."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "God described the light and brightness and new day of Jerusalem. He was talking about something more than the time when people returned to Jerusalem from Babylon. God described a completely new work that he would do. He would create new "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108201",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "heavens"
+              },
+              {
+                "type": "text",
+                "text": " and a new earth. In the new heavens and new earth, everyone would honour God. This was described as people from all over the world coming to Jerusalem. They would worship God there. This Jerusalem that God described would be full of joy. There would be no more crying. No one would cause harm or destroy anything or anyone. Everyone would do what was right and fair. God would do this new work when it was the right time."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Many years later Jesus said that God was starting that new work through him. Jesus used the words of Isaiah 61:1–2 to describe the work he was doing on earth (Luke 4:14–21). In Revelation, John also described the new heavens and new earth. The city where God ruled for ever as King was called the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108549",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "new Jerusalem"
+              },
+              {
+                "type": "text",
+                "text": " (Revelation 21:1–5)."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 132822,
+  "referenceId": 108876,
+  "name": "Acts 24:1–27",
+  "localizedName": "Acts 24:1–27",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul argued against the charges made by the Jewish religious leaders. Paul was a faithful Jew who believed the Jewish Scriptures. But Paul and the Jewish leaders disagreed about Jewish ways of life."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul followed the Way of Jesus and the religious leaders didn’t. This wasn’t a disagreement that the Roman government needed to judge. Paul also challenged the Roman governor Felix with the message about Jesus. He explained how followers of Jesus should live. He talked about the judgement that is coming."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Felix treated Paul well but he didn’t set him free. Being fair to Paul wasn’t important to Felix. He wanted money and wanted to do the Jewish leaders a favour."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

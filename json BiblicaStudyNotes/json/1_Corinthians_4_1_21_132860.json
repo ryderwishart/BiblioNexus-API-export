@@ -1,0 +1,90 @@
+{
+  "id": 132860,
+  "referenceId": 108914,
+  "name": "1 Corinthians 4:1–21",
+  "localizedName": "1 Corinthians 4:1–21",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul used himself and Apollos as examples to describe what church leaders should be like. Church leaders are servants of Christ. God has trusted them with the job of teaching others the truth about Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul described the teachings about Jesus as mysteries. They are like a treasure that church leaders must faithfully take care of. God will judge how well they have done this. Faithful church leaders follow Jesus’ example as they teach and serve people. They often face suffering and may be thought to be weak and foolish. Even when they are "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108054",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "treated badly"
+              },
+              {
+                "type": "text",
+                "text": ", they continue doing good to those who hurt them."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "They are like spiritual parents to the people they share the good news with. As leaders they must set the example for other believers about how to serve. Yet the Corinthian believers didn’t follow Paul’s example. Many of them expected life with Jesus to be free of troubles. They thought that they would have everything they needed and wanted. And they were fighting about which church leader was better. Paul made it clear that they must stop doing that. Everything that church leaders and believers have is a gift from God. And God’s gifts are to be used to serve others."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

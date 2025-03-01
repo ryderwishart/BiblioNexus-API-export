@@ -1,0 +1,73 @@
+{
+  "id": 132633,
+  "referenceId": 108687,
+  "name": "Mark 14:32–52",
+  "localizedName": "Mark 14:32–52",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus was greatly troubled. He asked his friends to support him. He asked Peter, James and John to join him in prayer but they fell asleep. So he prayed through his troubles by himself."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus told his disciples that the hour had come. He was talking about all the suffering he was about to go through. Jesus was a human being and his struggle to accept the suffering was real. Yet giving up his life was the reason he had come to earth. That is how he would bring salvation. So he trusted himself to God and did what God wanted done."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "After Jesus finished praying, Judas Iscariot handed him over to people who hated him. Jesus had never used violence against the people of Israel as he worked among them. And he wasn’t a rebel fighting against Rome. But he was still arrested. The disciples were very scared. They all ran away to protect themselves. This happened just as Jesus had said it would."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

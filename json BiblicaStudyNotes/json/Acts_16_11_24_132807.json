@@ -1,0 +1,99 @@
+{
+  "id": 132807,
+  "referenceId": 108861,
+  "name": "Acts 16:11–24",
+  "localizedName": "Acts 16:11–24",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul and his companions landed in "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108126",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Philippi"
+              },
+              {
+                "type": "text",
+                "text": ". Wherever Paul visited he first shared God’s word with the Jews."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In Philippi this happened at a place of prayer instead of in a synagogue. A woman named Lydia and her family believed Paul’s message about Jesus. Lydia welcomed Paul and his companions into her home."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Another woman met Paul and his companions on their way to pray. She was controlled by an evil spiritual being. The evil spirit told her what would happen in the future. This woman was a slave. She was controlled by men who used her knowledge of the future to make money."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul commanded the evil spirit to come out of the woman. That made her owners angry. They brought false charges against Paul and Silas for teaching against Roman laws. Paul and Silas were punished and put in jail even though they weren’t guilty."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

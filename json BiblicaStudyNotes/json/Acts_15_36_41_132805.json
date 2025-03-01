@@ -1,0 +1,95 @@
+{
+  "id": 132805,
+  "referenceId": 108859,
+  "name": "Acts 15:36–41",
+  "localizedName": "Acts 15:36–41",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul and Barnabas had helped bring peace among Gentile and Jewish believers. Then they disagreed about taking John Mark on their next trip to share God’s word."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The disagreement between Paul and Barnabas wasn’t like the disagreement about circumcision. The decision about circumcision was important for how all Gentile believers followed Jesus. The Holy Spirit helped the church leaders agree about what to do."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The decision about Mark was only between Paul and Barnabas. They argued and then separated. But the Holy Spirit kept working through both men to spread the message about Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108120",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Paul’s letters"
+              },
+              {
+                "type": "text",
+                "text": " showed that Paul, Mark and Barnabas later became friends once again. They kept working together to strengthen God’s church."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

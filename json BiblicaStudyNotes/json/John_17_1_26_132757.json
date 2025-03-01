@@ -1,0 +1,73 @@
+{
+  "id": 132757,
+  "referenceId": 108811,
+  "name": "John 17:1–26",
+  "localizedName": "John 17:1–26",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus knew that he was about to be put to death. Before that happened, he spent time praying. Jesus’ prayer showed the close relationship between Jesus and his Father. He prayed first about the many things he shares with his Father. They share glory, authority, eternal life and their work."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Next Jesus prayed for his disciples. He asked God to keep them safe in a world that is full of hate. Jesus prayed for their relationships with one another. He wanted them to be one as he and the Father are one. He also wanted them to be full of his joy."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Then Jesus prayed for all who would follow him in the future. Jesus wants his followers to be joined together as one by their love for him. Jesus talked about how this helps the world. He was talking about people in the world who don’t know him yet. It helps them understand how much God loves them. When Jesus’ followers disagree about who he is, others don’t learn to know Jesus. It makes it hard for others to trust Jesus’ words. Jesus is eager to share his glory and his love with all who trust in him."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

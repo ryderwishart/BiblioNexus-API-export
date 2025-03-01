@@ -1,0 +1,150 @@
+{
+  "id": 133000,
+  "referenceId": 109054,
+  "name": "1 Peter 4:1–19",
+  "localizedName": "1 Peter 4:1–19",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Peter described the way that the believers he was writing to had once lived. It was very different from how God wanted them to live. Unbelievers around them wanted them to keep living in those evil and sinful ways. But Peter reminded the believers that their life on earth wouldn’t last much longer. So they were to do what God wants done on earth while they could."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This included praying, welcoming people into their homes and loving others deeply. It included receiving the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108235",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "grace"
+              },
+              {
+                "type": "text",
+                "text": " and strength that God gave them. It included using the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108149",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "gifts of the Spirit"
+              },
+              {
+                "type": "text",
+                "text": " to serve others."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The lives of Christians included suffering while they lived on earth. This shouldn’t be a surprise since Christ suffered and they were following his example. In Peter’s time, some believers had been put to death for following Jesus. Acts chapters 7 and 12 talk about this. Their death was the result of being judged by other "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108202",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "human beings"
+              },
+              {
+                "type": "text",
+                "text": ". Peter called that being judged by human standards."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Peter encouraged the believers that God himself would judge those who treated them badly. Even if a believer died God’s power would give life to the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108462",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "spiritual"
+              },
+              {
+                "type": "text",
+                "text": " part of them. God created them and he would be faithful to them. So Peter wanted the believers to trust God and to keep doing good."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

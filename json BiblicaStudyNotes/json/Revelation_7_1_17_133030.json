@@ -1,0 +1,210 @@
+{
+  "id": 133030,
+  "referenceId": 109084,
+  "name": "Revelation 7:1–17",
+  "localizedName": "Revelation 7:1–17",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Before the Lamb opened the seventh seal on the scroll, John saw a different seal. It was God’s official seal. Whatever was marked with this seal belonged to God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "With his ears John heard the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108183",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "number"
+              },
+              {
+                "type": "text",
+                "text": " of people that the angels marked with God’s seal. It was "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108184",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "144,000"
+              },
+              {
+                "type": "text",
+                "text": " and the people were from the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108286",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "12 tribes"
+              },
+              {
+                "type": "text",
+                "text": " of Israel."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Then with his eyes John saw the huge crowd of God’s people. They were from all times and places and there were too many to count. The Lamb’s "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108315",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "blood"
+              },
+              {
+                "type": "text",
+                "text": " was the seal of God that they had been marked with. This meant that these people believed the good news about Jesus’ sacrifice on the cross. Having this mark meant that God would bring them safely through suffering."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The elder was talking about the suffering that would come on "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108055",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "judgement day"
+              },
+              {
+                "type": "text",
+                "text": ". The four angels holding back the winds were a picture of that judgement. Being sealed as God’s people doesn’t mean that believers won’t suffer. It doesn’t mean that they won’t be killed for following Jesus. But it means that the Lamb will guide them as their "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108278",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "shepherd"
+              },
+              {
+                "type": "text",
+                "text": ". It means that God will comfort them and provide everything that they need. It means that they will be part of the crowd that worships God for ever."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "John saw God’s people standing around the Lamb and around God’s throne. Together with the angels, the elders and the living creatures, they were praising God. This was a picture of what would happen after God had judged all things. It was a picture of heaven and earth after God had made all things new. It was a picture of the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108543",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "new creation"
+              },
+              {
+                "type": "text",
+                "text": ". This vision would bring hope and strength to the churches John was writing to."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

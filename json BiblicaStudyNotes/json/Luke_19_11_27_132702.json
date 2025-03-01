@@ -1,0 +1,73 @@
+{
+  "id": 132702,
+  "referenceId": 108756,
+  "name": "Luke 19:11–27",
+  "localizedName": "Luke 19:11–27",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus had nearly reached Jerusalem. People were still confused about how God’s kingdom would come. They were expecting something big to happen when Jesus arrived in Jerusalem. What they expected wouldn’t take place."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus never said exactly what would happen. Instead, he told a story about what would happen in the future. The main point of the parable is that people must make a choice. They must decide if they accept Jesus as King."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus is the important man in the story. He would be going away. Those he rules over must keep working while he is gone. When Jesus returns, people will be held accountable for their work. Those who are faithful and continue doing God’s work will be rewarded. They will rule with King Jesus. Those who don’t will face terrible judgement."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

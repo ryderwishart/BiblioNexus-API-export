@@ -1,0 +1,58 @@
+{
+  "id": 132086,
+  "referenceId": 108140,
+  "name": "Adopted",
+  "localizedName": "Adopted",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "When someone is made part of a family that they weren’t born into. This is what happens when people trust in Jesus. God created human beings to live together with him in peace and love. They were meant to be children in his family. Humans didn’t accept God’s love but chose to follow their own ways. This meant that they didn’t belong to any family. Those who believe Jesus is the Messiah accept God’s love. They become part of God’s family again. Paul described this like being adopted as God’s children."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 132048,
+  "referenceId": 108102,
+  "name": "Paul",
+  "localizedName": "Paul",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A Jewish believer from the tribe of Benjamin who was from the city of Tarsus. In the Hebrew language he was called Saul. In the Greek language he was called Paul. He was a Roman citizen. To make money, he made tents. For many years he was a committed Pharisee. He tried to stop the church from growing. After Jesus appeared to him, he began spreading the good news about Jesus. Paul was an apostle. The New Testament includes many letters he wrote."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

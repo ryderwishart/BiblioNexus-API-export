@@ -1,0 +1,82 @@
+{
+  "id": 132851,
+  "referenceId": 108905,
+  "name": "Romans 15:1–16",
+  "localizedName": "Romans 15:1–16",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul continued giving instructions about how believers can live in peace with one another. They must treat each other the same way Jesus treated people when he was on earth. Jesus didn’t do only what was good for himself. Instead, he did what was good for other people."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "He accepted others and was a servant. When Jesus served people, this gave them the opportunity to learn about God. Jesus showed that God is real and can be trusted completely."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "God is a God of hope. He is full of mercy and wants his people to be strong in their faith. Paul prayed for God’s people to be filled with joy and peace. The Holy Spirit fills God’s people with hope. They also find joy and hope when they read the Scriptures."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul showed how the promises God made to Israel included blessings for all nations. God’s mercy, joy, hope and peace are for all people who trust in him. Believers may be very different from one another. Yet giving glory to God brings them together as one."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

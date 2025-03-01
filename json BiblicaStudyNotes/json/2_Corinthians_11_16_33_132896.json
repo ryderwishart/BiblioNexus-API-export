@@ -1,0 +1,108 @@
+{
+  "id": 132896,
+  "referenceId": 108950,
+  "name": "2 Corinthians 11:16–33",
+  "localizedName": "2 Corinthians 11:16–33",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The super-apostles bragged a lot. They claimed to have more gifts and abilities than Paul. The Corinthian believers accepted them and believed them."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "So Paul spoke to the Corinthian believers in the same way that the super-apostles did. He told them about his skills and gifts. He did this to try and help them understand his work. He wanted them to understand that bragging was foolish. It wasn’t the way that the Lord would speak."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The false apostles bragged about their strength. Paul bragged about his weakness. He knew that his strength came from God and not from himself."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul didn’t force the Corinthians to obey him. He didn’t take advantage of them or hurt them. He didn’t treat them badly like the false apostles did."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul had "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108256",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "sacrificed"
+              },
+              {
+                "type": "text",
+                "text": " many things in his life to obey Jesus. He gave up the plans he had for his future. His life was often in danger. He suffered so much in his body and in his spirit. These things made Paul seem weak and unsuccessful. But Paul knew that he was serving Christ. Serving Christ is what mattered to him."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

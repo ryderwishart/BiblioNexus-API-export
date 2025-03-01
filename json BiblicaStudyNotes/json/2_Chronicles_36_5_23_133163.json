@@ -1,0 +1,181 @@
+{
+  "id": 133163,
+  "referenceId": 109217,
+  "name": "2 Chronicles 36:5–23",
+  "localizedName": "2 Chronicles 36:5–23",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "The kings after Josiah didn’t follow his example of obeying God and worshipping him only. Jehoiakim and Jehoiachin didn’t repent or make themselves humble. They didn’t do that even when they were taken to Babylon as prisoners."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Zedekiah refused to listen to God’s messages from the prophet "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108507",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Jeremiah"
+              },
+              {
+                "type": "text",
+                "text": ". God had been very patient with his people. He had shown "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108342",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "mercy"
+              },
+              {
+                "type": "text",
+                "text": " and pity over and over again. He had forgiven them every time they made themselves humble and prayed to him."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "But they were committed to following evil practices and to worshipping false gods. They refused to live as a kingdom of priests and a holy nation. They refused to listen to the prophets that God sent to them. They refused to follow God’s example for being "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108209",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "rulers"
+              },
+              {
+                "type": "text",
+                "text": " of his land. They didn’t allow the land to rest during the sabbath years. God’s instructions about the land resting were recorded in Leviticus 25:1–12."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "So God no longer stopped the covenant curses from coming to the southern kingdom. The Babylonian army destroyed Jerusalem and took control of the southern kingdom. They forced many people from the southern kingdom to live in exile in Babylonia. While the people were away, the fields of the southern kingdom weren’t farmed. That is how God provided the rest that the land needed."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "After many years, "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108502",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Cyrus"
+              },
+              {
+                "type": "text",
+                "text": " allowed the people to return to Jerusalem. He wanted them to build another temple for the Lord. This made something clear to the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108503",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Jews"
+              },
+              {
+                "type": "text",
+                "text": " who returned to Jerusalem. God still wanted them to worship him according to the laws in the Mount Sinai covenant. He still wanted them to be his people. He still wanted to be their God."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

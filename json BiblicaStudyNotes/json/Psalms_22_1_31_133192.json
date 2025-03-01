@@ -1,0 +1,99 @@
+{
+  "id": 133192,
+  "referenceId": 109246,
+  "name": "Psalms 22:1–31",
+  "localizedName": "Psalms 22:1–31",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Psalm 22 is a cry to God for help. The Israelites understood that the psalm was of David but that they could all use it. Jesus used words from this psalm when he was dying on the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108530",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "cross"
+              },
+              {
+                "type": "text",
+                "text": " (Matthew 27:46)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This psalm helped people remember what was true about God. What is true is that God is the King and he does what is right. He has more power and authority than any other ruler. God listens to those who cry to him for help and God saves them."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This psalm helped people talk about what they felt when they were suffering. The speaker felt like God was doing nothing to save him. He felt like God was far away and had deserted him. The speaker described the people who were treating him badly. They were like strong bulls, roaring lions, wild oxen and a pack of dogs. God was the only one who could rescue him from these enemies. The speaker boldly asked God why God hadn’t saved him yet."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This psalm also helped people trust God. The speaker trusted God to rescue him even though it hadn’t happened yet. He was completely sure God would do it. He knew that later he would tell others what God had done for him. This announcement would fill people with hope. It would help others praise, honour and worship God."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

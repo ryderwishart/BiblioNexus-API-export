@@ -1,0 +1,99 @@
+{
+  "id": 132535,
+  "referenceId": 108589,
+  "name": "Matthew 5:1–12",
+  "localizedName": "Matthew 5:1–12",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This was the first of Jesus’ long messages. The message began with Jesus gathering his disciples together on a mountainside. He taught them how to live as part of the kingdom of heaven."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "He started by saying what kind of people would be part of the kingdom of heaven. This kingdom is very different from how human kingdoms or governments work. It isn’t for people who are proud and think they don’t need God. It isn’t for people who use their strength to make others suffer. It isn’t for people who are only committed to their own happiness."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus knows that many people have been treated badly and are suffering. Many are sad. Many know that they need God’s help. Many people are longing for justice and peace to fill the earth. Many understand what God cares deeply about. They do what God wants done even when it’s hard."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus said all these people are blessed. They are God’s children. He will comfort them and show them "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108342",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "mercy"
+              },
+              {
+                "type": "text",
+                "text": ". They are part of the kingdom of heaven."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

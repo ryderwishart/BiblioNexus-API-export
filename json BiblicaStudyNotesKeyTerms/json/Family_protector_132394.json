@@ -1,0 +1,58 @@
+{
+  "id": 132394,
+  "referenceId": 108448,
+  "name": "Family protector",
+  "localizedName": "Family protector",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A close male relative who was responsible for helping family members in need. Another name for this is redeemer. The family protector could pay the debts of poor family members. He could buy back property they had sold. He could pay to have them or their children set free from working as servants. The family protector could also carry out the brother-in-law’s duty. He could do this for the widow of his brother. The family protector was a picture of how God took care of Israel. God was like the family protector who rescued the Israelites when they were in need. The family protector is also a picture of what Jesus does. He’s like the family protector who rescues sinners who are in need. He redeems all who trust in him. He buys them back them from the power of sin, death and evil."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

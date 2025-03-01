@@ -1,0 +1,73 @@
+{
+  "id": 132681,
+  "referenceId": 108735,
+  "name": "Luke 12:13–34",
+  "localizedName": "Luke 12:13–34",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus saw that many people thought only about what they had or didn’t have. They only cared about what they needed and wanted right then."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus told them to stop worrying about things that don’t last. He wants his followers to desire the things that God desires. They shouldn’t care about owning a lot of things or being rich in money. They mustn’t be concerned only about themselves. They must give freely to the poor. That is what Jesus meant about being rich in the sight of God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus also taught that God takes care of the plants and animals. All of God’s creatures can trust him to provide for them. People must care about the things that God cares about. That is how they can be part of God’s kingdom."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

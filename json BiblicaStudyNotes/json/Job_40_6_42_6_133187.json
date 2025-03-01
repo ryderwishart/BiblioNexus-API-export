@@ -1,0 +1,73 @@
+{
+  "id": 133187,
+  "referenceId": 109241,
+  "name": "Job 40:6–42:6",
+  "localizedName": "Job 40:6–42:6",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In his second answer to God Job recognised something important. He hadn’t understood what he was talking about when he spoke with his friends. He had talked about things that were too wonderful for him to know. This means that they were things that human beings can’t understand."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Recognising this made Job humble. Job said that he hated himself. This doesn’t mean that Job thought he was a terrible person. It doesn’t mean that he had no love for himself. It means that he no longer wanted to argue against God. Job stopped bringing charges against God for treating him unfairly."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "God had showed Job how much care he takes of all of his creatures. Job came to understand that he was one of God’s creatures. So Job understood that he could trust God because God was his creator. God had shown himself to Job. When Job heard and understood God, he saw that God was worthy of his trust."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

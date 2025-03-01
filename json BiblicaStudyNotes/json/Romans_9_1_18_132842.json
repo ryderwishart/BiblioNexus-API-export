@@ -1,0 +1,107 @@
+{
+  "id": 132842,
+  "referenceId": 108896,
+  "name": "Romans 9:1–18",
+  "localizedName": "Romans 9:1–18",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul was part of the people of Israel. They refused to accept that Jesus is the Messiah sent by God. Paul was deeply sad about this. He would have given up Jesus’ love for him to help Israel accept Jesus. But that wouldn’t have helped."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "God gave Israel many gifts like the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108417",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "temple"
+              },
+              {
+                "type": "text",
+                "text": ", the law and his promises. Yet many people in Israel didn’t believe that Jesus is the Messiah. This didn’t mean that God’s word and his covenants had failed. God is faithful and what he says is true."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "God had chosen to work through Abraham in his plan for saving the world. God wanted Abraham’s family line to receive his mercy and love. God continued his plan through Abraham’s son "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108261",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Isaac"
+              },
+              {
+                "type": "text",
+                "text": " and Isaac’s son Jacob. But being in Jacob’s family line isn’t what makes someone God’s child. All who accept God’s mercy and love are God’s children."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

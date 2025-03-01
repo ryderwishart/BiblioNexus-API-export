@@ -1,0 +1,65 @@
+{
+  "id": 131991,
+  "referenceId": 108045,
+  "name": "God’s family",
+  "localizedName": "God’s family",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "The relationship that God wants with all human beings. God’s family is different from human families. In the times and places of the Bible, families were usually led by older men. Families included older women, younger men and women and children. Slaves were also part of the household. The men had authority over women and children. Slave owners had authority over slaves. This system is what the nations and people groups of that time were based on. The gospels, Paul’s letters and Peter’s letters explained what God’s family is like. People who follow Jesus all belong to the family of God. God adopts them as his children. Each family member is loved and accepted by God. So they must treat one another with respect and love. "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle"
+                  }
+                ],
+                "text": "Some believers have authority over others. They must use it to bless and serve others. Some believers do not have authority over others. They should do everything they do as if they are serving Jesus."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

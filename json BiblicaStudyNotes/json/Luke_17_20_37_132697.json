@@ -1,0 +1,141 @@
+{
+  "id": 132697,
+  "referenceId": 108751,
+  "name": "Luke 17:20–37",
+  "localizedName": "Luke 17:20–37",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Many Jews thought that God’s rule on earth would start right when the Messiah came. The Pharisees asked Jesus when this would happen. Jesus said that God’s kingdom was already among them. He had brought God’s kingdom. The Pharisees didn’t believe that. They didn’t believe Jesus was the Son of Man sent by God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus said that one day everyone would recognise the truth about who he is. But first he had to suffer. He was talking about his death on the cross. Because most Jews didn’t accept him, they would face judgement. Jesus warned his disciples about this time of judgement that was coming. It would be like times of judgement in the past. People weren’t ready for the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108234",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "flood"
+              },
+              {
+                "type": "text",
+                "text": " that destroyed the world in "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108230",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Noah"
+              },
+              {
+                "type": "text",
+                "text": "’s time. People weren’t ready for the fire and sulphur that destroyed cities in "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108248",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Lot"
+              },
+              {
+                "type": "text",
+                "text": "’s time. And people wouldn’t be ready for the judgement that came to Israel."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "But Jesus told his disciples about it before it came so they could be ready. In the future Jesus will return to earth and rule over everyone and everything. Jesus’ followers live with hope looking forward to when that will happen. They keep following his example of giving their lives for others. Following Jesus faithfully is the best way to be ready for "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108065",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Jesus’ return"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

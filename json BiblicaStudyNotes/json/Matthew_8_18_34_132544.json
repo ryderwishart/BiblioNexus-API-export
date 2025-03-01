@@ -1,0 +1,73 @@
+{
+  "id": 132544,
+  "referenceId": 108598,
+  "name": "Matthew 8:18–34",
+  "localizedName": "Matthew 8:18–34",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "When people saw that Jesus had authority, some chose to follow him. Others made excuses not to follow him. Jesus explained that choosing to follow him is the most important decision someone can make. It can also be the hardest choice."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Then Jesus got into a boat with his disciples. The disciples were afraid when a storm came. Jesus calmed the winds and waves. The disciples were amazed that Jesus had authority over the storm. Jesus’ power brought peace to the lake."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "On the other side of the lake, Jesus brought peace to two men. He drove out the demons that controlled them. The people in that town saw Jesus’ authority over the demons. They didn’t want Jesus to stay in their area."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "id": 132981,
+  "referenceId": 109035,
+  "name": "Hebrews 12:1–17",
+  "localizedName": "Hebrews 12:1–17",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The author of Hebrews described the life of faith like a long journey or race. The people who have already run the race faithfully are all around the believers. They are the huge "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108166",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "cloud of witnesses"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "To run the race well, several things are necessary. First, believers must be free of anything that keeps them from being faithful to Jesus. Second, believers must keep on running. This means that they must be patient and committed for as long as they are alive. Third, believers must keep looking to Jesus. Constantly remembering Jesus’ example of being faithful to God gives them strength to go on."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Next, they must accept hard times as training for a life of faith. Sometimes hard times come because believers are treated badly for following Jesus. Sometimes they come because of God’s "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108233",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "judgement"
+              },
+              {
+                "type": "text",
+                "text": ". God brings judgement against sin because he loves his children. He brings it to help his children with "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108044",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "holy living"
+              },
+              {
+                "type": "text",
+                "text": ". Believers need God’s grace as they struggle against sin and try to be holy."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108269",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Esau"
+              },
+              {
+                "type": "text",
+                "text": " hoped to receive Isaac’s blessing. It would have come to him in the future. But Esau wasn’t patient or committed to working hard for what he hoped to receive. He gave the future blessing away in exchange for something he wanted right away. This story is told in Genesis 25:29–34."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus gave believers a different example. Jesus was willing to suffer as he lived a faithful life. He kept on going. He was looking forward to the joy of being with God his Father."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

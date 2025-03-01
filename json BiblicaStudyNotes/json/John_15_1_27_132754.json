@@ -1,0 +1,99 @@
+{
+  "id": 132754,
+  "referenceId": 108808,
+  "name": "John 15:1–27",
+  "localizedName": "John 15:1–27",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus spoke to his disciples about vines and branches. He said I am the true vine. This was his last I am statement in John’s gospel."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus wants his followers to remain connected to him like branches are to a vine. That is the only way they can bear the fruit that God wants from them. That fruit is love for each other. It’s also doing the works that Jesus did as he taught and served people."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus was teaching the disciples his way of love. His way is to give his own life for others. He trusted the disciples as his friends. He shared with them the love between the Father and himself."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "But Jesus warned them about people who don’t "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108355",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "love God"
+              },
+              {
+                "type": "text",
+                "text": ". Those who don’t love Jesus don’t love God. They won’t love Jesus’ followers either. Jesus didn’t want the disciples to be surprised when some people hated them. When that happened, the Holy Spirit would help them. The Spirit would be their friend like Jesus was their friend."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": 132691,
+  "referenceId": 108745,
+  "name": "Luke 15:11–32",
+  "localizedName": "Luke 15:11–32",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The third story Jesus told about lost things was about a father and his sons. The younger son’s words and actions were shocking. He asked for his share of the family property while his father was still alive. That was the same as wanting his father to be dead. Then he left his family and wasted all his money living a sinful life."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Soon his money and his pride were gone. He was so poor that he ate the pig’s food. Then he repented. He stopped living in sinful ways and returned to his father. The father forgave his younger son and was so glad he was home."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Many people who were listening to Jesus were like the younger son. They hadn’t paid attention to God’s ways and were living sinful lives. Jesus asked them to turn away from their sin and live close to God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Israel’s leaders were like the older brother in the story. He was angry that a feast was held for his sinful younger brother. Israel’s leaders saw Jesus accepting people who were sinful and unclean. They saw him sharing God’s love with them. The leaders didn’t want that to happen. But God is delighted when his lost children come to him. There is so much joy in heaven when people turn away from their sin. That is what all three stories in Luke chapter 15 are about."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

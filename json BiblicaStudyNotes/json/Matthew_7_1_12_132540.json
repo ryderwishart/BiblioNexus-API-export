@@ -1,0 +1,73 @@
+{
+  "id": 132540,
+  "referenceId": 108594,
+  "name": "Matthew 7:1–12",
+  "localizedName": "Matthew 7:1–12",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus wanted his people to live holy lives full of love. He said in a few words what the entire Old Testament teaches. People must treat others the way they want to be treated. When they do, they are part of God’s kingdom coming on earth."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "They are part of the community of people who believe that Jesus is the King. But some people think that God’s instructions for living give them authority to judge others. They believe they can decide who God needs to bring judgement against. This isn’t what God wants. Only God makes decisions about judgement."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "His children must be humble, wise and full of mercy. That way they can help others. God has good gifts to give and longs for all people to ask for them. He wants all people to search for his kingdom and be part of his family."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

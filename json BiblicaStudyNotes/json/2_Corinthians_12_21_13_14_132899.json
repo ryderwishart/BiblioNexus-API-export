@@ -1,0 +1,73 @@
+{
+  "id": 132899,
+  "referenceId": 108953,
+  "name": "2 Corinthians 12:21–13:14",
+  "localizedName": "2 Corinthians 12:21–13:14",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Some of the Corinthian believers refused to turn away from sin. Paul asked them to decide if they wanted to follow Jesus or not. He called this testing themselves. If they really were believers, they would repent."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul was willing to use his authority as an apostle to correct them. He would boldly oppose all the ways they were being unfaithful to Jesus. But he hoped he wouldn’t have to do that. He hoped they would turn away from sin before his next visit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul ended his letter with words of hope for the Corinthian believers. The Holy Spirit makes it possible for God’s people to share life together. God gives them the love and grace they need to live in peace."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

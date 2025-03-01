@@ -1,0 +1,58 @@
+{
+  "id": 132271,
+  "referenceId": 108325,
+  "name": "Wisdom",
+  "localizedName": "Wisdom",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Skill, ability, knowledge and understanding about something. Wisdom from God includes good sense and being able to tell right from wrong. It includes knowing what is right and fair and doing it. It includes taking the action needed when it’s needed. It’s based on respecting God. Wisdom is the opposite of foolishness. Wisdom from God is a spiritual blessing that God gives to his people. The book of Proverbs described how wisdom was part of God creating the world. 1 Corinthians 1:30 describes Jesus as God’s wisdom."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

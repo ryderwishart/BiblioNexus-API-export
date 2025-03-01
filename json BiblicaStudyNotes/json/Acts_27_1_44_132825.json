@@ -1,0 +1,99 @@
+{
+  "id": 132825,
+  "referenceId": 108879,
+  "name": "Acts 27:1–44",
+  "localizedName": "Acts 27:1–44",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This was the start of Paul’s fourth journey. It was different from his first three journeys. This time he went where Roman soldiers took him. Yet he still shared the good news about Jesus everywhere he went."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The journey to Rome by "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108072",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "sea"
+              },
+              {
+                "type": "text",
+                "text": " began with high winds blowing against the ship. Paul warned the commander of the ship about the danger. There was a terrible storm and the sailors couldn’t control the ship. In a vision, an angel told Paul that he would speak to Caesar in Rome."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul made it clear to everyone that God is more powerful than storms. God would save them all from dying at sea. But they needed to stay together to be saved. The sailors shouldn’t try to escape. The prisoners shouldn’t be killed. They all needed to eat so that they would have strength to survive the storm. Everyone arrived safely on the nearby shore."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Even when Paul faced danger he wasn’t worried about his own life. He trusted God and continued doing God’s work."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 132820,
+  "referenceId": 108874,
+  "name": "Acts 22:1–30",
+  "localizedName": "Acts 22:1–30",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The crowd only became quiet when Paul started speaking to them in the Aramaic language ("
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108434",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Aram"
+              },
+              {
+                "type": "text",
+                "text": "). This language was common among Jews but not among Roman soldiers."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul talked about how committed he had always been to study and obey Jewish laws. He used to be just like the crowd that was trying to harm him. He had tried very hard to harm believers. But after the Messiah appeared to him, Paul started to pray to Jesus. His sins were forgiven and he was baptised."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Later Jesus warned him that Jews in Jerusalem wouldn’t accept his message. So Jesus sent Paul to tell other nations about the Jewish Messiah. The crowd was very angry when Paul said this. They started shouting again. They thought that Paul was dangerous. They believed that he wanted to destroy their Jewish way of life."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "It was against the law to harm a Roman citizen without a trial. When the Roman commander learnt that Paul was a citizen, he was worried. They had put Paul in chains and almost whipped him. The commanding officer was surprised that Paul was a Roman citizen. He wanted to understand the problem between the Jews and Paul."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 132093,
+  "referenceId": 108147,
+  "name": "Christ’s law",
+  "localizedName": "Christ’s law",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A way of talking about following Jesus’ example for how to live. Jesus commanded his disciples to love God with all their heart, soul, strength and mind. He commanded them to love their neighbour as themselves (Luke 10:27). While he lived on earth, Jesus showed them how to do this. Jesus loved and obeyed his Father. He sacrificed himself for the good of others. He gave up his rights to save the world. He served others to show them how much God loves them."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

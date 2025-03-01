@@ -1,0 +1,81 @@
+{
+  "id": 133130,
+  "referenceId": 109184,
+  "name": "1 Samuel 24:1–26:25",
+  "localizedName": "1 Samuel 24:1–26:25",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Saul chased David for a long time to try and kill him. Twice David had the opportunity to kill Saul. Both times his soldiers encouraged him to do it. But David respected Saul because God had chosen him to be Israel’s first king. David wouldn’t harm someone who was anointed to serve God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "But David did want to harm Nabal for treating him unkindly. David made a foolish and violent promise to kill all the men in Nabal’s household. "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108460",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Abigail"
+              },
+              {
+                "type": "text",
+                "text": " was a wise and brave woman. Her words encouraged David not to kill his enemy. When Nabal died soon after, David wasn’t guilty of his death."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

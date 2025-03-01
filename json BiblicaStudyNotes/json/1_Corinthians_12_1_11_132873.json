@@ -1,0 +1,81 @@
+{
+  "id": 132873,
+  "referenceId": 108927,
+  "name": "1 Corinthians 12:1–11",
+  "localizedName": "1 Corinthians 12:1–11",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Holy Spirit helps people recognise that Jesus is Lord and King. Once someone believes in Jesus, the Holy Spirit lives inside them. The Spirit knows them and helps them to live for Jesus and serve him."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Holy Spirit also gives gifts to believers. The "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108149",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "gifts of the Spirit"
+              },
+              {
+                "type": "text",
+                "text": " help believers serve one another. The Spirit decides which gift to give to each person. One gift isn’t better than another. Each gift is special and important. They all come from the Holy Spirit. They are all to be used to strengthen the faith of Jesus’ followers."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

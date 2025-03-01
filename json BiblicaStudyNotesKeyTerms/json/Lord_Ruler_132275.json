@@ -1,0 +1,58 @@
+{
+  "id": 132275,
+  "referenceId": 108329,
+  "name": "Lord - Ruler",
+  "localizedName": "Lord - Ruler",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A title for a ruler, leader or master. It’s used as a title for God in the Bible. It means that God has authority over everything and everyone. In New Testament times, lord was used as a title for the Roman emperor. It meant that Caesar had authority everywhere that the Roman government was in control. Jesus’ followers called him Lord. This meant that they recognised that Jesus is God. They recognised that Jesus has complete authority over everything and everyone. Jesus’ followers challenged the authority of Caesar when they called Jesus Lord."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

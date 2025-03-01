@@ -1,0 +1,86 @@
+{
+  "id": 132713,
+  "referenceId": 108767,
+  "name": "Luke 23:8–25",
+  "localizedName": "Luke 23:8–25",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus didn’t answer any of Herod Antipas’ questions. He was hoping Jesus would perform a miracle but Jesus didn’t do any. So he made fun of Jesus for being a false king."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "He and Pilate both agreed that there was no basis for the charges against Jesus. But they wanted to benefit from what was happening. They wanted to keep the Jewish leaders and the angry crowd happy."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108076",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Barabbas"
+              },
+              {
+                "type": "text",
+                "text": " had done the things that the religious leaders accused Jesus of doing. Luke made it very clear that Barabbas was guilty and Jesus wasn’t guilty. Yet Pilate agreed to put Jesus to death and to set Barabbas free."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

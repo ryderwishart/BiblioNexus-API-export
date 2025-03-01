@@ -1,0 +1,58 @@
+{
+  "id": 132387,
+  "referenceId": 108441,
+  "name": "Gilead",
+  "localizedName": "Gilead",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "The hill country east of the River Jordan. Part of it belonged to the kingdom of Sihon. Another part belonged to the kingdom of Og. That was before the Israelites won the battles over Sihon and Og. It was named after Gilead who was from the family line of Manasseh. It had rich soil and was good for raising livestock. It wasn’t part of the land God had promised to give Abraham’s family line. But God allowed some tribes to lived there. These were the tribes of Reuben and Gad and half of the tribe of Manasseh."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

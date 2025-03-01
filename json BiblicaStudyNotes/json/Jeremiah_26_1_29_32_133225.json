@@ -1,0 +1,125 @@
+{
+  "id": 133225,
+  "referenceId": 109279,
+  "name": "Jeremiah 26:1–29:32",
+  "localizedName": "Jeremiah 26:1–29:32",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "While Jehoiakim was king, a group of priests, prophets and officials almost killed Jeremiah. While Zedekiah was king, Hananiah tried to prove that Jeremiah was telling lies. Hananiah was a false prophet. He spoke a message that went against Jeremiah’s messages. Shemaiah was also a false prophet. He lived in "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108495",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "exile"
+              },
+              {
+                "type": "text",
+                "text": " in Babylon. He told the Jews in Babylon messages that went against Jeremiah’s messages."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "These examples show something about the people and leaders of the southern kingdom. They strongly opposed Jeremiah and his messages. They did this before and after the Babylonian government took control of the southern kingdom. Jeremiah’s letter was to people from the southern kingdom living in Babylon. They were the first group of Jews that Nebuchadnezzar had forced to leave "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108291",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Judah"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jeremiah explained how God wanted the Jews to live during the exile. God wanted them to accept that the exile was the judgement he had promised to bring. He wanted them to accept how long it would last. They would show they accepted these things by making Babylon their home. They would make it their home by building houses, having families and planting gardens. They would make it their home by working hard there and praying for the city. God planned for them to have success in Babylon. They didn’t need to fear that God would bring them harm while they were there. He wanted them to have hope during their time in exile."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "His people would find him when they looked for him with all their heart. This was true even though they were far from Jerusalem and from the temple. Solomon had prayed about this when the temple was set apart for God (1 Kings 8:46–51). God also wanted his people to have hope for when the exile would end. He wanted them to trust that he would bring them back to Judah. God would do that after 70 years."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "But the Jews in Babylon didn’t want to accept these things. They wanted to pretend that they would be back in Judah very soon. They wanted to pretend that life in Judah would be better than life in Babylon. This was a way of pretending that God wasn’t bringing judgement against his people. It was a way of pretending that they hadn’t sinned against God. This is what it meant that the Jews in Babylon had not listened."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": 132580,
+  "referenceId": 108634,
+  "name": "Matthew 23:1–39",
+  "localizedName": "Matthew 23:1–39",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus spoke words of judgement against a group of Israel’s leaders. The teachers of the law and the Pharisees sat in the seat of Moses. This meant they had authority to teach the people like Moses did. But this group of Israel’s leaders were pretenders."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "On the outside they looked clean and holy. Yet on the inside they were full of sin and hatred. They cared about looking powerful and important. They didn’t really care about helping the people they led."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108214",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Seven"
+              },
+              {
+                "type": "text",
+                "text": " times Jesus warned them how terrible the judgement against them would be. This group of religious leaders refused to accept Jesus. This made Jesus very sad."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "He longed to take care of God’s people like a hen protects her baby chicks. But the leaders didn’t want Jesus to share God’s tender love with people."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

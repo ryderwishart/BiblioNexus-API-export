@@ -1,0 +1,73 @@
+{
+  "id": 132574,
+  "referenceId": 108628,
+  "name": "Matthew 21:1–17",
+  "localizedName": "Matthew 21:1–17",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "For the first time in Matthew’s gospel, Jesus openly acted as Israel’s King and Messiah. He rode into Jerusalem in victory. But even in victory Jesus was gentle. He rode a donkey and not a war horse."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The crowds covered the road with their coats and with palm branches. These were common ways that Jews welcomed people and celebrated victory. The crowds also sang an important song from Psalm 118. This song was hundreds of years old. It’s about how God comes to save his people who are suffering. Singing it about Jesus meant that Jesus was God’s answer to his people’s troubles."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus accepted being called the Son of David. This was a way of announcing that he is the King. Then with royal authority Jesus entered the temple. The temple wasn’t being used in a way that honoured God. Many people were using the temple to make money. They weren’t using it as a place of prayer. Jesus forced them to leave. Jesus made sure that it was once again used as a place of praise and healing."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

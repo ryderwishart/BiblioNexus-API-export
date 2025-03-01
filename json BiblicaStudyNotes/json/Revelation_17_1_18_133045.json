@@ -1,0 +1,99 @@
+{
+  "id": 133045,
+  "referenceId": 109099,
+  "name": "Revelation 17:1–18",
+  "localizedName": "Revelation 17:1–18",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The third vision John wrote about occurred in a desert. The vision was of a woman sitting on a beast. This vision described more about what happened before God’s judgement was finished in Revelation 16:17."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The woman was a "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108535",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "prostitute"
+              },
+              {
+                "type": "text",
+                "text": " and was a sign for the city of Babylon. Babylon was a sign for the government of Rome. The power behind Babylon came from the beast. This was the same beast that John saw come out of the sea in Revelation chapter 13."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This vision uncovered the evil practices of powerful groups and governments like Babylon. They appear fancy, rich and successful. They have a lot of authority on earth. Yet their power is based on doing evil deeds. They put to death those who oppose them. This includes Jesus’ followers."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The angel explained to John that Babylon’s power wouldn’t last for ever. Rulers who used to support Babylon would destroy it."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

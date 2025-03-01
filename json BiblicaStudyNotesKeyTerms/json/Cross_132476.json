@@ -1,0 +1,58 @@
+{
+  "id": 132476,
+  "referenceId": 108530,
+  "name": "Cross",
+  "localizedName": "Cross",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Two pieces of wood that were put together so that a person could be nailed onto them. The Romans killed criminals, rebels and slaves this way. This process is called crucifixion. It was done in public to bring shame to the prisoners. It was also done to make people afraid to disobey Roman laws. Dying on a cross was very painful and usually slow. Roman soldiers could make death come quicker by breaking the legs of the criminals. The cross was a sign of terror and death. Jesus talked about the cross to show how his followers must be willing to suffer."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

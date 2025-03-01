@@ -1,0 +1,58 @@
+{
+  "id": 132163,
+  "referenceId": 108217,
+  "name": "Tree of life",
+  "localizedName": "Tree of life",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A tree in the Garden of Eden. Its fruit allowed people to live for ever. Human beings weren’t allowed to eat from it after Adam and Eve sinned. Ezekiel saw trees like the tree of life in his vision of the temple (Ezekiel 47:12). In Revelation, John saw this tree in the new heaven and the new earth (Revelation 22:2). Everyone who lived in God’s Holy City could eat of it freely. This meant that they had eternal life and lived for ever with God."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

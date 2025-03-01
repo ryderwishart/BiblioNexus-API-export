@@ -1,0 +1,141 @@
+{
+  "id": 133204,
+  "referenceId": 109258,
+  "name": "Proverbs 10:1–30:33",
+  "localizedName": "Proverbs 10:1–30:33",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Many poems, sayings and proverbs are collected in this section of the book of Proverbs. Some were written or collected by people who are named. This includes "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108473",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Solomon"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108496",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Hezekiah"
+              },
+              {
+                "type": "text",
+                "text": " and Agur. Others were written or collected by people who aren’t named. This includes the sayings of a group called the wise people (Proverbs 22:17 – 24:34)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "People can become wise when God gives them wisdom. This was true in Solomon’s case. The story about this is recorded in 1 Kings 3:1–15. People can also become wise by studying the world around them. This includes studying plants, animals, weather, other people and everything God made. As people study, they gain knowledge. They come to understand many things about how life works. These are lessons or patterns that they have noticed. When knowledge and understanding are combined with respect for God, they become godly wisdom."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "For hundreds of years in Israel, wise people shared with others these lessons and patterns. They shared them through poems, sayings and proverbs. The poems, sayings and proverbs in this section give instruction about many different matters. These matters include anger, jealousy, arguing, food, honour, being humble and pride. They include relationships in family groups, between husbands and wives and between parents and children. They include relationships in communities, between men and women and between friends and "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108370",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "neighbours"
+              },
+              {
+                "type": "text",
+                "text": ". They include money and relationships between rich people and poor people. They include matters of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108208",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "work"
+              },
+              {
+                "type": "text",
+                "text": ", being lazy, farming, business and trade. They include justice and matters of courts and of government. They also include the mind, heart, mouth and ears of each person. All the instructions teach about doing what is right and fair."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

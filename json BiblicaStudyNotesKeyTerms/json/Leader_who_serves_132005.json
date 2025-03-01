@@ -1,0 +1,58 @@
+{
+  "id": 132005,
+  "referenceId": 108059,
+  "name": "Leader who serves",
+  "localizedName": "Leader who serves",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus is the example for how everyone should treat others. This includes people with authority, power and honour. It includes leaders of any group of human beings. Jesus is the King of all that God created. He came to earth to serve people so they would understand God’s love for them. He didn’t use his power and authority to force people to do what he wanted. He didn’t make people treat him like he was more important than anyone else. Instead he was humble. He showed deep concern for all people. He gave up his life to show people God’s love. All believers are to follow Jesus’ example of loving and serving others. The Holy Spirit gives Jesus’ followers different gifts and abilities to use to serve others. When believers serve others, they are also serving Jesus."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

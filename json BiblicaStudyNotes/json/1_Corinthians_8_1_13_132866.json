@@ -1,0 +1,99 @@
+{
+  "id": 132866,
+  "referenceId": 108920,
+  "name": "1 Corinthians 8:1–13",
+  "localizedName": "1 Corinthians 8:1–13",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Many people in Corinth worshipped statues of false gods. This was common throughout the lands ruled by the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108047",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Roman"
+              },
+              {
+                "type": "text",
+                "text": " government."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "When people worshipped statues of gods, they would sacrifice animals to honour the gods. The meat from the sacrificed animals would be sold in the markets. It would also be served at meals."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Corinthian believers wanted to know if they were allowed to eat this meat. They knew that there is only one true God. They knew that statues of false gods don’t mean anything. So they thought it wouldn’t matter if they ate food sacrificed to false gods. They were very proud of how much they knew. They thought that their knowledge made them better than others."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul said that loving and caring for one another was more important than their knowledge. Followers of Jesus must do whatever encourages and strengthens the rest of God’s family."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

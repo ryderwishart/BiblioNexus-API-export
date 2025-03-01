@@ -1,0 +1,90 @@
+{
+  "id": 132898,
+  "referenceId": 108952,
+  "name": "2 Corinthians 12:11–20",
+  "localizedName": "2 Corinthians 12:11–20",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul planned to visit the Corinthian church again soon. But he was afraid of what he would find when he arrived. So he gave them time to prepare ready for his visit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "There were many differences between Paul and the super-apostles. The main difference was in what they wanted from the Corinthian believers. The false teachers wanted to take advantage of the Corinthians. Paul wanted the Corinthian believers to be completely committed to Jesus. He wanted them to have a strong "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108232",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "faith"
+              },
+              {
+                "type": "text",
+                "text": " in Jesus the Messiah. He wanted them to turn away from sin. He wanted them to obey Jesus in the way that they thought, spoke and treated others."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "For this to happen, Paul was willing to give everything he had to the Corinthians. He loved them like a father loves his children. He served them because he wanted what was best for them."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

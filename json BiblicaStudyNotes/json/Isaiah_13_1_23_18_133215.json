@@ -1,0 +1,193 @@
+{
+  "id": 133215,
+  "referenceId": 109269,
+  "name": "Isaiah 13:1–23:18",
+  "localizedName": "Isaiah 13:1–23:18",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Isaiah spoke many messages from God about the people and leaders of other nations. These included "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108498",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Babylon"
+              },
+              {
+                "type": "text",
+                "text": ", Assyria, the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108267",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Philistines"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108397",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Moab"
+              },
+              {
+                "type": "text",
+                "text": ", Syria and its capital city "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108540",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Damascus"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "They also included the northern kingdom, Cush, Egypt, "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108411",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Edom"
+              },
+              {
+                "type": "text",
+                "text": ", Arabia and "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108475",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Tyre"
+              },
+              {
+                "type": "text",
+                "text": ". Cush was a nation in Africa south of Egypt. The desert area west of Babylon was called Arabia."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The messages were warnings about things that were going to happen. Most of these things were terrible and would lead to those nations being destroyed. Talking about them caused the prophet fear, pain and deep sadness. It isn’t known if the people and leaders of these nations knew about Isaiah’s prophecies. But the people of the southern kingdom were made aware of them. This was one way that God taught his people about the nations around them."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The prophecies showed that God had authority and power over those nations. The prophecies showed that God’s people shouldn’t trust any of those nations to save them. None of those nations could save them from stronger nations like Assyria and Babylon. The messages showed God’s people that God would bring judgement against all nations. He would bring judgement against their leaders for being proud and causing others to suffer."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The prophecies also showed God’s people that God wanted those other nations to know him. He wanted those nations to be humble. He wanted them to recognise that he is the Lord who rules over all. He wanted them to worship him and to become a blessing to other people groups. Isaiah’s messages invited these nations to trust the God of Jacob’s people as their own God. The messages invited them to come to God for safety and protection. This was a lesson for Jerusalem and the southern kingdom to do the same."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

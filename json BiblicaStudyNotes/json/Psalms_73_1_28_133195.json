@@ -1,0 +1,129 @@
+{
+  "id": 133195,
+  "referenceId": 109249,
+  "name": "Psalms 73:1–28",
+  "localizedName": "Psalms 73:1–28",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Psalm 73 is about learning to trust in God. In verse 1 the speaker says something that is true about God. God is good to people who have pure hearts. For the Israelites, to have a pure heart meant worshipping and obeying God faithfully."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "But the speaker hadn’t always believed this was true about God. This is because the speaker was in pain. The speaker had a pure heart but was suffering. It seemed to the speaker that God punished people with pure hearts. It seemed like God blessed people who were proud and sinful. It seemed like proud and sinful people were always rich and healthy. It seemed like they were never punished for the evil things they did. This was unfair. It went against the pattern described by parts of the Law of Moses. It also went against the pattern described by many "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108531",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "proverbs"
+              },
+              {
+                "type": "text",
+                "text": ". Proverbs 11:8 taught that trouble comes on those who do wrong."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108524",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Job"
+              },
+              {
+                "type": "text",
+                "text": " noticed the same things about sinful people that the speaker of Psalm 73 noticed. Job noticed that they didn’t have problems like most other people had (Job 21:6–18). The speaker in Psalm 73 felt jealous, confused and troubled about all of this. But the speaker’s mind, heart and spirit changed in the temple. In the temple the speaker came to understand something important. God will bring justice. God will stop everything that is unfair and evil. He will destroy everyone who refuses to obey him."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This hadn’t happened yet for the speaker in Psalm 73. But the speaker became completely sure that it would happen in the future. So the speaker fully trusted God. They didn’t have anyone in heaven but God. This means that the speaker didn’t ask "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108284",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "false gods"
+              },
+              {
+                "type": "text",
+                "text": " for help. The speaker didn’t want anything on earth besides God. This means that they didn’t trust in anything or anyone but God to rescue them. The speaker was still in pain and was still waiting for God to bring justice. But while they waited, they knew that God was with them. The speaker described this like God holding their hand. Being close to God made the speaker sure that God is truly good."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

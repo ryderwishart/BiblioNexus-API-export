@@ -1,0 +1,107 @@
+{
+  "id": 132564,
+  "referenceId": 108618,
+  "name": "Matthew 16:13–27",
+  "localizedName": "Matthew 16:13–27",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus asked his disciples who they believed he was. God had shown them that Jesus was more than a prophet. Jesus is God’s Son and the Messiah. He is Israel’s true King."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus then taught the disciples that Israel’s King would suffer and die. Peter was angry and said that shouldn’t happen. Most Jews believed the messiah would be a warrior who would destroy all their enemies. Their biggest enemy at that time was the Roman government. But Jesus didn’t promise to destroy the Romans. Instead, he said that following him was like carrying a Roman "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108530",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "cross"
+              },
+              {
+                "type": "text",
+                "text": " and dying on it. He was talking about how hard it is to be fully committed to obeying God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "His followers must say no to everything that doesn’t honour God. Some of Jesus’ disciples would be killed for being faithful to him. But all who believe in Jesus and follow him will receive new life through his "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108568",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "resurrection"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

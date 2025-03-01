@@ -1,0 +1,193 @@
+{
+  "id": 133159,
+  "referenceId": 109213,
+  "name": "2 Chronicles 21:4-24:27",
+  "localizedName": "2 Chronicles 21:4-24:27",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Neither Jehoram nor Ahaziah led the southern kingdom the way kings were supposed to. "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108486",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Elijah"
+              },
+              {
+                "type": "text",
+                "text": "’s letter to Jehoram made something very clear. God brought judgement against kings who didn’t worship God and follow the Law of Moses."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Yet God had promised to keep the lamp of David’s kingdom burning brightly. This meant that God didn’t want David’s family line to be destroyed. He wanted a son from David’s family line to rule as king for ever. God didn’t allow "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108490",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Athaliah"
+              },
+              {
+                "type": "text",
+                "text": " to kill everyone in David’s family line who could be king."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "God used Jehosheba and "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108492",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Jehoiada"
+              },
+              {
+                "type": "text",
+                "text": " to save "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108491",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Joash"
+              },
+              {
+                "type": "text",
+                "text": ". Jehoiada made sure that the Law of Moses was followed. He made sure that the Levites did their duties in the temple. They did them the way that David had appointed them to do."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "When David was king, leaders had given very freely for the temple to be built. Under Joash, officials and people brought money and gave it freely. They did this so that the temple could be repaired. The king, people, priests and Levites once again worshipped God in the temple."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "But when he was older Joash stopped worshipping God in the temple. He also stopped listening to wise advisors and to messages from God. He had Jehoiada’s son Zechariah killed and was held responsible for this sin. A very small army from "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108434",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Aram"
+              },
+              {
+                "type": "text",
+                "text": " did a lot of harm to Judah and "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108464",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Jerusalem"
+              },
+              {
+                "type": "text",
+                "text": ". God allowed this to happen as judgement against Joash."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": 132762,
+  "referenceId": 108816,
+  "name": "John 19:17–37",
+  "localizedName": "John 19:17–37",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "The sign above the cross was written in three important languages of Jesus’ time. It announced to the world that Jesus was the King of the Jews. For Pilate, this was a way of making fun of Jesus. Pilate didn’t realise that the sign said who Jesus really is."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "For those who loved Jesus, it was very painful to watch him die. Jesus’ mother was there. He spoke to her kindly. Jesus made sure that she would be cared for when he was gone."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Many things about the way Jesus died fulfilled Scriptures from long ago. This included his clothes, his bones and being pierced by the spear. To make sure Jesus was dead, a soldier stuck his spear into Jesus’ side. The prophet "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108511",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Zechariah"
+              },
+              {
+                "type": "text",
+                "text": " had talked about this (Zechariah 12:10 – 13:1). Blood and water flowed out of Jesus like a fountain. Zechariah had said that this fountain would wash away people’s sin."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

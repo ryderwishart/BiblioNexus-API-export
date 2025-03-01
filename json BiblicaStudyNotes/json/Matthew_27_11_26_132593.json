@@ -1,0 +1,73 @@
+{
+  "id": 132593,
+  "referenceId": 108647,
+  "name": "Matthew 27:11–26",
+  "localizedName": "Matthew 27:11–26",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Pilate was the Roman governor of Judea. During Jesus’ trial, Pilate wanted to know if Jesus was a king. Would Jesus lead the Jewish people to attack the Roman government?"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Pilate quickly understood that Jesus wasn’t dangerous or violent. But Pilate had to stay in control of the crowd and avoid a fight during Passover. So Pilate did what he knew was wrong. He sentenced Jesus to be nailed to a cross. Pilate did this even though Jesus wasn’t guilty of anything."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Pilate washed his hands as a sign that he wasn’t guilty of Jesus’ death. Yet the water couldn’t wash away his guilt. The Jewish leaders were guilty. The shouting crowd was also guilty. Jesus would die because of the wrong things that others had done."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

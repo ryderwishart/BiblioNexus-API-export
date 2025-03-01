@@ -1,0 +1,58 @@
+{
+  "id": 132298,
+  "referenceId": 108352,
+  "name": "Friendship offerings",
+  "localizedName": "Friendship offerings",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Sacrifices or offerings people made to show that they were grateful to God. These offerings showed the close relationship between God and his people. That is why they are called friendship offerings. They were also made as part of fulfilling a promise someone had made. The offerings could be anything that someone wanted to give. The supplies the people gave to build the holy tent and the temple were friendship offerings. Animals were sacrificed as part of the friendship offerings. Flour, oil and wine were also offered. Both the priest and the people who made this offering ate part of it. They ate it after it was sacrificed. Trumpets were blown during friendship offerings."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

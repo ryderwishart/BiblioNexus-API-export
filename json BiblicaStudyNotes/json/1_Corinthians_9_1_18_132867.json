@@ -1,0 +1,90 @@
+{
+  "id": 132867,
+  "referenceId": 108921,
+  "name": "1 Corinthians 9:1–18",
+  "localizedName": "1 Corinthians 9:1–18",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul described what it meant for believers to be free. Jesus set his followers free from the power of sin, death and evil. He didn’t set them free so that they could do whatever they wanted to. He set them free so that they could obey God completely and serve others."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul used himself as an example. He described all the rights he had as an apostle. One right was to receive money from people in the churches he helped start. Teachings from Jesus and from Scripture showed that apostles had this right. Scripture is "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108200",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "God’s word"
+              },
+              {
+                "type": "text",
+                "text": ". It was common for other apostles to receive money for their work. And other kinds of workers received benefits for the work they did."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul was free to use this right but he chose not to use it. Paul was committed to preaching about Christ even if he wasn’t paid. Preaching about Jesus was Paul’s duty and what he cared most about."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

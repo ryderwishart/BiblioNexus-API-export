@@ -1,0 +1,116 @@
+{
+  "id": 132581,
+  "referenceId": 108635,
+  "name": "Matthew 24:1–14",
+  "localizedName": "Matthew 24:1–14",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus’ disciples were amazed by the greatness of the temple buildings. Jesus replied with a prophecy that shocked them. The temple would be destroyed."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This was the start of Jesus’ fifth long message. He spoke it while he and the disciples were on the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108063",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Mount of Olives"
+              },
+              {
+                "type": "text",
+                "text": ". Jesus answered the disciples’ questions using words from Isaiah 19:2. He said that the beginning of these events would be like birth-pains."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The troubles Jesus described had to do with God’s plan to make the world new again. Before a new baby arrives, there is pain and suffering for the mother. It would be like that before God’s kingdom comes."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Much of the suffering Jesus described happened right after he was raised from the dead. It happened to his followers in the years "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108064",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "AD"
+              },
+              {
+                "type": "text",
+                "text": " 30 to 70. They were treated badly as they preached the good news of Jesus’ kingdom. The book of Acts talks about this."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

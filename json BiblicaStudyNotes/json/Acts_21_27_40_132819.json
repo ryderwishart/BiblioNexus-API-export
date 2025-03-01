@@ -1,0 +1,82 @@
+{
+  "id": 132819,
+  "referenceId": 108873,
+  "name": "Acts 21:27–40",
+  "localizedName": "Acts 21:27–40",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul had already been warned that Jews in Jerusalem would arrest him."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Some Jews from Asia Minor where Paul had been working saw him in the temple. These Jews weren’t believers. They told lies about Paul. They accused him of speaking and doing things against Jewish laws and the temple."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "A large crowd gathered and caused trouble in the city. The Roman commander came with his soldiers. He wanted to stop the trouble and bring order again. The commander couldn’t understand what had happened. He thought Paul was an Egyptian rebel."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "For Paul, the confusion was an opportunity. Jesus had told Paul in a vision to keep on speaking and not to be silent. That is what Paul did."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

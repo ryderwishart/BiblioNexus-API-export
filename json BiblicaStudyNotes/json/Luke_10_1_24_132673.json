@@ -1,0 +1,90 @@
+{
+  "id": 132673,
+  "referenceId": 108727,
+  "name": "Luke 10:1–24",
+  "localizedName": "Luke 10:1–24",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Once again, Jesus sent his disciples out to make his work known to more people. This time instead of only the 12 disciples Jesus sent many more workers. They walked through the land of Israel offering peace and healing to God’s people."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus warned that if the offer wasn’t accepted, judgement would follow. Long before Jesus came to earth the people in "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108475",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Tyre and Sidon"
+              },
+              {
+                "type": "text",
+                "text": " did evil things. Those people never had the chance to see Jesus or hear his message. Jesus said that if they had, they would have turned away from their sins."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Yet most of the people of Israel didn’t accept the good news of God’s kingdom. When the disciples returned Jesus was filled with joy through the Holy Spirit. He gave thanks and praise to his Father for working through the disciples. God worked through them to bring life and healing to the world."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

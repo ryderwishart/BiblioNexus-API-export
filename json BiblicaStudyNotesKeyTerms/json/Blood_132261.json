@@ -1,0 +1,58 @@
+{
+  "id": 132261,
+  "referenceId": 108315,
+  "name": "Blood",
+  "localizedName": "Blood",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Throughout the Bible there are two meanings for the word blood. The first meaning is the red liquid inside the bodies of humans and animals. The second meaning is a sign of life. Life is a gift from God. Blood was considered important because it showed that an animal or a person was alive. Losing blood was understood to lead to death. So anything that had to do with a loss of blood was considered unclean. Because blood was important, it was used to make things holy and clean. Sprinkling blood from sacrifices on someone or something was a sign. It showed that the person or object had been made clean from death and sin."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

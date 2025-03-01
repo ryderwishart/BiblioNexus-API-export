@@ -1,0 +1,159 @@
+{
+  "id": 133229,
+  "referenceId": 109283,
+  "name": "Jeremiah 50:1–51:64",
+  "localizedName": "Jeremiah 50:1–51:64",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In chapter 25, Jeremiah had announced that God would judge the Babylonians. The full messages of judgement against Babylon are recorded in chapters 50 and 51. Jeremiah wrote these messages down on a scroll. Baruch’s brother was to read them out loud in Babylon. Then he was to sink the scroll in the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108554",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "River Euphrates"
+              },
+              {
+                "type": "text",
+                "text": ". This was an action of prophecy. It was a sign that God would carry out what the messages talked about."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jeremiah announced these judgement messages even before Nebuchadnezzar destroyed Jerusalem. The Babylonian armies were God’s tool for bringing judgement against other nations. But the people and leaders of Babylon didn’t recognise the real reason they had success. God’s power gave them success. Instead, the Babylonians honoured their false gods. They made themselves rich by treating other people groups badly. They worked hard to make their walls thick and high. This showed that they trusted their government and military to keep them safe."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "God talked about Babylon reaching all the way to the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108201",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "heavens"
+              },
+              {
+                "type": "text",
+                "text": ". This was a way to describe how proud they were. This was like the tower built in the city called Babel (Genesis 11:1–9). The people building that tower wanted it to reach to the sky. God made it clear that reaching to the heavens wouldn’t keep Babylon safe."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Three times God urged his people to run away from Babylon. He didn’t want them to be destroyed along with Babylon. Babylon would have done to it what it had done to others. This agreed with a law from the Law of Moses recorded in Leviticus 24:19. Everything in heaven and earth would rejoice when Babylon was punished. This was because Babylon had caused so many people and places to suffer. They would be glad when Babylon could no longer cause harm."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Some of God’s promises to punish Babylon came true when "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108509",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Persia"
+              },
+              {
+                "type": "text",
+                "text": " took control of Babylon. New Testament writers understood that some of the promises would come true in the future. In Revelation chapter 18, "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108542",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "John"
+              },
+              {
+                "type": "text",
+                "text": " talked about these messages of judgement against Babylon. John used Babylon as a way to talk about other proud governments. Babylon was the example of how God would punish governments that treated God’s people badly."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

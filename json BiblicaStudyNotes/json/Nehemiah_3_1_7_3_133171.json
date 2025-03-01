@@ -1,0 +1,133 @@
+{
+  "id": 133171,
+  "referenceId": 109225,
+  "name": "Nehemiah 3:1–7:3",
+  "localizedName": "Nehemiah 3:1–7:3",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jewish men and women from many towns and cities helped rebuild the wall. So did "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108333",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "priests"
+              },
+              {
+                "type": "text",
+                "text": ", leaders, traders, people who worked with gold and people who made perfume. Temple servants helped as well. They had a clear plan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "All together they worked very hard for the same goal. They finished building the wall in 52 days. They faced many problems as they worked. Some of the problems came from the people groups around them. These groups were willing to kill the Jews to stop them from building the wall. These groups also tried to harm Nehemiah. Nehemiah made clever plans to protect the people while they kept working. And he had complete trust in God’s power to protect them."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Some of the problems came from within the Jewish community. Some Jewish nobles didn’t help rebuild the wall. They worked against Nehemiah to stop the work. A priest and many prophets tried to make him afraid of being attacked. And there were nobles and officials who took advantage of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108418",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "needy people"
+              },
+              {
+                "type": "text",
+                "text": ". These leaders weren’t following God’s example of how to be "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108209",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "rulers"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Nehemiah did follow God’s example. He used his authority as governor to do what was good for the Jewish people. He corrected the problems so that the needy people were taken care of. He didn’t try to get rich by making people give him money. Instead, he provided what other people needed. He used the food and supplies the Persian government gave him to do this. He made sure that honest leaders who respected God were in charge in Jerusalem."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 133230,
+  "referenceId": 109284,
+  "name": "Jeremiah 52:1–34",
+  "localizedName": "Jeremiah 52:1–34",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jeremiah had spoken messages of judgement about Jerusalem being destroyed by Babylonian armies. He had spoken these messages over and over again for many years."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The people and leaders of the southern kingdom had refused to believe him. The story of Babylon taking control of Jerusalem was told in Jeremiah chapter 39. This story was also recorded in 2 Kings chapter 24 and 2 Chronicles chapter 36."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The story was told again as the last chapter of the book of Jeremiah. This made it very clear that Jeremiah had been speaking the truth. He had spoken messages from God. God’s messages could be trusted."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

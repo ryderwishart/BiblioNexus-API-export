@@ -1,0 +1,107 @@
+{
+  "id": 133041,
+  "referenceId": 109095,
+  "name": "Revelation 14:6–13",
+  "localizedName": "Revelation 14:6–13",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The first angel John saw made an announcement to everyone on earth. God is the Creator and is the only one who should be worshipped. He is going to judge the world. That message was good news for people."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The second angel announced that "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108498",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Babylon"
+              },
+              {
+                "type": "text",
+                "text": " had fallen. This meant that Babylon had lost all its power. God judged Babylon for not accepting the good news that the first angel announced. He also judged Babylon for causing other nations to sin."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The third angel warned about judgement against all who followed and worshipped the beast. This was the beast that came out of the sea in Revelation chapter 13. Both the beast and Babylon were signs for human governments that seek complete power. These governments treat those who are faithful to Jesus badly. In John’s time, that government was Rome. John’s vision offered comfort to God’s people who were being treated unfairly. They would be blessed even if they were put to death. The Holy Spirit would give them "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108212",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "rest"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

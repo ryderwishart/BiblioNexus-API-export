@@ -1,0 +1,142 @@
+{
+  "id": 132977,
+  "referenceId": 109031,
+  "name": "Hebrews 10:1–25",
+  "localizedName": "Hebrews 10:1–25",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In his work as priest, Jesus gave his life as a sacrifice on the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108530",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "cross"
+              },
+              {
+                "type": "text",
+                "text": ". Those who believe in him are forgiven of their sins for ever."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "That is how Jesus broke the power of sin. And he broke the power of death when God raised him from the dead. In the future all of God’s enemies will be put completely under Jesus’ control."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In the holy tent and the temple, only the high priest could be close to God. That happened in the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108365",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Most Holy Room"
+              },
+              {
+                "type": "text",
+                "text": ". It was separated from other rooms by a curtain. The Most Holy Room was a copy of the place where God rules in heaven."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "After his resurrection, Jesus went to the real place in heaven where God rules. He remains there. He makes it possible for his followers to also be in God’s presence. His followers enter into God’s presence by believing in Jesus. Jesus’ body is like a curtain that believers enter through. They go through it into the Most Holy Room where God is."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The author of Hebrews wanted his readers to come to God boldly. They didn’t need to be afraid of God. They were to encourage one another to stay near to God. Being forgiven of sin and being in God’s presence fills believers with hope. It fills them with the desire to do "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108060",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "good works"
+              },
+              {
+                "type": "text",
+                "text": " and to show love to others."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": 133131,
+  "referenceId": 109185,
+  "name": "1 Samuel 27:1-31:13",
+  "localizedName": "1 Samuel 27:1-31:13",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "David and his men weren’t safe in Israel. A Philistine king gave them a town to live in. It was very hard for David not to live among the Israelites. Not being allowed to live in Israel was one of the covenant curses. Yet David was always faithful to God and worshipped only God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Then the Amalekites destroyed David’s town. They captured David’s families’ and the families of his men. David and his soldiers were very sad and bitter about this. God helped them to get their families and belongings back. That happened while the Philistines went to attack the Israelites."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Saul was very afraid of the Philistine army. He tried to receive advice from God through "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108273",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "dreams"
+              },
+              {
+                "type": "text",
+                "text": ", prophets and "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108404",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "casting lots"
+              },
+              {
+                "type": "text",
+                "text": ". But he had refused to believe the words God had already told him through Samuel. Then he asked for help from a woman who was a "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108461",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "medium"
+              },
+              {
+                "type": "text",
+                "text": ". This means that she talked to spirits. She talked to the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108462",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "spiritual"
+              },
+              {
+                "type": "text",
+                "text": " part of people whose bodies had died."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Samuel’s spirit told Saul the same things Samuel had told Saul before. Saul’s family line would no longer rule as kings. Saul, Jonathan and two of Saul’s other sons died in the battle against the Philistines. David was far away and wasn’t guilty of Saul’s death. After Saul died, the people of Jabesh Gilead honoured his body. They were the people Saul had rescued in his first battle as king."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

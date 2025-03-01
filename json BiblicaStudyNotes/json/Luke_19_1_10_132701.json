@@ -1,0 +1,82 @@
+{
+  "id": 132701,
+  "referenceId": 108755,
+  "name": "Luke 19:1–10",
+  "localizedName": "Luke 19:1–10",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Zacchaeus was a chief tax collector. He made money from his own work and the work of other tax officials. As a result, Zacchaeus became very rich."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Zacchaeus wanted to see Jesus. Jesus knew this and he looked for Zacchaeus. When Jesus found Zacchaeus, Jesus invited him to a new way of living."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Spending time with Jesus changed the way Zacchaeus treated others. He gave half of what he owned to the poor. Zacchaeus had cheated many people. So he paid them back four times more than what he had taken from them."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Zacchaeus was then able to live in peace with others because he had peace with God. Zacchaeus understood that he was a sinner. He understood that he was one of the lost ones who needed to be saved."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

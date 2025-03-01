@@ -1,0 +1,58 @@
+{
+  "id": 132472,
+  "referenceId": 108526,
+  "name": "Son of God",
+  "localizedName": "Son of God",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A way that Psalm 2 described Israel’s kings. It showed that they were chosen by God to rule and were worthy of honour. It showed that they were to follow God’s example for ruling. In New Testament times, Roman emperors were called son of god. This was because they believed that the Roman gods gave Caesar his power. The name was used in a special way to talk about Jesus. It means that the one, true, mighty God is Jesus’ Father. Using this name for Jesus made Jews who didn’t accept him very angry. It also made the Roman government angry because it challenged Caesar’s authority."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

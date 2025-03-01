@@ -1,0 +1,91 @@
+{
+  "id": 132758,
+  "referenceId": 108812,
+  "name": "John 18:1–11",
+  "localizedName": "John 18:1–11",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This was the same night that John wrote about in chapter 13. It was the night when Jesus had shared his last meal with the 12 disciples."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus had washed Judas’ feet even though Judas wouldn’t be a faithful friend to him. Judas knew where to find Jesus that night. He led the soldiers and officials to the garden and handed Jesus over to them."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus spoke about himself as I am. The soldiers and officials were shocked when Jesus did that. This was because God had used those words to describe himself (Exodus 3:14)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The other 11 disciples were confused about what was happening. They thought that Jesus’ battle was against human beings. So Peter tried to protect Jesus by using violence. No one understood that Jesus was fighting a battle against sin and death."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus was choosing to obey his Father. He was willing to suffer to bring eternal life to the world."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

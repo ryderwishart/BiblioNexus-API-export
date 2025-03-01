@@ -1,0 +1,215 @@
+{
+  "id": 133218,
+  "referenceId": 109272,
+  "name": "Isaiah 40:1-48:22",
+  "localizedName": "Isaiah 40:1-48:22",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "At the end of chapter 39 Isaiah made an announcement about Babylon. The Babylonian government would take control of the southern kingdom. The Babylonian armies would force many people from the southern kingdom to leave their land. They would be forced to live in "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108495",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "exile"
+              },
+              {
+                "type": "text",
+                "text": " in Babylon."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Chapters 40 to 48 record messages of comfort to those people living in exile in Babylon. These messages were recorded as poems, prophecies and songs of praise. They were also recorded as arguments between God and others in a courtroom."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "These messages make three things very clear. They make clear who God is, what false gods are and who God’s people were. First, God is the one true God who created everything and has always existed. No one and nothing is equal to God. Second, false gods are objects made by people and they have no power at all. False gods can’t tell people what’s going to happen or save people from their troubles. Third, the people of Jacob’s family line were God’s servants. "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108229",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "God chose"
+              },
+              {
+                "type": "text",
+                "text": " them to be witnesses to others that he is God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "God’s love for Jacob’s family line was strong and tender. God described himself as a "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108278",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "shepherd"
+              },
+              {
+                "type": "text",
+                "text": " who carried his people like lambs close to his heart. But his people complained that God had treated them badly. They thought that the exile showed that God didn’t care about them. God explained that they had gone into exile because of their sins. But he announced a new thing that he would do. He would bring his people back to Judah from Babylon. He would use the king of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108509",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Persia"
+              },
+              {
+                "type": "text",
+                "text": " as his tool to make this happen. That king would be named "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108502",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Cyrus"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "God talked about someone called "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108544",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "God’s servant"
+              },
+              {
+                "type": "text",
+                "text": " in chapter 42. In many ways this servant is what the people of Israel were to be. By obeying God’s laws, they were to live in ways that were holy and just. They were to teach other nations about God and how to worship and honour him. In this way they would be a "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108545",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "light for the Gentiles"
+              },
+              {
+                "type": "text",
+                "text": ". New Testament writers showed how Jesus served God in these ways as well (Matthew 12:15–21). They understood that the poem about this servant was a prophecy about Jesus."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": 133044,
+  "referenceId": 109098,
+  "name": "Revelation 16:1–21",
+  "localizedName": "Revelation 16:1–21",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The seven bowls of God’s anger were signs of God’s final judgements. The first four bowls brought judgement against people who refused to give God glory. An angel praised God for judging fairly. God was finally punishing those who put his people to death. This is what the souls under the altar in Revelation 6:9–11 had been waiting for."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The last three bowls brought judgement against the beast and the nations that followed it. As John described these things, he recorded a message from Jesus. Jesus reminded believers to pay attention and to be ready for him to come. He didn’t want his followers to be tricked by evil spirits into following the beast. These evil spiritual beings looked like frogs to John."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The judgement against the beast came through splitting its kingdom apart. Those who followed the beast didn’t repent and turn to God. They continued to speak evil things against God. The nations gathered for a war. John didn’t record a battle. Instead, God declared that his plan had been accomplished with the seventh bowl."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The bowls were the third set of sevens in John’s visions. God’s judgements had started with the seven seals. They had continued with the seven trumpets. With the seven bowls an angel announced that God’s judgement was done."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

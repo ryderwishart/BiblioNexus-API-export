@@ -1,0 +1,82 @@
+{
+  "id": 132707,
+  "referenceId": 108761,
+  "name": "Luke 21:5–36",
+  "localizedName": "Luke 21:5–36",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jerusalem was the centre of Israel’s life as a nation. And the temple was the most important place in Jerusalem. Yet Jesus prophesied that it would be destroyed."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jerusalem would soon be full of troubles and many people would die. This would be God’s judgement against the nation for not believing that Jesus was their Messiah. It would happen while the people around him were still living."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus’ disciples would spread the good news about Jesus being King. But many people would oppose and attack them. Members of their own families would turn against them. It would be a violent and confusing time. Jesus wanted his disciples to be ready. He told them to watch and pray."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Many of the things Jesus talked about happened in AD 70. Jesus promised that his faithful followers would receive eternal life that can’t be destroyed. And he promised that he would return to earth. This promise brings joy and hope to his followers."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

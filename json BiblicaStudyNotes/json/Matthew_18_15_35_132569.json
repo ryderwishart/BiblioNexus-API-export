@@ -1,0 +1,82 @@
+{
+  "id": 132569,
+  "referenceId": 108623,
+  "name": "Matthew 18:15–35",
+  "localizedName": "Matthew 18:15–35",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus described the kingdom of heaven as God’s household. It’s full of God’s children who are all brothers and sisters."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus taught God’s children to deal with conflict, pray together and forgive one another. Two people who have a conflict must seek peace together with honesty and humility. If they can’t reach an agreement, they must ask others for help. People who refuse to stop harming others can’t stay in God’s family unless they change."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus promised to be with his followers who pray together. He promised that God will answer their prayers."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Then Jesus told a story to answer Peter’s question about forgiving his brothers and sisters. God is like the king who showed great mercy to the servant and forgave him. But the servant who received mercy and forgiveness didn’t show mercy to the other servant. God’s children mustn’t be like that. They show they are grateful for God’s mercy when they forgive one another."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

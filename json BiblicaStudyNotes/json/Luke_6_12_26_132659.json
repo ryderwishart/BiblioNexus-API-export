@@ -1,0 +1,125 @@
+{
+  "id": 132659,
+  "referenceId": 108713,
+  "name": "Luke 6:12–26",
+  "localizedName": "Luke 6:12–26",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "There were "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108286",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "12 tribes"
+              },
+              {
+                "type": "text",
+                "text": " of Israel. So it was important to Jesus to have 12 leaders among his followers."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "He chose 12 of his disciples to be his closest followers. These men were also called "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108053",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "apostles"
+              },
+              {
+                "type": "text",
+                "text": ". Before making this important decision, Jesus spent the night praying to God his Father."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus had many other disciples besides the 12 apostles. Many people followed Jesus to hear him teach and to be healed by his power. Jesus taught them about life in God’s kingdom. It isn’t like human kingdoms, and Jesus’ power isn’t like other rulers’ power."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "God welcomes needy people into his kingdom. Anyone who is hungry or sad is welcome. People who are hated by others because they follow Jesus are welcome. They will be blessed for ever in God’s kingdom."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Yet Jesus warned people who only care about being rich. He warned those who only care about getting what they want. He warned those who want to be praised even though they aren’t worthy of being trusted. They will miss out on the blessings of God’s kingdom."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

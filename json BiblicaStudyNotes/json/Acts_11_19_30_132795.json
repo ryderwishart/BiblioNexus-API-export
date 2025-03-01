@@ -1,0 +1,116 @@
+{
+  "id": 132795,
+  "referenceId": 108849,
+  "name": "Acts 11:19–30",
+  "localizedName": "Acts 11:19–30",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "After Stephen’s death, believers in Jerusalem were treated very badly. Many had to leave. They spread the message about Jesus among Jews further north than Samaria and Galilee."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The good news about Jesus reached new cities and people. It reached Greeks ("
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108194",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Greece"
+              },
+              {
+                "type": "text",
+                "text": ") in "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108109",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Antioch in Syria"
+              },
+              {
+                "type": "text",
+                "text": ". Many Gentiles there believed the message and the church grew strong."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Barnabas and Saul spent a year teaching and guiding these Jewish and Gentile believers. Jesus had said that Saul would tell the Gentiles about him. Antioch was where he started doing that. It was also where people first started using the name Christians. This name included both Jewish and Gentile believers."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Christians in Antioch heard that Jewish believers in Jerusalem didn’t have enough food. They sent them a gift to help. They were all part of God’s family. They treated one another like brothers and sisters."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

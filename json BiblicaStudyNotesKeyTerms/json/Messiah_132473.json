@@ -1,0 +1,58 @@
+{
+  "id": 132473,
+  "referenceId": 108527,
+  "name": "Messiah",
+  "localizedName": "Messiah",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "The saviour that God promised to send to rescue God’s people from all their enemies. In the Hebrew language the word messiah means anointed one or chosen one. Many prophecies and promises recorded in the Old Testament talk about this rescuer. Many Jews came to understand that these prophecies and promises talked about a king. He would be from David’s family line. He would be chosen by God to bring peace that lasted for ever. When Jesus lived on earth, many Jews came to believe that he is the Messiah."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

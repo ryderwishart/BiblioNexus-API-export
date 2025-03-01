@@ -1,0 +1,58 @@
+{
+  "id": 132278,
+  "referenceId": 108332,
+  "name": "Worship only God",
+  "localizedName": "Worship only God",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "No one and nothing else but God should be worshipped. This is always true for all people everywhere. For hundreds of years, Abraham’s family line had worshipped God. Yet many of them had also worshipped false gods at the same time. The people groups all around them also worshipped many false gods. This was very common in the times and places of the Bible. But God is the only true God. In his covenant with the Israelites at Mount Sinai, God made this very clear. He commanded the Israelites to worship only him. That was the first and most important part of his covenant with them."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

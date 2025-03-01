@@ -1,0 +1,58 @@
+{
+  "id": 132491,
+  "referenceId": 108545,
+  "name": "Light for the Gentiles",
+  "localizedName": "Light for the Gentiles",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Words that described the work of God’s servant (Isaiah 42:6 and Isaiah 49:6). The servant would make sure that God’s covenant and salvation reached all people groups. In the New Testament, Simeon understood that Jesus would do this work (Luke 2:30–32). Paul and Barnabas understood that they were to be light for the Gentiles too (Acts 13:47). They did this by sharing the message about Jesus with Gentiles. In Acts 26:23 Paul preached about how Jesus brought the message of God’s light. This is the message of salvation from the power of sin and death. Jesus brought this light to Jews and Gentiles. Jesus’ followers are to share Jesus’ light and salvation with the whole world."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 132439,
+  "referenceId": 108493,
+  "name": "Assyria",
+  "localizedName": "Assyria",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A kingdom in Mesopotamia that lasted for thousands of years. It became a powerful government that ruled over many other nations and people groups. The capital city was Nineveh. Assyria took control of the northern kingdom of Israel in 722 BC. They forced the Israelites to leave their land and live far away in exile. Some of Assyria’s kings were Tiglath-Pilesar, Shalmaneser, Sargon and Sennacherib. Babylonian armies won an important battle over Assyria in 612 BC. Assyria was no longer powerful after that."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

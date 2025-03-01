@@ -1,0 +1,124 @@
+{
+  "id": 132889,
+  "referenceId": 108943,
+  "name": "2 Corinthians 5:11–6:10",
+  "localizedName": "2 Corinthians 5:11–6:10",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Some people in the Corinthian church spoke against Paul and those who worked with him. They didn’t want the Corinthians to trust Paul as an apostle. They accused Paul and his fellow workers of being crazy. They claimed that they looked better than Paul. They claimed that their words made more sense than the words of Paul and his companions. They did this so that people would believe them instead of what Paul preached."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul explained that the Corinthians could be proud of him and his fellow workers. They could be proud because Paul and his companions were faithful to God. They served others and were full of Christ’s love. They were messengers sent by Jesus to beg people to receive God’s "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108342",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "mercy"
+              },
+              {
+                "type": "text",
+                "text": ". God showed his mercy when Jesus died on the cross. That is when Jesus stopped the power of sin over people. He made it possible for them to live in peace with God. That is what it means to be brought back to God. Being brought back to God is the same as being made "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108254",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "right with God"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "People who are brought back to God live for Jesus Christ. It’s as if they have died to the way they used to live. Now they are part of the new creation. They work together with God to invite everyone to come back to God. Paul and his fellow workers faced many dangers as they did this work. They remained faithful to God even when they were "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108054",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "treated badly"
+              },
+              {
+                "type": "text",
+                "text": ". The Holy Spirit's power gave them the strength to keep following Jesus’ example."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

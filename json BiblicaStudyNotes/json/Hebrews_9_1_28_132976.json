@@ -1,0 +1,116 @@
+{
+  "id": 132976,
+  "referenceId": 109030,
+  "name": "Hebrews 9:1–28",
+  "localizedName": "Hebrews 9:1–28",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Mount Sinai covenant was like a will that went into effect at death. The death wasn’t the death of people but of animals that God provided. This showed that God loved people and didn’t want them to die because of their sins."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Mount Sinai covenant wasn’t supposed to last for ever. It was a sign of greater things that would come. It pointed to the Messiah and to his work. The new covenant also went into effect at death. The death wasn’t the death of people or animals but of Jesus Christ. Jesus sacrificed himself to establish the new covenant. This shows how deeply God loves people."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In the Mount Sinai covenant, people were sprinkled with animal "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108315",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "blood"
+              },
+              {
+                "type": "text",
+                "text": ". This allowed them to be considered "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108363",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "clean"
+              },
+              {
+                "type": "text",
+                "text": ". It made them able to enter the holy tent. In the new covenant, people are sprinkled with Jesus’ blood. Believers don’t actually feel Jesus’ real blood on them. This is a way of describing what happens spiritually when Jesus saves people."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus’ blood is much more powerful than the blood of animals. His blood makes those who believe in him completely clean and accepted for ever. Jesus forgives them. He heals what sin and evil have done to their mind and heart. The author of Hebrews described this as washing away feelings of guilt. Jesus makes people able to be with God fully and for ever. That is how Jesus will make their salvation complete when he returns."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

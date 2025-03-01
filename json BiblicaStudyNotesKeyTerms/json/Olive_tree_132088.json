@@ -1,0 +1,58 @@
+{
+  "id": 132088,
+  "referenceId": 108142,
+  "name": "Olive tree",
+  "localizedName": "Olive tree",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A common tree in the area around the Mediterranean Sea. Olive trees and their fruit provide food, oil, medicine and wood. Writers of the Bible used the olive tree as a sign to explain other things. The leaves were a sign of peace. The oil was used to anoint objects or people and set them apart as holy. The oil was also a sign for God’s Spirit. The oil is made by crushing the olives. This is a picture of Jesus’ suffering on the Mount of Olives before he died. Olive trees are also a picture of the people of God."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

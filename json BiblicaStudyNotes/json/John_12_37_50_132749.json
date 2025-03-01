@@ -1,0 +1,99 @@
+{
+  "id": 132749,
+  "referenceId": 108803,
+  "name": "John 12:37–50",
+  "localizedName": "John 12:37–50",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "John ended the first half of his gospel by writing about seeing and believing. He also wrote about light and darkness. Jesus is the Light of the world. Some people believe Jesus is who he said he was. They are in his Light and can see."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "People who don’t believe in Jesus are in darkness. They are blind. Many people had seen the signs Jesus did. But they didn't believe he was God's Son. It was like they were blind and couldn’t see who he really was."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Certain Jewish leaders believed in him but didn’t follow him in public. To receive what God wants to give them, people must believe that Jesus is God’s Son. They must hear what he says and then they must trust and obey him. They must be committed to following him."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This is the what the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108043",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "good news"
+              },
+              {
+                "type": "text",
+                "text": " about Jesus requires people to do. Those who refuse to obey Jesus will be judged one day. When someone obeys Jesus they are obeying God. That is how people receive eternal life that will never be destroyed."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

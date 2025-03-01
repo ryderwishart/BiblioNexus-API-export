@@ -1,0 +1,73 @@
+{
+  "id": 132585,
+  "referenceId": 108639,
+  "name": "Matthew 25:31–46",
+  "localizedName": "Matthew 25:31–46",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The last part of Jesus’ long message was about God’s family. It was also about Jesus bringing judgement. Only Jesus is wise enough to be the Judge of the whole world."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "One day he will separate everything evil from everything good. He will judge all people for the way they treat his brothers and sisters. Those who follow Jesus are his brothers and sisters. They are joined together with Jesus very closely. They are so close that it’s like what happens to them also happens to Jesus. This is a wonderful mystery."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus wants all people to follow his example of serving others. As they take care of others, they are serving Jesus."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

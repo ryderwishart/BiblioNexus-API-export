@@ -1,0 +1,73 @@
+{
+  "id": 132858,
+  "referenceId": 108912,
+  "name": "1 Corinthians 3:1–9",
+  "localizedName": "1 Corinthians 3:1–9",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Corinthian believers hadn’t grown up spiritually or grown strong in their faith. Paul said that they were still like babies in their faith. They had heard about Jesus and believed in him. But they weren’t living like people who were filled with the Holy Spirit. They were still living the way they had before they trusted Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This was why they were jealous and argued. Paul said that they were acting in the ways of the world. He was talking about sinful ways of living. Those ways kept the believers from growing into healthy and strong followers of Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Then Paul explained that the believers were like a field. When people tell others about Jesus, it’s like they plant and water seeds in the field. Paul and Apollos had done that for the church in Corinth. The field belongs to God. God makes the seeds grow into healthy plants. This is a picture of how believers grow as they trust in Jesus and follow him."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

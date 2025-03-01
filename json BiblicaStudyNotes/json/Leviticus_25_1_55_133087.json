@@ -1,0 +1,107 @@
+{
+  "id": 133087,
+  "referenceId": 109141,
+  "name": "Leviticus 25:1–55",
+  "localizedName": "Leviticus 25:1–55",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The people groups around the Israelites didn’t honour a Sabbath day of rest. Nor did they practice a sabbath year or a Year of Jubilee. These practices set the Israelites apart. They showed that everything belonged to God. The work the people did belonged to him. So did the weeks and years that they lived. The land where God allowed them to live also belonged to him."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The sabbath year happened every seventh year when the Israelites stopped farming. This allowed the land to rest just like people rested on the Sabbath day. It was one way to be faithful "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108209",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "rulers"
+              },
+              {
+                "type": "text",
+                "text": " of the land God gave them. It also showed that the Israelites trusted God to provide food for them."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Year of Jubilee happened every fifty years. It was another year when the land rested instead of being farmed. It stopped any changes people made about who owned certain land. The land was returned to the tribes and families God had first given it to. The Israelites were set free from debts of money they owed to others. The Year of Jubilee also stopped any Israelites from working as "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108378",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "servants"
+              },
+              {
+                "type": "text",
+                "text": " for other Israelites. This reminded the Israelites that they were servants only of God. Because they belonged to God, they weren’t to be bought and sold as slaves."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": 133206,
+  "referenceId": 109260,
+  "name": "Proverbs 31:10–31",
+  "localizedName": "Proverbs 31:10–31",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The last section of the book of Proverbs is an "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108533",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "alphabet poem"
+              },
+              {
+                "type": "text",
+                "text": ". It describes someone who has listened to wisdom as described in Proverbs 8:6."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This person has learnt the lessons taught throughout the book of Proverbs. This person has put these lessons into practice in every part of their life."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Earlier poems in Proverbs describe wisdom like a woman. This poem describes this wise person like an excellent woman. This person is like a woman who is strong and smart. She takes care of everything and everyone that she is responsible for."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "She gives freely to those who need help. She makes careful plans and works very hard. She is bold and isn’t worried about the future. The members of her family and her city trust her."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "It’s clear to everyone by the way she lives that she has respect for God. This leads people to honour her. She isn’t honoured for being beautiful or having charm. She is honoured because in her heart and in her actions she is wise."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

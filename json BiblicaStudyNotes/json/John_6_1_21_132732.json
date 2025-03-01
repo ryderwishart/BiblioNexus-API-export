@@ -1,0 +1,82 @@
+{
+  "id": 132732,
+  "referenceId": 108786,
+  "name": "John 6:1–21",
+  "localizedName": "John 6:1–21",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Large crowds of people followed Jesus around as he travelled. They had seen Jesus heal people and they understood that he had power."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "There were more than 5,000 hungry people sitting on the mountainside. Only one boy had any food. Jesus prayed over the boy’s fish and bread. Jesus turned it into more than enough food to feed the large crowd. After they had eaten there was a lot of food left over."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Everyone understood that the mighty work that Jesus had done was a sign. It was the fourth sign that John recorded. The crowd thought it meant that Jesus was the prophet they had been waiting for. Jesus avoided the crowd until he could teach them what the sign really meant."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Later that night he did a fifth sign that only his disciples saw. He walked towards the disciples over rough waters. Seeing Jesus do this scared his disciples. Jesus was showing them that he has power and control over the world God created. Jesus comforted the disciples and helped them reach the place where they were going to."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

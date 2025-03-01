@@ -1,0 +1,58 @@
+{
+  "id": 132490,
+  "referenceId": 108544,
+  "name": "God’s servant",
+  "localizedName": "God’s servant",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A servant that God promised to send to help God’s people. The book of Isaiah includes several prophecies about this servant. God chose this servant to share God’s teaching with his people. God set this servant apart to lead his people with justice. He would suffer as he served. The servant is sometimes described as the people of Israel. He is sometimes described as a prophet or someone else who helped God’s people. Other times the servant is described as a saviour who would come in the future. In Acts chapter 3, Peter showed how the servant described in Isaiah was also the Jewish Messiah. Peter then showed how Jesus is this Servant and Messiah."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": 132578,
+  "referenceId": 108632,
+  "name": "Matthew 22:15–33",
+  "localizedName": "Matthew 22:15–33",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "The Pharisees, "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108062",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Herodians"
+              },
+              {
+                "type": "text",
+                "text": " and Sadducees usually disagreed with one another and fought for power. But they all worked together against Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus wasn’t part of any of Israel’s groups of leaders. He didn’t teach the same things that Israel’s elders had taught for hundreds of years. He spoke fresh and powerful words that showed what God’s kingdom is like."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "The Pharisees and Herodians tried to trap Jesus by asking a hard question. Their question was about whether to obey a human government or God. But Jesus didn’t allow them to trap him. Instead he gave them a wise answer. People under Caesar’s authority must obey Caesar. But people must be more faithful to God than to any government."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Then the Sadducees tried to trap Jesus with a difficult story. They didn’t believe that people would rise from the dead. Jesus corrected them. He showed that the resurrection wouldn't be like what they were thinking. The bodies of people raised from the dead won’t be exactly like bodies are now. What really matters is that God is the powerful God of life."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

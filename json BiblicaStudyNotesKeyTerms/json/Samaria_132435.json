@@ -1,0 +1,58 @@
+{
+  "id": 132435,
+  "referenceId": 108489,
+  "name": "Samaria",
+  "localizedName": "Samaria",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "The capital city of the northern kingdom of Israel. Omri made Samaria the centre of the northern kingdom’s government. Ahab made it the centre of the northern kingdom’s worship practices. The Assyrians took control of the city and the area around it in 722 BC. They brought other people groups to live there. These people groups mixed with the Israelites who were left in Samaria. Their children became known as Samaritans. In the time of the Romans, Samaria was an area of Israel. It was between Galilee in the north and Judea in the south. In Jesus’ time, the Samaritans claimed to be from Abraham’s family line. Jews and Samaritans usually treated each other like enemies."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

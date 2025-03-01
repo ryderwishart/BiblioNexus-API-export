@@ -1,0 +1,58 @@
+{
+  "id": 132032,
+  "referenceId": 108086,
+  "name": "Lamb of God",
+  "localizedName": "Lamb of God",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A title for Jesus that describes how he sacrificed himself. During the first Passover, lambs were sacrificed. Because of their blood the Israelites were saved from being destroyed. After that, lambs were used in Jewish worship practices as a sacrifice for sin. Jesus sacrificed himself by giving up his life on the cross. His sacrifice saves people from being destroyed by sin, death and evil. In this way he is like the lambs sacrificed by the Israelites. In Revelation, Jesus looked to the prophet John like a Lamb that had been killed. Yet the Lamb was alive. This is because Jesus was raised from the dead after he died on the cross."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

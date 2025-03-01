@@ -1,0 +1,58 @@
+{
+  "id": 132244,
+  "referenceId": 108298,
+  "name": "Ephraim",
+  "localizedName": "Ephraim",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "The second son of Joseph and Asenath. In the Hebrew language, Ephraim means double fruit. Jacob adopted him as one of his own sons. Jacob gave him the father’s blessing even though he wasn’t the eldest son. Ephraim’s family line became a tribe of Israel. They were an important tribe of the northern kingdom of Israel. The capital of the northern kingdom was in Ephraim’s land. The northern kingdom is sometimes called Ephraim in the Bible."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

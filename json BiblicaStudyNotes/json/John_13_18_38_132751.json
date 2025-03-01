@@ -1,0 +1,82 @@
+{
+  "id": 132751,
+  "referenceId": 108805,
+  "name": "John 13:18–38",
+  "localizedName": "John 13:18–38",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus was troubled in his spirit. One of his closest followers was going to hand him over to his enemies. Another follower would say that he didn’t know Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus tried to explain to his disciples what would happen and what he was feeling. But they didn’t understand. They couldn’t imagine that Judas would turn against Jesus. Peter couldn’t imagine that he wouldn’t always follow Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus warned them before all these things happened. Later his warning would help them to believe that he always spoke the truth. He also gave the disciples instructions about how to treat each other. Even though they would face problems, they were to love one another."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus knew that he was obeying his Father. He was about to bring glory to God and accomplish God’s plan. Even in his sadness, Jesus was sure about what he had to do."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

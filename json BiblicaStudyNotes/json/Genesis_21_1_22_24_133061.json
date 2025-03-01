@@ -1,0 +1,107 @@
+{
+  "id": 133061,
+  "referenceId": 109115,
+  "name": "Genesis 21:1–22:24",
+  "localizedName": "Genesis 21:1–22:24",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Abraham continued to be faithful to God and to call on his name. God kept his promise to give Abraham and Sarah a son. God had promised to continue his covenant with Abraham through Isaac. Yet God told Abraham to sacrifice Isaac."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This was a "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108263",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "test"
+              },
+              {
+                "type": "text",
+                "text": " to see if Abraham fully trusted God to provide for him. Abraham was willing to obey because he believed God would keep his promises. This is explained in Hebrews 11:19. God stopped Abraham from sacrificing Isaac. He provided a ram to be sacrificed instead."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This was a picture of something that would happen hundreds of years later. God provided Jesus as a sacrifice to save human beings from sin. God was very pleased that Abraham trusted him completely and was willing to obey him. This wasn’t the same as the practice of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108264",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "sacrificing children"
+              },
+              {
+                "type": "text",
+                "text": " in the Old Testament. God repeated the blessings of the covenant to Abraham."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

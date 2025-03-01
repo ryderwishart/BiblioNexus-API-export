@@ -1,0 +1,64 @@
+{
+  "id": 133042,
+  "referenceId": 109096,
+  "name": "Revelation 14:14–20",
+  "localizedName": "Revelation 14:14–20",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In Matthew 9:37–38 and John 4:35–38 Jesus had talked about the world as a harvest field. This meant that people were ready to believe in him and follow him."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In John’s vision, John saw Jesus harvest the earth’s corn. This was a picture of Jesus saving those who belong to him. John also saw an angel harvest the earth’s grapes. This could be a picture of God’s anger and judgement against those who do evil. It could also be a picture of God’s people who were put to death. Their blood was spilled as they laboured to follow Jesus faithfully."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

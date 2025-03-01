@@ -1,0 +1,58 @@
+{
+  "id": 132141,
+  "referenceId": 108195,
+  "name": "Sin",
+  "localizedName": "Sin",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Thoughts, words, actions or desires that go against what God wants. These are harmful to the person, to others and to the rest of creation. Sin came into the world when Adam and Eve disobeyed God. Sin destroyed the peace between God and human beings. It destroyed the peace between human beings and the peace between everything that God made. Sin brings death. It keeps human beings separated from God. The Bible describes sin as a master and human beings as its slaves. Sin is evil. Jesus is the only one powerful enough to destroy the power of sin. Only Jesus can free humans from it."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

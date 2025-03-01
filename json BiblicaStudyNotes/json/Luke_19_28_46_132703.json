@@ -1,0 +1,90 @@
+{
+  "id": 132703,
+  "referenceId": 108757,
+  "name": "Luke 19:28–46",
+  "localizedName": "Luke 19:28–46",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus finally arrived in Jerusalem. The crowd shouted words from Psalm 118. For hundreds of years that psalm had been sung to celebrate God rescuing Israel. The people sang it for Jesus. They blessed him as the King sent by God to save them."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Before he started his work in the city, Jesus wept for Jerusalem. He wished God’s people had chosen the way of peace. God had come to his people through Jesus. But most of them didn’t recognise Jesus as God’s Son. They would be judged for that. In a few years, Roman armies would come and destroy Jerusalem."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "But first Jesus had work to do. He started at the temple. The purpose of the temple was to be a home for God. It was to be a "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108361",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "holy"
+              },
+              {
+                "type": "text",
+                "text": " place for all peoples to pray. So Jesus drove out those who had turned it into an unfair market."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

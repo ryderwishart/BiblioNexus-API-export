@@ -1,0 +1,73 @@
+{
+  "id": 132699,
+  "referenceId": 108753,
+  "name": "Luke 18:18–30",
+  "localizedName": "Luke 18:18–30",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "A rich ruler asked Jesus a question about eternal life. This ruler was talking about life in the time when God rules completely as King. The ruler had a lot of authority and money. He had worked hard to obey God’s commandments his whole life. But Jesus said that wasn’t enough."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The ruler needed to give his money to the poor and to follow Jesus. That would make him part of God’s kingdom. The man was sad because he didn’t want to give up his riches. This showed how deeply he was committed to his wealth. The ruler wanted to keep his money more than he wanted to serve God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Many Jews believed that riches were a sign that God was pleased with them. So people were surprised at Jesus’ words about money. Jesus asks his followers to give up many things to serve God’s kingdom. But he promises that they will receive from God much more than they give up. In God’s kingdom they will have eternal life that can never be destroyed."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

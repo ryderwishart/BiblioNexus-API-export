@@ -1,0 +1,56 @@
+{
+  "id": 132503,
+  "referenceId": 108557,
+  "name": "Son of Man",
+  "localizedName": "Son of Man",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "A way to talk about a person or human being. It’s also the name of someone in a vision Daniel had (Daniel 7:13–14). In the vision, the son of man saved Israel from their enemies. Jesus called himself the Son of Man. This was a way to talk about how he is human and has God’s authority. Jesus explained that as the Son of Man he would suffer. Then he would win victory over God’s enemies. Those enemies are sin, death and evil. Jesus would do this for all human beings."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

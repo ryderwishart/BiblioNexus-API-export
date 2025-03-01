@@ -1,0 +1,167 @@
+{
+  "id": 133069,
+  "referenceId": 109123,
+  "name": "Genesis 45:16–50:26",
+  "localizedName": "Genesis 45:16–50:26",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Before leaving Canaan, Jacob worshipped God at "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108295",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Beersheba"
+              },
+              {
+                "type": "text",
+                "text": ". God appeared to him in a "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108296",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "vision"
+              },
+              {
+                "type": "text",
+                "text": ". God spoke parts of the covenant again. God promised to bring Jacob’s family back to the land of Canaan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Abraham’s family line had grown very large. Joseph used his authority to provide land for Jacob’s family. They could continue their work as shepherds in "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108297",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Goshen"
+              },
+              {
+                "type": "text",
+                "text": ". Joseph also used his authority to provide food for the Egyptians and people from other lands. The way he did this made Pharaoh richer and more powerful. Later this would cause problems for Abraham’s family line. God had warned Abraham about these problems in Genesis 15:13."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jacob adopted Joseph’s sons "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108298",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Ephraim"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108299",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Manasseh"
+              },
+              {
+                "type": "text",
+                "text": " as his own. After speaking the father’s blessing to his sons, Jacob died. After Jacob’s death the brothers were afraid that Joseph would finally harm them. But Joseph had fully forgiven his brothers. Though he had suffered a lot, God had saved many lives through him. This was one way that Abraham’s family line was a blessing to others."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "It was very important both to Jacob and to Joseph to be buried in Canaan. They trusted God’s promise to give the land of Canaan to Abraham’s family line."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

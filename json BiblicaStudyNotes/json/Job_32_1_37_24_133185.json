@@ -1,0 +1,90 @@
+{
+  "id": 133185,
+  "referenceId": 109239,
+  "name": "Job 32:1–37:24",
+  "localizedName": "Job 32:1–37:24",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Elihu was younger than Job’s other friends. It’s thought that he was also from "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108411",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Edom"
+              },
+              {
+                "type": "text",
+                "text": ". Elihu was angry at Eliphaz, Bildad and Zophar. They hadn’t fully answered Job or shown how Job was wrong."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Elihu thought that it was wrong for Job to question God. He thought that Job believed he was right and that God was wrong. This made Elihu angry. But the answer he gave about Job’s suffering was like the answers of the others. Elihu believed that God allowed Job to suffer in order to correct him. The suffering was seen as a warning to keep Job from sinning. Elihu thought that this would save Job from being put to death for his sins."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Elihu understood that God never does anything evil, wrong or unfair. So he thought it was wrong for Job to think that God treated him unfairly. He thought that this showed that Job was full of pride. Elihu understood that God has complete power over everything. God is the Creator who made the world and everything in it. God is the only one able to keep the life of the world going. For Elihu, this meant that people can’t understand God’s reasons for doing something. So he thought that people shouldn’t ask questions about God’s reasons."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

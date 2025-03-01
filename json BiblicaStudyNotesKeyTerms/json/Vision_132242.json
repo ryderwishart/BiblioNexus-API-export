@@ -1,0 +1,75 @@
+{
+  "id": 132242,
+  "referenceId": 108296,
+  "name": "Vision",
+  "localizedName": "Vision",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "When God shows human beings something in the heavenly world ("
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108529",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "heavenly world"
+              },
+              {
+                "type": "text",
+                "text": "). Visions from God always agree with the truth about who God is. They are one way that God makes himself and his plans known to people. He appears to people and shows them something about who he is. He may also give them a message in the vision. The message may be just for the person who has the vision. Or God may want them to share the message with others. God can also send angels to appear to people in a vision. Visions can occur through dreams when people are asleep. People don’t make visions from God happen. They are a gift from God. Some visions are from the devil and evil spiritual beings. Those visions are harmful and don’t show the truth about who God is. Some people pretend to have visions. They do this to trick others with teachings that aren’t true."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

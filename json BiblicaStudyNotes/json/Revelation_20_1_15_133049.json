@@ -1,0 +1,159 @@
+{
+  "id": 133049,
+  "referenceId": 109103,
+  "name": "Revelation 20:1–15",
+  "localizedName": "Revelation 20:1–15",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In the vision, John saw the end of Satan and of all evil. Satan is another name for the devil."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "First, an angel locked the devil in the Abyss for "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108189",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "1,000 years"
+              },
+              {
+                "type": "text",
+                "text": ". Then the devil tried again to oppose God. John saw this take place as a battle that the devil organised. He told lies everywhere on earth and convinced the nations to oppose God and God’s people."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "John didn’t record a battle. Instead, God sent fire. This stopped those who wanted to destroy God’s plans and his people. Then the devil was thrown into the lake of fire. This was the judgement of second death. That’s how John described the way that God destroyed the devil’s power for ever."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The same thing happened to "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108190",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Death and Hell"
+              },
+              {
+                "type": "text",
+                "text": ". After God’s judgement against the devil was completed, God judged all human beings. This was judgement day and the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108571",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "day of the Lord"
+              },
+              {
+                "type": "text",
+                "text": ". God’s people had been waiting for it for a very long time."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "John saw that every person who had ever lived was judged. Some people had refused to worship the true God and instead worshipped the beast. They weren’t recorded in the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108344",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "book of life"
+              },
+              {
+                "type": "text",
+                "text": ". Instead of enjoying God’s kingdom they joined the beast in the lake of fire."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

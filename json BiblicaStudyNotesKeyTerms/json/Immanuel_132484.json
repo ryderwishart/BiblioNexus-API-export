@@ -1,0 +1,58 @@
+{
+  "id": 132484,
+  "referenceId": 108538,
+  "name": "Immanuel",
+  "localizedName": "Immanuel",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A name in the Hebrew language that means God is with us. In the time of King Ahaz, Isaiah prophesied about a boy named Immanuel. He would be a sign that God was with the southern kingdom. This child was a sign that the southern kingdom would be saved. They would be saved from enemy armies that attacked them. Isaiah’s prophecy also had a meaning for the future. Matthew wrote about this in his gospel. Through Jesus, God was with his people in a human body. Jesus is the Immanuel who saves God’s people from the enemies of sin and death."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

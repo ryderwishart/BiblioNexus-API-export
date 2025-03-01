@@ -1,0 +1,75 @@
+{
+  "id": 132460,
+  "referenceId": 108514,
+  "name": "Divorce",
+  "localizedName": "Divorce",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "When people who are married stop being married ("
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108206",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "marriage"
+              },
+              {
+                "type": "text",
+                "text": "). The Law of Moses included rules about divorce. Divorce was made official by a written letter when the couple stopped living together. Some prophets used divorce as a picture. It described something about the relationship between the people of Israel and God. They hadn’t been faithful to the Mount Sinai covenant. So God allowed his people to be forced to live in exile in Assyria and Babylon. They no longer lived in the land he had given them. This was like when a married couple stopped living together. In this way the exile was like a divorce between God and his people."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

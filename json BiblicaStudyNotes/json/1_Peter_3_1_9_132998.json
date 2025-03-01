@@ -1,0 +1,133 @@
+{
+  "id": 132998,
+  "referenceId": 109052,
+  "name": "1 Peter 3:1–9",
+  "localizedName": "1 Peter 3:1–9",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Peter taught wives and husbands to live in certain ways. Many of these ways were different from what was common in Peter’s time. The main point of his instructions was to help believers show unbelievers who God is. They showed this by the way they lived."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Another point was to help "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108206",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "married"
+              },
+              {
+                "type": "text",
+                "text": " believers to "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108227",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "pray"
+              },
+              {
+                "type": "text",
+                "text": " together. In the first churches, it was common for women to become believers before men did. This gave a wife the opportunity to show her husband how much Jesus changes people."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Peter taught that a wife’s real beauty doesn’t come from the way she looks. It comes from the hope she has in God. This hope makes her full of gentleness instead of full of fear. Real authority for a husband doesn’t come from forcing his wife to do things. It comes from honouring her as equal before God. The husband must use his strength to protect and care for his wife."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Both men and women who are believers receive God’s gift of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108569",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "eternal life"
+              },
+              {
+                "type": "text",
+                "text": ". Because of this, Peter taught all the believers to be humble toward one another. They mustn’t do wrong to people who do wrong to them. Instead they were to offer kind words and love. This was one way to do good deeds that unbelievers would notice."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

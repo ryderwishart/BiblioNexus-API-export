@@ -1,0 +1,73 @@
+{
+  "id": 132844,
+  "referenceId": 108898,
+  "name": "Romans 10:1–21",
+  "localizedName": "Romans 10:1–21",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul explained that many Jews really wanted to obey God. They tried to do this by obeying the Law of Moses. They thought that they had the power to obey the law perfectly. They thought that this would bring them peace with God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "They didn’t understand that humans don’t have the power to make themselves right with God. Only God has this power. God makes people right with him when they have faith in him."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "People can only believe in Jesus if they have heard about him. Paul used words from Psalm 19 to show something about creation. The sun, moon and stars are witnesses to everyone on earth about who God is. Paul made it clear that the Jews had heard the message about Jesus."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 132764,
+  "referenceId": 108818,
+  "name": "John 20:1–18",
+  "localizedName": "John 20:1–18",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The day of Jesus’ resurrection wasn’t like the first day in a regular week. It was a new and special first day. It was the first day of Jesus being raised from the dead. This meant it was the first day of something new for the whole world."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus’ resurrection brought life into the world that death could never destroy. This was different from when Jesus raised Lazarus from the dead. Others had to take the cloth and linen from Lazarus’ body. And Lazarus would die again later. But Jesus didn’t need anyone to take off his burial cloths. And he will never die again."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Peter didn’t understand what the empty tomb meant. The other disciple with him was John. John saw the way the cloths were lying in the grave. He didn’t understand what had happened. But he believed that Jesus had risen from the dead."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108068",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Mary Magdalene"
+              },
+              {
+                "type": "text",
+                "text": " was sad and confused about everything. She was sure that Jesus was still dead. She was sure even when the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108313",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "angel"
+              },
+              {
+                "type": "text",
+                "text": " asked her about her sadness. She was sure until she heard Jesus call her name. Jesus gave Mary a message to share. His God and Father is the God and Father of all who believe in him! Mary was full of joy. She was the first person to spread the wonderful news. Jesus is alive!"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

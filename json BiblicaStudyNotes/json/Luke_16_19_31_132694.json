@@ -1,0 +1,73 @@
+{
+  "id": 132694,
+  "referenceId": 108748,
+  "name": "Luke 16:19–31",
+  "localizedName": "Luke 16:19–31",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The last story in Luke chapter 16 was a warning to the Pharisees. They loved money but they weren’t following God’s instructions about taking care of the poor."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus showed that God cares deeply about the poor. His people shouldn’t be interested in living an easy and comfortable life. They should take care of others."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The rich man in this story hadn’t done that. He had used his money for himself. He hadn’t shared freely. After the rich man died, he suffered terribly. He wanted someone to warn his family to change their ways while they were still alive. But they had never listened to God’s teachings. So they wouldn’t listen to a new warning. They wouldn’t change even if they saw someone rise from the dead."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

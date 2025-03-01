@@ -1,0 +1,73 @@
+{
+  "id": 133198,
+  "referenceId": 109252,
+  "name": "Psalms 116:1–19",
+  "localizedName": "Psalms 116:1–19",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Psalm 116 is a poem that gives thanks to God. The speaker explains why they love God. It’s because God heard their cry for help and took action to save them."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This psalm has many things in common with Psalm 22. First, the speaker recognises things that are true about God. This includes God being full of tender love. Second, the speaker describes how they felt when they were suffering. They were sad, terrified and in great pain. Third, the speaker trusted in God even when they were facing danger."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "What is different from Psalm 22 is that God has already rescued the speaker. That is why they are thanking God. They show that they are thankful in many ways. They worship God and offer a sacrifice. They tell others what God has done for them. They keep their promises to God and serve him faithfully."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

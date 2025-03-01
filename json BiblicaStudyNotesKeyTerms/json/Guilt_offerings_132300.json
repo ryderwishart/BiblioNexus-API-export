@@ -1,0 +1,58 @@
+{
+  "id": 132300,
+  "referenceId": 108354,
+  "name": "Guilt offerings",
+  "localizedName": "Guilt offerings",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Sacrifices or offerings for when people were unfaithful to God and sinned without meaning to. They were also for when people sinned against others. God required people to make these sacrifices. When people realised what they had done wrong, they had to stop. They had to turn back to God and trust him to forgive them. They would show this by making a guilt offering. Sacrificing a ram was a way to pay for the sin the person had done. Then the guilty person had to return what they had taken. They also had to pay back extra to the person they had harmed. The priests burnt part of the guilt offering. Other parts they ate inside the courtyard of the holy tent or temple."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": 132306,
+  "referenceId": 108360,
+  "name": "Anointed",
+  "localizedName": "Anointed",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "In the Old Testament, to anoint meant to pour oil on someone. Usually the oil was poured on their head. Often this meant that God had given the person certain work to do. Priests and kings were anointed to show that God chose them to be leaders. It showed that his power was with them. In the New Testament, Jesus’ followers were anointed with the Holy Spirit. This means that the Holy Spirit lives inside of each believer. The Spirit shows that Jesus’ followers belong to God and are part of his people. The work they are anointed to do is to continue doing Jesus’ work on earth. Believers would also anoint one another with oil when they prayed for healing. The oil didn’t heal people. It showed that they trusted in God as they prayed. ("
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108142",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Olive tree"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

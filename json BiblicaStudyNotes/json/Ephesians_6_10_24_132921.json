@@ -1,0 +1,116 @@
+{
+  "id": 132921,
+  "referenceId": 108975,
+  "name": "Ephesians 6:10–24",
+  "localizedName": "Ephesians 6:10–24",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The devil’s plan for the world is evil. It’s the opposite of God’s plan to bring heaven and earth together under Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "On the cross, Jesus won the victory over the powers of evil, sin and death. That is the good news of peace that Paul talked about. Jesus doesn’t yet rule completely over all the earth. Until he does, the devil continues trying to stop God’s plan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul described this like a "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108566",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "spiritual fight"
+              },
+              {
+                "type": "text",
+                "text": " between the spiritual forces of evil and God. God’s people are part of this battle. God gives them "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108157",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "spiritual armour"
+              },
+              {
+                "type": "text",
+                "text": " and weapons to help them. Believers can trust in God’s power to save them from evil. God’s power also makes them able to pray."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The believers’ prayers helped Paul to share the good news about Jesus boldly. Paul ended his letter with a blessing for the believers he was writing to. The blessing reminded them of how to be part of God’s plan for the world. They received peace, love and faith from God. This allowed them to live together as a family that loves and serves Jesus."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

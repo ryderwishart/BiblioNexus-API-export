@@ -1,0 +1,73 @@
+{
+  "id": 132685,
+  "referenceId": 108739,
+  "name": "Luke 13:18–30",
+  "localizedName": "Luke 13:18–30",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Most Jews in Jesus’ time were waiting for God’s kingdom. They expected it to come in a big and grand way. But Jesus taught that God’s kingdom comes into the world in a very different way. He told stories to explain how."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus said the kingdom is like a small seed. It’s also like a tiny amount of yeast. God begins in a small way with small things. But these grow and grow."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Many in Israel loved to hear Jesus’ teaching and see his mighty works. But they didn’t really know him and didn’t obey his teachings. They thought they would be part of God’s kingdom because they were from Abraham’s family line. So they didn’t try hard to enter it. It was like they were walking past the door to God’s kingdom. Because of this the door to God’s kingdom would be opened for other nations."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

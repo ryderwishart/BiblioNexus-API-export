@@ -1,0 +1,107 @@
+{
+  "id": 132712,
+  "referenceId": 108766,
+  "name": "Luke 22:63–23:7",
+  "localizedName": "Luke 22:63–23:7",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus was first tried by Israel’s religious leaders. This happened around the year "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108064",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "AD"
+              },
+              {
+                "type": "text",
+                "text": " 30."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108307",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "elders"
+              },
+              {
+                "type": "text",
+                "text": " said that Jesus was guilty of teaching things that weren’t true about God. According to the Law of Moses, he should be put to death for doing that. But the Roman government didn’t allow the Jewish court to put anyone to death."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "So the Jewish religious leaders sent Jesus to the Roman governor Pilate. They brought a charge against Jesus according to Roman laws. They said that Jesus claimed to be a king. The Roman government punished Jews who fought against Roman rule. But Pilate didn’t think that Jesus was guilty of anything. So he sent him to be tried by the Jewish king named Herod Antipas."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

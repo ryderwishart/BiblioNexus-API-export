@@ -1,0 +1,82 @@
+{
+  "id": 132824,
+  "referenceId": 108878,
+  "name": "Acts 26:1–32",
+  "localizedName": "Acts 26:1–32",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul was given the opportunity to share the truth about Jesus with Agrippa. He spoke plainly since Agrippa understood Jewish ways."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul explained that he had tried very hard to obey Israel’s God and his laws. He had given all his energy to attack and punish the followers of Jesus. But then Jesus appeared to Paul. Jesus was alive again after he had been killed. This was the story that Paul told Agrippa."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Meeting Jesus completely changed Paul. After that, he gave all his energy to speak about the hope of Israel. For hundreds of years Israel had waited and hoped for God to send the Messiah. Jesus is the Messiah. He forgives sin. He turns people away from the devil’s power and back to God. Anyone who trusts in Jesus will be part of God’s people. How people live after they believe in Jesus shows that they have turned away from sin."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Everything Paul taught agreed with what Jewish Scriptures taught. The Messiah was the first to rise from the dead. And in the future all people will rise from the dead. Festus thought Paul was crazy to talk like that. Paul calmly urged Agrippa to believe that Jesus is the Messiah. Agrippa didn’t believe Paul’s teaching. But he didn’t think Paul was guilty of any crime. He could have set Paul free. But God had other plans for Paul to share the message about Jesus in Rome."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

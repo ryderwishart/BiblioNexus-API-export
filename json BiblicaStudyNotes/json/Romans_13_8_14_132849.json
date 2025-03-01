@@ -1,0 +1,99 @@
+{
+  "id": 132849,
+  "referenceId": 108903,
+  "name": "Romans 13:8–14",
+  "localizedName": "Romans 13:8–14",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Law of Moses showed Israel how to live. The way of living that Jesus taught his followers is like a new law. Jesus’ law or commandment was for people to love one another (John 15:12)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "When people love others, they are doing everything that the Law of Moses required. Believers must show love for others as they wait for "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108065",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Jesus’ return"
+              },
+              {
+                "type": "text",
+                "text": " to earth."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul compared this time of waiting to waking up in the morning from sleep. The nighttime was when people did evil things before they started following Jesus. The daytime is when Jesus returns to earth and people obey him completely."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul wanted believers to start living now the way they will live when Jesus returns. Paul described this as putting Jesus on like he is clothing that they wear. This means that believers must be close to Jesus like clothing is close to their skin. It also means that others can see that believers are following Jesus faithfully."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

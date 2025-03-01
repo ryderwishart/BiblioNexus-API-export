@@ -1,0 +1,90 @@
+{
+  "id": 133050,
+  "referenceId": 109104,
+  "name": "Revelation 21:1–8",
+  "localizedName": "Revelation 21:1–8",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In the vision, John saw things that Isaiah and other writers in the Bible had talked about. He saw God make heaven and earth new. The world was no longer the way it had been before. There was no sadness, pain or death. This was because God had destroyed sin, death and all evil."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "God lived fully with people in what John called the Holy City. John also called it the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108549",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "new Jerusalem"
+              },
+              {
+                "type": "text",
+                "text": ". John had seen it come down from heaven. This showed that heaven and earth were made one."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "God the Father was the one sitting on the throne. He spoke to John. This hadn’t happened before in the visions. It showed that John could boldly approach God’s throne. The writer of Hebrews had talked about this in Hebrews 4:16. God’s words and promises to his people were tender. His children were safe from all those who had caused harm by their evil deeds."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "id": 133243,
+  "referenceId": 109297,
+  "name": "Daniel 3:1–30",
+  "localizedName": "Daniel 3:1–30",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Babylon ruled over many different people groups. Nebuchadnezzar ordered everyone to worship a statue of a "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108284",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "false god"
+              },
+              {
+                "type": "text",
+                "text": ". This was a test to see if they accepted Nebuchadnezzar’s authority as king over them."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Shadrach, Meshach and Abednego were humble. They spoke to Nebuchadnezzar with respect. This showed that they accepted Nebuchadnezzar’s authority. But they were faithful to the Mount Sinai covenant by worshipping only God. They refused to worship false gods. This meant that they would be harmed and put to death for not obeying Nebuchadnezzar. They believed that God had the power to rescue them. But even if "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108229",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "God chose"
+              },
+              {
+                "type": "text",
+                "text": " not to rescue them they would remain faithful to God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Nebuchadnezzar ordered that Shadrach, Meshach and Abednego be put to death. He was shocked that what he ordered didn’t happen. God sent an "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108313",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "angel"
+              },
+              {
+                "type": "text",
+                "text": " to protect Shadrach, Meshach and Abednego. This showed Nebuchadnezzar that the God of the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108503",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Jews"
+              },
+              {
+                "type": "text",
+                "text": " had more power than he did. Their God had power that other gods didn’t have. So Nebuchadnezzar allowed the people he ruled over to worship the God of the Jews."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

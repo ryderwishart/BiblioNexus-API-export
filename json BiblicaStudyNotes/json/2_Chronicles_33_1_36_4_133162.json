@@ -1,0 +1,121 @@
+{
+  "id": 133162,
+  "referenceId": 109216,
+  "name": "2 Chronicles 33:1–36:4",
+  "localizedName": "2 Chronicles 33:1–36:4",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "2 Chronicles records a story about Manasseh that wasn’t included in 2 Kings. He made himself humble before God and prayed for God to help him. He did this after God brought judgement against him for his evil deeds. God allowed the Assyrian army to make Manasseh a prisoner in "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108498",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Babylon"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Manasseh turned away from his evil ways after God punished and corrected him. Because Manasseh repented, God allowed him to return to Jerusalem. When he once again ruled as king, he led the people to worship only God. He no longer did the evil things he had done before. Yet his son Amon followed the evil example Manasseh had set for many years. He didn’t follow Manasseh’s example of repenting and being humble."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "BSN_KeyTerms_Josiah",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Josiah"
+              },
+              {
+                "type": "text",
+                "text": " was a king like David, Solomon and Hezekiah. He got rid of everything that was used to worship false gods. He did this in the southern kingdom. He also did it in the land that where the northern kingdom had been. Assyria controlled that land. But any Israelites who still lived there were allowed to worship the true God. So were the outsiders who lived there."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Josiah had the temple repaired. He made sure that the Book of the Law was read to the people. This was a copy of the Law of Moses. He learnt about the covenant curses while reading about the Mount Sinai covenant. He hoped to stop the covenant curses from coming. So while he was king, all 12 tribes of Israel obeyed God. Those in the southern kingdom and those left in the northern kingdom followed God faithfully."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "When he was older, Josiah made a foolish decision to fight against Egypt’s army. This led to his death. It also led to Egypt taking control of the government of the southern kingdom. The king of Egypt chose their next king."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

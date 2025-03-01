@@ -1,0 +1,58 @@
+{
+  "id": 132280,
+  "referenceId": 108334,
+  "name": "Holy tent",
+  "localizedName": "Holy tent",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "The tent where God lived among the Israelites after they left Egypt. It’s where he talked with Moses and with the people of Israel. God gave Moses clear instructions about how to make it. The holy tent included the ark of the covenant and an altar for incense. It included lampstands and a table for holy bread. It included an altar for sacrifices and a courtyard. It included a large bowl of water for the priests to wash their hands and feet. Skilled workers made the tent according to the pattern God showed Moses on Mount Sinai. The Israelites took the holy tent with them everywhere they travelled. It was also a sign of how God would work through Jesus many years later."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

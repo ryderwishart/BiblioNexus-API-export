@@ -1,0 +1,58 @@
+{
+  "id": 132422,
+  "referenceId": 108476,
+  "name": "Jeroboam",
+  "localizedName": "Jeroboam",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "The son of Nebat and Zeruah who was an official in Solomon’s government. He was from the tribe of Ephraim. He became the first king of the northern kingdom of Israel. God promised to make his rule secure if Jeroboam served him faithfully. But Jeroboam stopped the Israelites from worshipping God the way God had told them to. Jeroboam appointed people who weren’t Levites to be priests. He led the people to worship golden statues of calves. These actions were called the sins of Jeroboam. Because of these sins Jeroboam’s family line was destroyed."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

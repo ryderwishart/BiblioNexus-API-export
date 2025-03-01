@@ -1,0 +1,93 @@
+{
+  "id": 133015,
+  "referenceId": 109069,
+  "name": "1 John 5:1–21",
+  "localizedName": "1 John 5:1–21",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "The truth about Jesus is that he is the Son of God and fully a human being. John mentioned three witnesses that show this is true. The first witness is that Jesus was born like human beings are born. The second witness is that he died like human beings die. The third witness is the Holy Spirit. God’s Spirit teaches that God’s Son has a human body. Those who believe this have life from Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "God’s children can be sure about having God’s love and having life from Jesus. This helps them be bold as they pray to God and obey him. John encouraged the believers to obey God’s commands. They could do this because they had won the spiritual fight over the world. This meant that Jesus had set them free from the control of the devil. The devil controls the world by keeping people slaves to sin. Believers have faith in Jesus and believe that he has set them free."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "That is why God’s children don’t keep sinning again and again on purpose. If they do this it becomes sin that leads to death. This means that people choose to continue sinning and refuse to receive life from Jesus. Instead, God’s children pray and are forgiven by God. They "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108332",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "worship only God"
+              },
+              {
+                "type": "text",
+                "text": ". They belong to Jesus and worship him as the true God."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 132469,
+  "referenceId": 108523,
+  "name": "Feast of Purim",
+  "localizedName": "Feast of Purim",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "The Jewish feast to celebrate being rescued from Haman’s plan to destroy all Jews. It isn’t one of the feasts described in the Law of Moses. Jews began celebrating it when the Persian government was in control. They celebrated it on the 14th and 15th days of the 12th month. It was named Purim because Haman cast lots to decide when to destroy the Jews. In the Hebrew language the word Pur means lots. Esther and Mordecai’s order rescued the Jews from Haman’s plans. The feast was to be a joyful time of good food and giving gifts to the poor. Reading the book of Esther out loud became a common practice during the Feast of Purim."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

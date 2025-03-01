@@ -1,0 +1,91 @@
+{
+  "id": 133067,
+  "referenceId": 109121,
+  "name": "Genesis 39:1–41:57",
+  "localizedName": "Genesis 39:1–41:57",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Even when Joseph wasn't in Canaan, God protected and blessed him. God had done the same thing with Jacob many years before."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Joseph had success as a manager in Potiphar’s house. Potiphar was the Egyptian official who bought Joseph as his slave."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Joseph had success as a manager in prison. He had success understanding what people’s dreams meant."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "He also faced many problems. He had to work as a slave. He was put in prison even though he hadn’t done anything wrong. An official who could have helped him be set free from prison forgot about him."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Then God helped Joseph understand what Pharaoh’s dreams meant. After that, Pharaoh made Joseph the ruler of all of Egypt. Joseph made sure that there would be enough food during the years of terrible hunger."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": 132733,
+  "referenceId": 108787,
+  "name": "John 6:22–59",
+  "localizedName": "John 6:22–59",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The crowd that had been fed kept looking for Jesus. They found him in "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108092",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Capernaum"
+              },
+              {
+                "type": "text",
+                "text": " and asked him many questions."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus had given them bread on the mountainside. Now he taught them about spiritual bread and food. People’s bodies need food to stay alive. To be alive spiritually people need the spiritual food that Jesus gives. People receive this spiritual food by believing that God sent Jesus and by following him. This is like eating spiritual bread."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "God had given the Israelites "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108323",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "manna"
+              },
+              {
+                "type": "text",
+                "text": " through Moses. It took away their hunger for a little while. That bread didn’t make them live for ever. God sent Jesus as the spiritual bread for all people to eat. It allows them to live for ever."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus said I am the bread of life. This was the first of Jesus’ seven "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108093",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "I am statements"
+              },
+              {
+                "type": "text",
+                "text": " recorded by John. It was hard for people to understand what Jesus was talking about. He was inviting them to believe that he is God’s Son. Those who believe this and follow Jesus will be raised from the dead. They will have eternal life and live with God for ever."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

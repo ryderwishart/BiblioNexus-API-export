@@ -1,0 +1,99 @@
+{
+  "id": 132742,
+  "referenceId": 108796,
+  "name": "John 9:35–10:21",
+  "localizedName": "John 9:35–10:21",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus searched for the man he had healed. That man wasn’t allowed to worship God in the synagogue any longer. When Jesus found him, the man worshipped Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus talked about people being like sheep and himself as a "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108278",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "shepherd"
+              },
+              {
+                "type": "text",
+                "text": ". Jesus was a good shepherd to the man he healed. The blind man was like the sheep who heard the shepherd’s voice and followed him."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus described the sheep pen like a shelter for God’s family. People enter the sheep pen through Jesus. That is why Jesus said I am like a gate for the sheep. This was one of his I am statements. Another one was when Jesus said, I am the good shepherd."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Other leaders were like hired workers or even like thieves and robbers. But Jesus knows each sheep by name and loves each one. He wants all people to be joined together like sheep in one sheep pen. They will know the Father and will have everything they need. Jesus gave his life so that his sheep could live in the fullest possible way."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

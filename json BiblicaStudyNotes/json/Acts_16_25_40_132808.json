@@ -1,0 +1,99 @@
+{
+  "id": 132808,
+  "referenceId": 108862,
+  "name": "Acts 16:25–40",
+  "localizedName": "Acts 16:25–40",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus had warned his followers that they would have trouble. But they could have his peace even while facing trouble (John 16:33)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul and Silas faced serious trouble and were in jail after being badly whipped. Yet they prayed and sang praises to God. God answered by doing something that seemed impossible. He sent an earthquake and set all the prisoners free."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The jailer wanted to kill himself because he thought they had all escaped. But Paul stopped him. Then the jailer and his family believed the message about Jesus. They were set free from their sins. The jailer treated Paul and Silas like honoured guests instead of prisoners."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "After that the judges of Philippi set Paul and Silas free. Paul explained that he and Silas were "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108047",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Roman citizens"
+              },
+              {
+                "type": "text",
+                "text": ". The judges said they were sorry for punishing Roman citizens without giving them a trial. Paul and Silas’ trouble in Philippi was over. They met with Lydia and the believers again before continuing their journey."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

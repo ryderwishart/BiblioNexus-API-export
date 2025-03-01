@@ -1,0 +1,58 @@
+{
+  "id": 132274,
+  "referenceId": 108328,
+  "name": "Mount Sinai covenant",
+  "localizedName": "Mount Sinai covenant",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "God chose to work through the people of Israel in his plan for saving the world. God showed this by making a covenant with Jacob’s family line. The covenant was with those whom God had saved from being slaves in Egypt. It was also with all Israelites who would be born after them. The people were to obey the Ten Commandments and the other laws that God gave Moses. God would give them health, safety, peace and many children while they lived in Canaan. He would give them enough to eat and drink. He would make them a kingdom of priests and a holy nation. Circumcision and the Sabbath day were the signs of the covenant. God made this covenant with his people on Mount Sinai. Moses was the go-between for the covenant."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

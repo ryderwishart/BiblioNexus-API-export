@@ -1,0 +1,58 @@
+{
+  "id": 132510,
+  "referenceId": 108564,
+  "name": "Man of sin",
+  "localizedName": "Man of sin",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Someone who will completely oppose God. In 2 Thessalonians 2:1–12, Paul described him as someone who will do evil things. But Jesus will stop the man of sin. Paul may have been talking about a certain person. Or he may have been describing the powers of sin and evil. Paul described the man of sin in ways like Daniel described certain kings. Daniel’s visions about these kings were recorded in Daniel chapters 7 and 11. These kings opposed God, spoke against him and treated God’s people badly."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

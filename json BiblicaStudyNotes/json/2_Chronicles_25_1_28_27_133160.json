@@ -1,0 +1,167 @@
+{
+  "id": 133160,
+  "referenceId": 109214,
+  "name": "2 Chronicles 25:1–28:27",
+  "localizedName": "2 Chronicles 25:1–28:27",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Amaziah hired soldiers from the northern kingdom. Then a prophet told him not to use those soldiers. God wanted the kings to depend on him when they fought battles. Their success didn’t depend on the size of their army. Amaziah listened to the prophet and obeyed his message."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Later, God sent another prophet to Amaziah. That prophet spoke against Amaziah for worshipping false gods. Amaziah didn’t want that prophet’s advice. Instead, Amaziah listened to advisers that he chose. With them he made a foolish decision to attack the northern kingdom. God brought judgement against Amaziah by allowing the northern kingdom to win the battle."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Amaziah’s son Uzziah worshipped God and obeyed him faithfully. But then he became full of pride. He didn’t respect the differences between kings and priests. He tried to burn "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108371",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "incense"
+              },
+              {
+                "type": "text",
+                "text": " at the altar in the temple. Many years before, "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108393",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Korah"
+              },
+              {
+                "type": "text",
+                "text": " and his followers had tried to offer incense to God (Numbers 16). God had made it very clear that only priests were to do that."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Uzziah’s son Jotham followed God with all his heart. But Jotham’s son Ahaz didn’t follow God. He wasn’t like David at all. He led the people to worship false gods and he "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108264",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "sacrificed children"
+              },
+              {
+                "type": "text",
+                "text": " to those gods. Ahaz didn’t turn away from his sin. He didn’t "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108346",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "repent"
+              },
+              {
+                "type": "text",
+                "text": " even when armies attacked the southern kingdom. Ahaz tried to get help from the king of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108493",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Assyria"
+              },
+              {
+                "type": "text",
+                "text": " instead of from God. Then Ahaz shut the doors of the temple. This means that he fully stopped the community’s practices for worshipping the true God."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

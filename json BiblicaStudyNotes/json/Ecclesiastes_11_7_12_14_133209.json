@@ -1,0 +1,124 @@
+{
+  "id": 133209,
+  "referenceId": 109263,
+  "name": "Ecclesiastes 11:7–12:14",
+  "localizedName": "Ecclesiastes 11:7–12:14",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The last poem describes the main lessons the Teacher talked about throughout Ecclesiastes. The final words of the book do this as well. The main lesson was that everything is meaningless. Because of this, human beings should do three things."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "They should fully and freely enjoy life. They should be aware that they are going to die. And they should remember their Creator. Remembering their Creator means that they recognise who God is and who they are. God is the one true God with all power and authority. He keeps the earth going and gives his breath of life to human beings. He is the Judge who will show if people have done good while they lived. He will bring "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108233",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "judgement"
+              },
+              {
+                "type": "text",
+                "text": " against people for all the evil things they do."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Human beings are creatures created by God. So they must always be humble before their Creator. They don’t have the authority to judge what "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108229",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "God chooses"
+              },
+              {
+                "type": "text",
+                "text": " to do. They must always respect God and obey his commandments. It was helpful for the Teacher to ask his questions about life and meaning. His teachings, poems and proverbs help people know what actions to take in their lives. But human beings don’t need to spend all their time studying these questions. God made them to be satisfied during their short life. He made their "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108419",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "hearts"
+              },
+              {
+                "type": "text",
+                "text": " to be filled with joy."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

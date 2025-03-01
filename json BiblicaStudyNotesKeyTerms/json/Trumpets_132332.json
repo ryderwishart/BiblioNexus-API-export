@@ -1,0 +1,58 @@
+{
+  "id": 132332,
+  "referenceId": 108386,
+  "name": "Trumpets",
+  "localizedName": "Trumpets",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "In the Bible, trumpets were used for many purposes. They were used in worship services and feasts and in battles. Trumpets were used to make important announcements and as alarms. Before the Israelites reached Canaan, trumpet blasts let the 12 tribes know when to start marching. In the New Testament, Jesus and Paul talked about trumpets being blown. Trumpets would announce when God gathered his people and raised them from the dead. In Revelation, angels blew trumpets to announce parts of God’s judgement against evil."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

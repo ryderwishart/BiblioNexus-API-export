@@ -1,0 +1,185 @@
+{
+  "id": 133170,
+  "referenceId": 109224,
+  "name": "Nehemiah 2:1–20",
+  "localizedName": "Nehemiah 2:1–20",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Nehemiah was a faithful and trusted worker in the Persian government in "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108517",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Susa"
+              },
+              {
+                "type": "text",
+                "text": ". This was in keeping with "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108507",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Jeremiah"
+              },
+              {
+                "type": "text",
+                "text": "’s advice to the Jews who lived in exile. They were to "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108208",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "work"
+              },
+              {
+                "type": "text",
+                "text": " for the success of the city God sent them to (Jeremiah 29:7)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The king was pleased with Nehemiah’s work. This helped Nehemiah have success when he made his request to Artaxerxes. God also helped Nehemiah have success when he talked with Artaxerxes. The king allowed Nehemiah to travel to Jerusalem to rebuild the walls of the city. Artaxerxes provided everything Nehemiah needed to accomplish the task."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Jews in Jerusalem didn’t know Nehemiah’s plans. First Nehemiah explained how much God used Artaxerxes to help him. Then the Jews were ready to join him in the work."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Some people opposed the work of rebuilding the wall. This included Sanballat, Tobiah and Geshem. They were officials from other people groups who lived in and around Jerusalem. They falsely accused Nehemiah. They said that Nehemiah was going against the authority of the Persian government. They said this because the wall would help Jerusalem be a strong military fort. It would help protect the people inside from being attacked."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "But Nehemiah’s desire to rebuild the wall came from God. It wasn’t based on wanting to have power for himself and to fight against Artaxerxes. Nehemiah didn’t want those officials to be part of the community in Jerusalem. He didn’t want them to be part of the worship practices in the temple. The reasons for this are explained in other stories about them (Nehemiah chapters 4 and 6). They were "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108369",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "outsiders"
+              },
+              {
+                "type": "text",
+                "text": " who wanted to control Jerusalem and the Jews."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Outsiders who were completely committed to the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108226",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Lord"
+              },
+              {
+                "type": "text",
+                "text": " could be part of the community of God’s people. But outsiders who didn’t respect God, his commands or his people weren’t welcome."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

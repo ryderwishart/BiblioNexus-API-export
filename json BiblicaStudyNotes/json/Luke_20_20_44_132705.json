@@ -1,0 +1,90 @@
+{
+  "id": 132705,
+  "referenceId": 108759,
+  "name": "Luke 20:20–44",
+  "localizedName": "Luke 20:20–44",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus’ teachings led to conflict between him and Israel’s religious leaders. Jesus showed how they weren’t leading God’s people well or wisely. This made the leaders angry. They looked for ways to have him killed. They tried to trap Jesus into saying something against the Roman government. But his answer was so wise that they couldn’t have him arrested."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Then the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108058",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Sadducees"
+              },
+              {
+                "type": "text",
+                "text": " tried to trap him into saying something against the Law of Moses. They asked a difficult question about when people rise from the dead. But their trap didn’t work either. Instead, Jesus explained about life after God raises people from the dead. People who trust God will have a new kind of life. It will be completely different from what the Sadducees were talking about."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Then Jesus asked them a question about David that they couldn’t answer. After that the religious leaders stopped trying to trap Jesus with questions."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

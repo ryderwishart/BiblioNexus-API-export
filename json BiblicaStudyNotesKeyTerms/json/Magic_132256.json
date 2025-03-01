@@ -1,0 +1,58 @@
+{
+  "id": 132256,
+  "referenceId": 108310,
+  "name": "Magic",
+  "localizedName": "Magic",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "The use of spiritual power that doesn’t come from God. People use this power to try to control things or other people. They use this power to try to harm others. They use it to try and protect themselves from harm. They also use it to try to make changes in the world. Often these changes seem to be miracles. In the times and places of the Bible many people used magic. They believed that this spiritual power came from gods and goddesses. They believed that the spirits of dead family members could help them use this power. They believed that this power could also be found in the natural world. Many people still believe these things. They seek the help of gods, spiritual beings or things in the natural world."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

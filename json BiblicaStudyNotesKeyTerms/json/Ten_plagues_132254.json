@@ -1,0 +1,58 @@
+{
+  "id": 132254,
+  "referenceId": 108308,
+  "name": "Ten plagues",
+  "localizedName": "Ten plagues",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Ten ways that God brought judgement against Pharaoh, Egypt and the Egyptian false gods. They were mighty signs worked by God through Moses and Aaron. These signs showed Pharaoh, the Israelites and the earth God’s authority and power over everything. They showed that God uses his authority and power to help his people. The plagues were part of how God rescued his people from slavery in Egypt. God sent one plague each time that Pharaoh refused to let the Israelites leave Egypt. The plagues included water turning into blood, frogs, gnats and flies. They included livestock being killed and boils on the skin of animals and people. They included hail, locusts and darkness. During the last plague, the eldest son in every Egyptian family was killed. God saved the Israelites from the suffering that the plagues brought."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

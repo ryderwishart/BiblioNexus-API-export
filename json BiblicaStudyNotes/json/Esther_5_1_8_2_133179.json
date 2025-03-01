@@ -1,0 +1,99 @@
+{
+  "id": 133179,
+  "referenceId": 109233,
+  "name": "Esther 5:1–8:2",
+  "localizedName": "Esther 5:1–8:2",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Esther made a wise and clever plan to stop Haman’s orders. She didn’t tell Xerxes right away what she wanted. She invited Xerxes and Haman to two banquets. This made Haman feel proud and special."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "He boasted to his wife and friends about being favoured by Xerxes and Esther. This made him bold. He made a plan to kill Mordecai right away. He didn’t want to wait until the 12th month."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "But Haman was an example of what Proverbs 11:27 described. Bad things happened to him for planning to do evil. Instead of putting Mordecai to death, Haman had to honour Mordecai in front of others. Instead of being favoured by Esther, Haman was accused by her. Instead of having a good time at the second banquet, Haman made Xerxes very angry."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Haman’s plan to kill Mordecai was carried out against himself. Then Xerxes gave Mordecai the ring with the king’s royal mark or "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108522",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "seal"
+              },
+              {
+                "type": "text",
+                "text": ". This meant that Xerxes trusted Mordecai as an official and advisor."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

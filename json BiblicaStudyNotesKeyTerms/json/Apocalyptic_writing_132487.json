@@ -1,0 +1,58 @@
+{
+  "id": 132487,
+  "referenceId": 108541,
+  "name": "Apocalyptic writing",
+  "localizedName": "Apocalyptic writing",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "In the Greek language the word apocalypse means to reveal or uncover something. Apocalyptic writing was common among Jewish and Christian prophets. In apocalyptic writing, prophets used signs and pictures to talk about things happening on earth. The signs and pictures uncovered spiritual truths about those things. They helped people understand God’s point of view. They showed how God would save his people and judge their enemies. The signs and pictures in apocalyptic writing are often powerful and frightening. This was to get people’s attention."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

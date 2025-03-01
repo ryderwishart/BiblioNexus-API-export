@@ -1,0 +1,82 @@
+{
+  "id": 132667,
+  "referenceId": 108721,
+  "name": "Luke 8:40–56",
+  "localizedName": "Luke 8:40–56",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus had shown that he had the power to heal illness. He also had the power to raise people from the dead. People realised this and wanted his help."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus helped some people without them asking. Other people like Jairus openly asked Jesus for his help. Others like the woman in this story tried to get Jesus’ help without anyone noticing."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus took time to find the woman who had been secretly healed. He wanted her to know that he cared for her. Yet while he spent time with the woman, Jairus’ daughter died. This didn’t worry Jesus or make him hurry. Instead, he comforted Jairus as they travelled."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "At Jairus’ house, Jesus raised his daughter from the dead. Then he made sure that she ate something. Jesus knows everyone and he takes care of each person’s needs."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

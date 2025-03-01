@@ -1,0 +1,184 @@
+{
+  "id": 133232,
+  "referenceId": 109286,
+  "name": "Lamentations 3:1–5:22",
+  "localizedName": "Lamentations 3:1–5:22",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Chapters 3 and 4 are also alphabet poems. They continue talking about the terrible things that had happened in Jerusalem. They continue talking about the pain and anger of the people of the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108480",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "southern kingdom"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Yet there are words of hope in the middle of chapter 3. This is the centre of the book. God didn’t completely destroy his people. This was a sign that he was still committed to them. God had promised to "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108281",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "forgive"
+              },
+              {
+                "type": "text",
+                "text": " his people if they "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108346",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "repented"
+              },
+              {
+                "type": "text",
+                "text": " and turned away from their "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108195",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "sin"
+              },
+              {
+                "type": "text",
+                "text": ". He had promised this in the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108328",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Mount Sinai covenant"
+              },
+              {
+                "type": "text",
+                "text": ". So the speaker invited God’s people to pray to God and return to him. They could do this because they trusted that God is good. They trusted that he loved them. They believed that God was concerned about them and was faithful to them."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "After these words of hope, the poems continue talking about sad things. The people were suffering as a result of their sin. In this way their suffering was different from "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108524",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Job"
+              },
+              {
+                "type": "text",
+                "text": "’s suffering. But the people described God in ways that Job described him. Like Job, they described God as a lion waiting to attack them. They felt like God was shooting arrows at them. These were pictures that showed how confused the people felt. God’s people were completely shocked by God. It seemed that God had turned against them. They understood that they had sinned. But they couldn’t understand why God allowed them to suffer so terribly."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The way that chapter 5 is written shows how confused they felt. This poem doesn’t follow the order of the alphabet like the other poems in Lamentations do. At the end of chapter 5 the people recognised something important. They needed God to take action to help them. They needed him to bring them back to him. Only then could they return to him like chapter 3 talked about. Yet the people didn’t feel any hope or trust. They wondered if God’s anger was so complete that he had deserted them for ever."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

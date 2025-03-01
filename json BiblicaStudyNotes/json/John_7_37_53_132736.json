@@ -1,0 +1,73 @@
+{
+  "id": 132736,
+  "referenceId": 108790,
+  "name": "John 7:37–53",
+  "localizedName": "John 7:37–53",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Water was an important part of the Feast of Booths. On the last day of the feast Jesus talked about water in a spiritual way. Jesus claimed that the water of new life comes from him. Those who believe he is God’s Son will have this living water. It will flow from inside them like rivers."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus was talking about the Holy Spirit. The Holy Spirit would be given to all who trust and believe in Jesus. The people at the feast wondered how this could be. They couldn’t agree about who Jesus was. But almost all the religious leaders agreed that he was trying to trick people."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Nicodemus wanted the leaders to try to understand Jesus. But they weren’t open to hearing anything Jesus had to say."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

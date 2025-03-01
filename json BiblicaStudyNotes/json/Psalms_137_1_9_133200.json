@@ -1,0 +1,116 @@
+{
+  "id": 133200,
+  "referenceId": 109254,
+  "name": "Psalms 137:1–9",
+  "localizedName": "Psalms 137:1–9",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In Psalm 137 people complain to God. They lament and tell him how sad and angry they are. They are sad and angry about unfair things that are happening. Babylonian armies had taken control of the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108480",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "southern kingdom"
+              },
+              {
+                "type": "text",
+                "text": ". They had destroyed Jerusalem and the temple. They had taken many Jews as prisoners and forced them to live in Babylon."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The speakers of this psalm were some of those Jews forced to live in exile. They were very sad. The Babylonians made fun of them. Psalm 89 talked about this too. That psalm also complained to God about the mean things said by other nations. It accused God of breaking down Jerusalem’s walls. It accused God of breaking his covenant with David. This was because God didn’t protect the king from David’s family line or his city. That city was Jerusalem."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The speakers of Psalm 137 never wanted to forget Jerusalem. God had promised to put his name in Jerusalem (2 Chronicles 6:6). This means that people knew that God was present with them there. If they forgot Jerusalem, it would be like forgetting all about God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The speakers of Psalm 137 prayed to God about those who destroyed Jerusalem. They reminded God about how the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108411",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Edomites"
+              },
+              {
+                "type": "text",
+                "text": " had celebrated that terrible event. They wanted God to remember the sins of the Edomites and the Babylonians. The Jews believed that God would take action as Judge and bring judgement. They wanted him to bring judgement against those who had hurt them."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

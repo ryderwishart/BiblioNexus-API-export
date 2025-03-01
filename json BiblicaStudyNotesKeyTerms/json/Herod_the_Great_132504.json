@@ -1,0 +1,58 @@
+{
+  "id": 132504,
+  "referenceId": 108558,
+  "name": "Herod the Great",
+  "localizedName": "Herod the Great",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "The King Herod of Matthew 2 and Luke 1. He was a ruler appointed by the Romans with the title King of the Jews. He ruled as king from around 36 BC to 4 BC. He ruled over Judea and all of Israel’s lands. He was from the family line of Esau but was considered to be a Jew. He ordered many building projects to be done. This included the city of Caesarea and the temple in Jerusalem. He ordered the temple to be made bigger and greater than it had ever been."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

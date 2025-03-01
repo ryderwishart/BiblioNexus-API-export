@@ -1,0 +1,116 @@
+{
+  "id": 132919,
+  "referenceId": 108973,
+  "name": "Ephesians 4:17–5:20",
+  "localizedName": "Ephesians 4:17–5:20",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul described two ways of living. One was the old way that the believers used to live. It’s the way that people who refuse to trust in God live. This way is marked by sinful desires, actions and words that destroy people."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Sinful desires lead to feelings of anger, hatred and rage. The desires lead to being full of greed and wanting more and more things. Sinful actions include stealing, fighting, committing sexual sins, getting drunk and living wildly. Sinful words include lies and talking about evil and foolish things. Paul described these desires, actions and words as part of a life of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108039",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "darkness"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The other way of living is what Jesus taught. People who live this new life are filled with desires that lead to good things. They are tender and kind to others and forgive them. Their actions do good to others. They work hard and give freely to those in need. Their words also do good. They speak the truth, give thanks to God and build others up. Paul described these desires, actions and words as part of a life of love. They are part of a life of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108546",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "light"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This way of life helps believers stay together as one body. This is part of God’s plan to bring all things together under Jesus’ authority."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

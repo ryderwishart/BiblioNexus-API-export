@@ -1,0 +1,225 @@
+{
+  "id": 133196,
+  "referenceId": 109250,
+  "name": "Psalms 105:1–106:48",
+  "localizedName": "Psalms 105:1–106:48",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Psalms 105 and 106 praise God for his faithful love. Psalm 105 does this by reminding the Israelites of the wonderful things God has done. Psalm 106 does this in a different way. It reminds the Jews how God was faithful even when they forgot about him."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "The events mentioned in these psalms are recorded in other books of the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108193",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Bible"
+              },
+              {
+                "type": "text",
+                "text": ". Those in Psalm 105 are recorded in the books from Genesis through to Joshua. Those in Psalm 106 are recorded in the books from Exodus through to 2 Chronicles."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "In Psalm 105, remembering God’s "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108237",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "covenants"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108305",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "miracles"
+              },
+              {
+                "type": "text",
+                "text": " and laws led the Israelites to praise him. Talking about what God had done was one way to "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108318",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "teach their children"
+              },
+              {
+                "type": "text",
+                "text": " about God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Psalm 105 ends by reminding God’s people why God allowed them to live in "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108246",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Canaan"
+              },
+              {
+                "type": "text",
+                "text": ". They were to obey him and live as a "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108337",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "kingdom of priests"
+              },
+              {
+                "type": "text",
+                "text": " and a holy nation. But they didn’t do that. They disobeyed God over and over again. They followed the practices of the nations around them instead of following the Mount Sinai covenant."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Psalm 106 tells this history. Verse 47 shows that the speakers of this psalm were living in "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108495",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "exile"
+              },
+              {
+                "type": "text",
+                "text": ". They had been forced to live far away from their land. This was God’s judgement against them for their sins and the sins of their people."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "They talked about the evil things they had done for a reason. It helped them understand why God had brought judgement against them. It also helped them understand something about God. God had always remained faithful to his people. Time after time God’s people had forgotten about him. But God always remembered his covenant. He forgave his people and saved them when they cried out to him. This helped the speakers be bold enough to ask God to save them again. The speaker at the beginning of Psalm 106 was sure that God would save them. God’s people would celebrate, give thanks and praise him when he rescued them."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

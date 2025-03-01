@@ -1,0 +1,81 @@
+{
+  "id": 132666,
+  "referenceId": 108720,
+  "name": "Luke 8:22–39",
+  "localizedName": "Luke 8:22–39",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "When Jesus calmed the storm, the disciples were amazed. They were also afraid. They had never known anyone like Jesus. They didn’t fully understand who he was. Even though they were filled with fear, they stayed and kept working with Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The way Jesus healed the man who lived among the tombs scared the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108082",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Gerasenes"
+              },
+              {
+                "type": "text",
+                "text": ". Because they were afraid they wanted Jesus to go away. The man Jesus had healed wanted to go with Jesus. Jesus often told the people he healed not to talk about their healing. But he gave very different instructions to this man. He was to go back home and tell everyone about God’s work in his life. Jesus wanted the man to be part of the Gerasene community again. And he wanted the people who feared him to hear the good news."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

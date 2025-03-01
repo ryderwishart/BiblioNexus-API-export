@@ -1,0 +1,168 @@
+{
+  "id": 133184,
+  "referenceId": 109238,
+  "name": "Job 4:1–31:40",
+  "localizedName": "Job 4:1–31:40",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Eliphaz and Bildad each spoke three times. Zophar spoke twice. All of their speeches are recorded as long poems."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Eliphaz, Bildad and Zophar explained the reason why they thought Job was suffering. Throughout his life, Eliphaz had noticed that trouble came to foolish people. Suffering was how they were taught as well as punished for their sins. Eliphaz believed that this was a pattern for how things work in the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108215",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "world"
+              },
+              {
+                "type": "text",
+                "text": ". He believed that it was happening in Job’s case."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Bildad had noticed that God didn’t bring "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108233",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "judgement"
+              },
+              {
+                "type": "text",
+                "text": " against people who hadn’t sinned. This was a lesson that people had taught for hundreds of years. Bildad believed it was a pattern for how things work in the world. So he thought that Job and his family were being punished for their sins."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Zophar was sure that "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108525",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "ungodly people"
+              },
+              {
+                "type": "text",
+                "text": " are always punished. He believed that this is how things had always been in the world. He was sure that God was bringing judgement on Job for sins Job had committed."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Job answered Eliphaz, Bildad and Zophar each time after they spoke. Job was sad and angry because his friends said things that weren’t helpful. Many of the things they said were true. But the patterns they noticed in life didn’t apply to Job’s case. Job hadn’t sinned in secret. Job didn’t claim to have never sinned. But he knew that God wasn’t punishing him for his sins. Job knew that he had lived the way God wanted people to live. His friends didn’t understand him. They accused him falsely."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Job believed that God did understand him. Job believed that God knew that he wasn’t guilty of secret sins. Job wanted God to explain why his life had become so difficult. Job was very confused by God and angry at him. But Job continued to have respect for God and to avoid evil. He did this even though he was suffering terribly. This showed that Job had "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108325",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "wisdom"
+              },
+              {
+                "type": "text",
+                "text": " and understanding."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

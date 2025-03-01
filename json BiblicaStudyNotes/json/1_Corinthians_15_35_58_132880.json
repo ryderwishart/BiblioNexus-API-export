@@ -1,0 +1,82 @@
+{
+  "id": 132880,
+  "referenceId": 108934,
+  "name": "1 Corinthians 15:35–58",
+  "localizedName": "1 Corinthians 15:35–58",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul taught that the bodies of all believers will be raised from the dead. Some of the Corinthian believers couldn’t understand what their bodies would be like when this happened. Paul used things they could see on earth as examples to help them understand."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "A plant looks very different from the seed it grew from. This is the same as the difference between a person’s body before death and after resurrection. Human bodies are made of things God created when he made the world. In this way they are like the body God created from the dust for Adam (Genesis 2:7). That is what Paul meant about being like the earthly man."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "When believers are raised from the dead, their human bodies will be changed. They will not be only a spirit. They will have bodies like Jesus’ body after he rose from the dead. That is what Paul meant about being like the heavenly man. Their new bodies will be able to do much more than their old bodies. Their new bodies will last for ever."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul celebrates this with a victory song. The Messiah lives and death’s power has been taken away! The way that people live while they are on earth is important. It’s important because death isn’t the end of life."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

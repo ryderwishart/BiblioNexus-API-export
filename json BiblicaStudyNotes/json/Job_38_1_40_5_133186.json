@@ -1,0 +1,137 @@
+{
+  "id": 133186,
+  "referenceId": 109240,
+  "name": "Job 38:1–40:5",
+  "localizedName": "Job 38:1–40:5",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "Job thought that God wouldn’t listen to him. Earlier Job had said he thought that God would send a storm to crush him. Job thought God would do this if he called out to God. Instead, God listened very closely."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "God listened to everything that Job, Eliphaz, Bildad, Zophar and Elihu said. Instead of crushing Job with a storm, God spoke to Job from a storm. God didn’t answer the questions Job had asked. He didn’t explain to Job why people suffer. God didn’t explain that Satan had suggested a test for Job. Instead, God asked Job many questions. God asked what things Job was able to do. Then God explained many of the things that he can do."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "God created everything in "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108201",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "heaven"
+              },
+              {
+                "type": "text",
+                "text": " and on the earth. He makes sure that what he created works the way he wants it to. This includes the land, the water, the sky, the stars and the animals. God takes care of all animals. This includes animals that aren’t livestock raised by "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108202",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "human beings"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "God talked a lot about the sky, the earth and the animals. The way he talked about them showed Job something important. Human beings are only one part of what God created. As a human being, Job couldn’t understand everything about God’s "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108197",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "creation"
+              },
+              {
+                "type": "text",
+                "text": ". Job couldn’t understand everything that was needed to take care of creation. Job couldn’t understand God’s plans. Job couldn’t understand the reasons why God did what he did. And Job couldn’t do God’s work better than God did it. Job’s first answer to God was to remain silent."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

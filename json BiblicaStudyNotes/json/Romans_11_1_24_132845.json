@@ -1,0 +1,108 @@
+{
+  "id": 132845,
+  "referenceId": 108899,
+  "name": "Romans 11:1–24",
+  "localizedName": "Romans 11:1–24",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul showed that not everyone in Israel had failed to accept the Messiah. Paul and many other Jews had received God’s grace and had believed in Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Other Jews didn’t believe. This was because they were stubborn and chose not to. This allowed Gentiles the chance to hear about Jesus and to turn to God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul wanted to keep sharing the message about Jesus with other nations and peoples. When Gentiles received the blessing of knowing God, it made many Jews jealous. Paul wanted all of Israel to get jealous of those who knew God. He hoped this would encourage the Jews to accept Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul described Jews and Gentiles like "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108142",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "olive trees"
+              },
+              {
+                "type": "text",
+                "text": ". The nation of Israel was like an olive tree in a nice garden. Gentile believers were like an olive tree that grew in the wild. Branches of this wild olive tree were joined to the Jewish olive tree. The Jewish root supported all the wild branches that were joined to it. That is a picture of how Gentiles join God’s family. God is the one who joins the Gentile branches to the Jewish tree."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Some branches of the Jewish olive tree had been broken off. Those were the Jews who refused to accept what God was doing through Jesus. Paul hoped that all Jews would believe that Jesus is the Messiah. Then God would put all the Jewish branches back onto the olive tree again. Paul longed for that to happen."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

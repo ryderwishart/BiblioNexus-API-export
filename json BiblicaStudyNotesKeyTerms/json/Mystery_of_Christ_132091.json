@@ -1,0 +1,58 @@
+{
+  "id": 132091,
+  "referenceId": 108145,
+  "name": "Mystery of Christ",
+  "localizedName": "Mystery of Christ",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "The truth about how God accomplishes his plan for the world through Jesus Christ. In the New Testament, a mystery is usually something that hasn’t been made known to people. Old Testament prophets had said that God would save his people. But Jews didn’t know exactly how or when God would do this. They weren’t sure who or what they would be saved from. They didn’t know exactly who would be saved. Paul explained this mystery in his letters. God’s plan was to save all people who trust in Jesus. Jesus is a human being and is God’s Son. God saves his people from the power of sin, evil and death. He saves them through what Jesus did when he sacrificed himself on the cross."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

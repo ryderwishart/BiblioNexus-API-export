@@ -1,0 +1,65 @@
+{
+  "id": 132113,
+  "referenceId": 108167,
+  "name": "Docetism",
+  "localizedName": "Docetism",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {},
+            "content": [
+              {
+                "type": "text",
+                "text": "A belief that Jesus didn’t have a human body and wasn’t fully a human being. It was based on a Greek idea. This idea was that bodies were evil. This idea was also that only spiritual things that last for ever were good. "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle"
+                  }
+                ],
+                "text": "Docetism became part of a way of thinking called Gnosticism. Gnosticism explained that the world had problems because people had bodies. Gnostics believed that human beings were saved by having secret knowledge."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

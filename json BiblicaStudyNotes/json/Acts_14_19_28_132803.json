@@ -1,0 +1,116 @@
+{
+  "id": 132803,
+  "referenceId": 108857,
+  "name": "Acts 14:19–28",
+  "localizedName": "Acts 14:19–28",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Some Jews from the cities Paul had recently visited came to Lystra to attack him. They hated the good news. Since Paul wouldn’t stop sharing it, they tried to kill him. But Paul didn’t die."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "He and Barnabas travelled on to "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108117",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Derbe"
+              },
+              {
+                "type": "text",
+                "text": ". Then they returned to the cities where they had been treated badly. They weren’t afraid of those who opposed and attacked them. They were faithful to complete the work the Holy Spirit had given them to do."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "They taught the new believers to also stay faithful even when they faced hard times. Paul chose "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108118",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "church elders"
+              },
+              {
+                "type": "text",
+                "text": " to help the new communities of believers. They would help the churches be strong and continue to trust Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul and Barnabas then returned to Antioch in Syria. That is where God had appointed them to go to the Gentiles. They told the church there about all that God was doing among the Gentiles. That was the end of their first journey to spread the message about Jesus."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

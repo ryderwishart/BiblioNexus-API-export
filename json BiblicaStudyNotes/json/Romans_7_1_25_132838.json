@@ -1,0 +1,73 @@
+{
+  "id": 132838,
+  "referenceId": 108892,
+  "name": "Romans 7:1–25",
+  "localizedName": "Romans 7:1–25",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "When Jesus died, it was as if his followers had also died. Their bodies hadn’t died but they had died to sin. Once people are dead to sin, it means that sin no longer controls them. They belong to Jesus and live for God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In this part of the letter Paul seemed to speak a lot about himself. He used the word I many times. He wasn’t only talking about himself. He was also talking about Israel’s history with the Law of Moses. The people of Israel had been given the law. The law showed people that they are trapped as slaves to sin."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The law is good and true. It’s a gift from God. But it has no power to bring about the good that God wants people to do. People must be changed completely for this to happen. People are changed completely when Jesus Christ saves them. The Holy Spirit gives God’s people the power to say no to sin."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

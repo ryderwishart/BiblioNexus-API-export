@@ -1,0 +1,176 @@
+{
+  "id": 133175,
+  "referenceId": 109229,
+  "name": "Nehemiah 12:44–13:31",
+  "localizedName": "Nehemiah 12:44–13:31",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "For some time the priests, Levites and people followed the Law of Moses carefully. The priests and Levites did their duties like they did when David and Solomon were kings. The Jews stopped allowing outsiders who didn’t worship God to be part of the community."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This didn’t mean that no "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108412",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Ammonite"
+              },
+              {
+                "type": "text",
+                "text": " or "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108397",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Moabite"
+              },
+              {
+                "type": "text",
+                "text": " could ever be part of God’s people. Some of David’s mighty warriors had been from Ammon and Moab (1 Chronicles 11:26–47). It meant that those who worshipped false gods couldn’t be full members of the community."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "But then the priests, Levites and people stopped doing what they had agreed to do. The people stopped giving to the priests and Levites a tenth of what they owned. This led to the Levites stopping their work in the temple. A priest allowed Tobiah to use a room in the temple for his own work. Tobiah was an Ammonite who wasn’t fully committed to God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jewish men in Judah "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108206",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "married"
+              },
+              {
+                "type": "text",
+                "text": " women who didn’t worship God. This meant that they didn’t teach their children to worship only God. And the Jews started working, buying, selling and trading on the Sabbath day."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "All these things happened after Nehemiah returned to Susa to continue serving Artaxerxes. These things showed that God’s people were once again acting like the people groups around them. They weren’t living as a kingdom of priests and a holy nation. Nehemiah had worked very hard to help them live the way God wanted them to. But he couldn’t force them to "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108355",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "love God"
+              },
+              {
+                "type": "text",
+                "text": " and serve God with their whole "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108419",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "heart"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

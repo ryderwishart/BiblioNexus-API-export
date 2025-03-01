@@ -1,0 +1,138 @@
+{
+  "id": 132765,
+  "referenceId": 108819,
+  "name": "John 20:19–31",
+  "localizedName": "John 20:19–31",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus spent time with his disciples after he rose from the dead. The first two times, Jesus gave them a blessing of peace. His death and resurrection brought peace."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The world is still full of wars and problems. But people can live in peace with God their Father again. Because of this, they can live in peace with one another."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus breathed on the disciples and gave them the Holy Spirit. The Holy Spirit gives Jesus’ followers the power to continue his work. Part of Jesus’ work was to free people from the power of sin. The Holy Spirit would help the disciples share freedom and "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108281",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "forgiveness"
+              },
+              {
+                "type": "text",
+                "text": " with everyone."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108095",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Thomas"
+              },
+              {
+                "type": "text",
+                "text": " didn’t believe that Jesus was alive again until he saw and touched him. Then he fully understood and believed that Jesus is "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108329",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Lord"
+              },
+              {
+                "type": "text",
+                "text": " and God. Thomas was the sixth witness to Jesus in John’s gospel."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "John the writer was the seventh witness to Jesus. He wanted everyone to believe that Jesus is the Messiah and the Son of God. That was why John wrote his gospel. Believing the truth about Jesus changes the way people live. They receive the eternal life that Jesus brought into the world at his resurrection."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

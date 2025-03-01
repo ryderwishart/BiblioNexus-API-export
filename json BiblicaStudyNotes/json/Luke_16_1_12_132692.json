@@ -1,0 +1,73 @@
+{
+  "id": 132692,
+  "referenceId": 108746,
+  "name": "Luke 16:1–12",
+  "localizedName": "Luke 16:1–12",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The last story Jesus told in Luke chapter 15 showed two ways of dealing with money. One son wasted his father’s money on sinful living. The other son never spent or enjoyed any of his father’s money."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In Luke chapter 16 Jesus taught how God wanted people to deal with money. The first story is about a manager. He was going to lose his job. So he used his master’s money to help people who owed the master money. That way they would help him when he no longer had a job. The manager in the story wasn’t honest but he was clever. Jesus used him as an example for God’s people. Like that manager they should plan wisely. They should use their money to make their relationships with others strong. But unlike the manager, God’s people should use riches and property honestly."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus talked about true riches. Those are the blessings of God’s kingdom. They are more important than wealth on earth. God wants to share them with his people. But his people must show that they are worthy of being trusted."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

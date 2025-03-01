@@ -1,0 +1,90 @@
+{
+  "id": 132955,
+  "referenceId": 109009,
+  "name": "1 Timothy 6:3–21",
+  "localizedName": "1 Timothy 6:3–21",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Some believers in Ephesus liked to cause trouble by disagreeing and arguing. Others thought that following Jesus was a way to get rich. Loving money and trying to get more of it led them to do evil things."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul told Timothy not to be like those people. Instead, he should be firm in teaching the truth about Jesus as Lord and King. Paul made it very clear that following Jesus doesn’t lead people to grow rich. Faithful believers learn to be thankful for what they have and to be happy with it."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Timothy was to warn rich believers not to trust in their money. Instead they were to share freely and put their hope in God. Paul explained that following Jesus brings something much better than riches on earth. When "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108065",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Jesus returns"
+              },
+              {
+                "type": "text",
+                "text": " his faithful followers will live with him for ever. That is what Paul called the life that really is life."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

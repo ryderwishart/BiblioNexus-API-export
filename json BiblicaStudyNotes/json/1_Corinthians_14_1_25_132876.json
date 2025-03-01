@@ -1,0 +1,116 @@
+{
+  "id": 132876,
+  "referenceId": 108930,
+  "name": "1 Corinthians 14:1–25",
+  "localizedName": "1 Corinthians 14:1–25",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Some believers in Corinth thought that certain spiritual gifts were better than others. Paul made it clear that this wasn’t true. The gifts have different purposes."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Many Corinthian believers could "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108097",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "speak other languages"
+              },
+              {
+                "type": "text",
+                "text": ". These were languages that they didn’t know before. They were proud of this gift of the Spirit. Paul showed why they should desire the gift of prophecy more than other gifts. He described the gifts based on how much they encourage and help others."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "When people speak in languages they didn’t know before, it helps them pray to God. They are strengthened in their relationship with God. That is a wonderful thing. But other people don’t understand what they are saying. They can only understand if there is someone who can "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108150",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "explain other languages"
+              },
+              {
+                "type": "text",
+                "text": ". If the message isn’t explained, those listening to it aren’t strengthened or encouraged. And they may become confused."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "It’s much more helpful for believers to share prophecies in a language everyone understands. This can help others recognise sinful ways in their lives. It can also comfort them and give them hope. The important thing is for believers to use their gifts in ways that strengthen the church."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

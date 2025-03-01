@@ -1,0 +1,64 @@
+{
+  "id": 132759,
+  "referenceId": 108813,
+  "name": "John 18:12–27",
+  "localizedName": "John 18:12–27",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Two trials went on at the same time. First, Israel’s religious leaders put Jesus on trial as a false teacher. That would give them the right to put Jesus to death (Deuteronomy 13:5). Yet John’s gospel had shown that Jesus wasn’t a false teacher. Everything Jesus taught came from the Father himself."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Second, Peter was on trial in a different way. Was he a follower of Jesus? He went with Jesus to his trial before the high priest. This could have been dangerous for Peter. In John’s gospel, many who believed in Jesus were afraid to say so in public. Those who were openly committed to him faced many kinds of trouble. So when people asked Peter if he was Jesus’ disciple, he said he wasn’t. Peter had often shown strong faith in Jesus. Yet at that important moment he allowed fear to control him. Jesus’ friends left him. Jesus would be alone as he finished the work his Father had given him to do."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

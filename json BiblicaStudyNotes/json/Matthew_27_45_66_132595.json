@@ -1,0 +1,64 @@
+{
+  "id": 132595,
+  "referenceId": 108649,
+  "name": "Matthew 27:45–66",
+  "localizedName": "Matthew 27:45–66",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "When Jesus died, he broke the control that sin and death had over God’s world. As a sign of this the earth shook, split and broke open. Tombs opened up and some people were raised from the dead. It was the beginning of something completely new."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "But Jesus’ body had no more life in it. His body was taken down from the cross. Joseph of Arimathea was a wealthy leader in the Jewish Council. He took care of Jesus’ body after he died and put it in his own tomb. The tomb was secured by guards and a big stone."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

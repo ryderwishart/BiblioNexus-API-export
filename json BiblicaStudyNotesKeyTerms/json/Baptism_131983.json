@@ -1,0 +1,58 @@
+{
+  "id": 131983,
+  "referenceId": 108037,
+  "name": "Baptism",
+  "localizedName": "Baptism",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A practice among Jews. Baptism was an outward sign of something that had happened inside of people. They would go into the water and be covered by it. Then they would come back out of the water. People did this to be made clean according to Jewish laws. Gentiles were baptised to show that they had accepted the Jewish faith. Jews were baptised as a sign that they obeyed God. It showed that they had turned away from sin. Christians are baptised to show they have turned away from sin and believe in Jesus. It shows they are committed to following Jesus and being part of God’s people."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

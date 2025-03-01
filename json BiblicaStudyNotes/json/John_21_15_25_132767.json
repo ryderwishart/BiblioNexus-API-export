@@ -1,0 +1,82 @@
+{
+  "id": 132767,
+  "referenceId": 108821,
+  "name": "John 21:15–25",
+  "localizedName": "John 21:15–25",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "After breakfast, Jesus brought Peter fully back into the community of disciples. Jesus asked him three questions. Each time Peter answered that he loved Jesus. Each time Jesus gave Peter the work of taking care of Jesus’ followers."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "It was clear from this that Jesus took Peter’s shame away and forgave him. Jesus is the good shepherd. Jesus trusted the disciples to feed and care for his lambs. The disciples were to invite everyone to follow Jesus like sheep follow their shepherd. The disciples themselves also needed to keep following Jesus their shepherd."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Earlier Jesus had said that he knows his sheep and that his sheep know him. Jesus is close to each of his followers in a special way. This can be seen in how he gave different messages to Peter and John."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "At the end of the gospel the writer made it known who he was. John the writer was John the disciple. John was amazed at all the things Jesus did while he was on earth."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 133043,
+  "referenceId": 109097,
+  "name": "Revelation 15:1–8",
+  "localizedName": "Revelation 15:1–8",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In Revelation 14:12, John had described God’s people. They obeyed God, were faithful to Jesus and were patient."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In Revelation chapter 15, John saw them celebrating what they had been waiting for. They had been patiently waiting for God to rule completely over all things. God had freed them from the power of the beast. They sang praises to God for being the fair ruler who does what is right."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Their song was like Moses’ song in Exodus chapter 15. Moses had praised God for freeing the Israelites from slavery in "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108251",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Egypt"
+              },
+              {
+                "type": "text",
+                "text": ". In Moses’ song, other nations were afraid when they saw what God did. In the song of God’s people, other nations worshipped God. They worshipped him because they saw that he did what was right. Doing what was right included stopping everything that was wrong, sinful and evil."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This song was sung as the angels prepared the last seven plagues. These plagues were a sign of how God would finish judging the world."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 132481,
+  "referenceId": 108535,
+  "name": "Prostitute",
+  "localizedName": "Prostitute",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A person who has sex with others in exchange for payment of some kind. Some people are prostitutes because they have no other choice. This happens with slaves or people who live under someone else’s control. Some people choose to be prostitutes. It’s how they make money. Writers in the Bible talk about people who choose to be prostitutes. They are a sign for people or groups who try to make other people sin. They are also a sign for not being faithful to worship only God. Marriage is one way that the Bible describes God’s relationship with his people. When his people serve other gods, it’s like not being faithful in marriage. It’s like being a prostitute with false gods. God doesn’t want any human being to be a prostitute with their body. He also doesn’t want them to worship anything or anyone but him."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

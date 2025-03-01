@@ -1,0 +1,133 @@
+{
+  "id": 133197,
+  "referenceId": 109251,
+  "name": "Psalms 110:1–7",
+  "localizedName": "Psalms 110:1–7",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Psalm 110 is one of the psalms that isn’t a prayer from someone to God. Instead, it announced God’s promises for a certain king from David’s family line. God would let this lord and king sit at his right hand. This meant that God gave him authority and a place of honour."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This king would be a priest forever like "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108252",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Melchizedek"
+              },
+              {
+                "type": "text",
+                "text": ". David was lord and king. But the lord and king here was not David. No king of Israel served as a priest. Priests were from the family line of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108383",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Levi"
+              },
+              {
+                "type": "text",
+                "text": ". But they couldn’t serve forever because they died."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Many years later, "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108511",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Zechariah"
+              },
+              {
+                "type": "text",
+                "text": " prophesied about someone who was a priest and a king. This person would combine the positions of king and priest in himself (Zechariah 6:13). Many Jews came to understand something about this person. They understood that Psalm 110 and Zechariah were talking about the messiah."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus used words from Psalm 110 to show something. Jesus showed that he is the lord that the psalm talked about (Matthew 22:41–46). New Testament writers understood this as well (Acts 2:33–36). Jesus is the priest and king God made the promises of Psalm 110 about. The writer of Hebrews showed how this was true (Hebrews 6:20 – 7:28)."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

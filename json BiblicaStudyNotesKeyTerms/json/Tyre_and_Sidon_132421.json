@@ -1,0 +1,58 @@
+{
+  "id": 132421,
+  "referenceId": 108475,
+  "name": "Tyre and Sidon",
+  "localizedName": "Tyre and Sidon",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Cities on the Mediterranean coast in the country now called Lebanon. The Phoenician people lived there first. The cities were later controlled by many different governments. The Israelites never took control of these cities when they moved into Canaan. Tyre was also a strong fort. There was peace between Tyre and Israel during the rule of some of Israel’s kings. The people in Tyre and Sidon worshipped false gods and were known for doing evil things."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

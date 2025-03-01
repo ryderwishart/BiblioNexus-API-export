@@ -1,0 +1,210 @@
+{
+  "id": 133127,
+  "referenceId": 109181,
+  "name": "1 Samuel 13:1-15:35",
+  "localizedName": "1 Samuel 13:1-15:35",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "As Israel’s king, Saul made foolish decisions. He disobeyed God’s instructions about "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108338",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "sacrificing animals"
+              },
+              {
+                "type": "text",
+                "text": " at "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108422",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Gilgal"
+              },
+              {
+                "type": "text",
+                "text": ". He did this because he was afraid. He thought he needed a large army to have victory in war."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "He made his soldiers promise to go without food on the day of battle. He thought that "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108456",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "fasting"
+              },
+              {
+                "type": "text",
+                "text": " would give them favour with God in the battle. Yet none of those things mattered for their victory. Nor did it matter that the Israelites didn’t have weapons. God caused the Philistines to panic. This allowed the Israelites to have victory."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "After that Saul was committed to carrying out his foolish promise to kill "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108457",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Jonathan"
+              },
+              {
+                "type": "text",
+                "text": ". This was like "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108438",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Jephthah"
+              },
+              {
+                "type": "text",
+                "text": "’s foolish promise after winning a battle (Judges 11:30­–40). But Saul’s soldiers had "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108325",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "wisdom"
+              },
+              {
+                "type": "text",
+                "text": " and were brave. They kept Saul from putting Jonathan to death."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Later, Saul didn’t fully obey God’s command about the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108324",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Amalekites"
+              },
+              {
+                "type": "text",
+                "text": ". They were to be set apart for God and completely destroyed. This was how God would bring judgement against the Amalekites. Instead, Saul kept many of their animals and allowed the king to live. All of these things showed that Saul was a foolish and proud king. He didn’t obey God’s commands about how kings should rule. He didn’t help the people to be faithful to God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "God was very sad about this and Samuel was very sad and angry. Samuel made it clear that Saul wouldn’t continue to be king over God’s people. This didn’t mean that Saul stopped ruling right away. It meant that the sons that came after Saul wouldn’t be kings. Someone from another family line would become king instead."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

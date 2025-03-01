@@ -1,0 +1,82 @@
+{
+  "id": 132567,
+  "referenceId": 108621,
+  "name": "Matthew 18:1–11",
+  "localizedName": "Matthew 18:1–11",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This was the beginning of Jesus’ fourth long message. In it he talked about what it means to be important. He also talked about forgiving others."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "In Jesus’ time, many people didn’t think children were complete human beings yet. But Jesus showed that children are very important. Children have many needs and must trust others to take care of them. Jesus said it’s a terrible thing to cause children to sin. It’s terrible to do that to anyone who is humble and trusting."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus also taught that his disciples must become like little children in God’s kingdom. They must stop trying to be considered important. They must be humble and trust Jesus. This is what it means to be like a little one who believes in Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Yet the disciples were also leaders in God’s work. They weren’t to cause children or any of Jesus’ followers to sin. They were to be careful to teach the truth about God. Jesus was very serious about this. He talked about harming the body to avoid sin. He didn’t mean that people should actually hurt themselves. Jesus was talking in a way that made people listen to him. He wanted them to understand how important it was to follow God’s way of life."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

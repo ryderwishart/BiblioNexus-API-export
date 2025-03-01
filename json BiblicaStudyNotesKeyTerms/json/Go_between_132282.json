@@ -1,0 +1,58 @@
+{
+  "id": 132282,
+  "referenceId": 108336,
+  "name": "Go-between",
+  "localizedName": "Go-between",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Someone who helps people or groups talk with one another and come to an agreement. This is also called a mediator. Moses did this between the people of Israel and God at Mount Sinai. The people couldn’t come close to God. They were afraid of him. Being close to God’s holiness would have harmed them. So Moses told the people what God wanted to say to them. Then he told God what the people wanted to say to God. In this way he helped them establish the Mount Sinai covenant. Later, Jesus became the mediator between God and all human beings. Because human beings commit sin, they are unable to live in peace with God. Jesus is fully a human being and fully God. Jesus dealt with the problem of sin when he died on the cross. So humans can now be forgiven for sin and live in peace with God. In this way Jesus is the go-between of the new covenant."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

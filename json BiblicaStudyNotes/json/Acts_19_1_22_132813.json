@@ -1,0 +1,107 @@
+{
+  "id": 132813,
+  "referenceId": 108867,
+  "name": "Acts 19:1–22",
+  "localizedName": "Acts 19:1–22",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The teaching of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108580",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "John the Baptist"
+              },
+              {
+                "type": "text",
+                "text": " had spread to Jewish communities outside of Israel. Near Ephesus Paul met a group of John’s disciples. Paul told them the full story about Jesus. They believed in Jesus and received the Holy Spirit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul also told the full story about Jesus and his kingdom in the synagogue in Ephesus. Some Jews believed. Others told lies about the Way of Jesus. God worked through Paul to heal people and set them free from evil spiritual beings. These miracles were very different from magic. Some people tried to use Jesus’ name as a tool to do magic. It didn’t work and they were hurt."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The believers in Ephesus stopped using magic even though it meant losing money. They did this because they honoured Jesus as the Lord. They understood that to follow Jesus completely they must say no to magic. Paul stayed in Ephesus for two years teaching Jewish and Greek believers. Then he was almost ready to leave. There were many places he wanted to visit including "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108047",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Rome"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": 132850,
+  "referenceId": 108904,
+  "name": "Romans 14:1–23",
+  "localizedName": "Romans 14:1–23",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul reminded the believers in Rome that people often have different opinions about things. This was true of their understanding about food, drinks and holy days."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul gave them instructions about living in peace with people who have different opinions. They mustn’t argue about their differences. They mustn’t try to seem more important than others. They must protect one another’s faith and encourage it to grow stronger. They must live in peace and be thankful and joyful."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The most important thing is for believers to continue serving and loving others as Jesus did. Believers serve God as their Lord and Master. God is the judge of all people. So believers mustn’t try to judge how faithful others are to God."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

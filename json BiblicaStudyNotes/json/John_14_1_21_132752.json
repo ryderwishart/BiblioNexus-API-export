@@ -1,0 +1,82 @@
+{
+  "id": 132752,
+  "referenceId": 108806,
+  "name": "John 14:1–21",
+  "localizedName": "John 14:1–21",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus comforted his disciples as he explained that he would be leaving them. But he also promised that they would be together again."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus said I am the way and the truth and the life. This was the sixth time he had described himself using the words I am. Jesus shows the truth about God. He is the way that people can become close to God and have life for ever with God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus and the Father are joined together through the deepest love. Jesus explained this love by saying that he is in the Father. He explained that the Father is in him as well. They share their deep love with all who obey Jesus."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus promised that the Father would send the Holy Spirit. The Spirit would be a friend who comforted and helped Jesus’ followers. Through the Spirit’s power, Jesus’ followers would continue his work. They would do even more mighty works than when they were together with Jesus. They would pray to him asking him to do his powerful works through them. And they could be sure that he listened and would answer."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

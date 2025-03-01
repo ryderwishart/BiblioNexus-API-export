@@ -1,0 +1,58 @@
+{
+  "id": 132150,
+  "referenceId": 108204,
+  "name": "Poem",
+  "localizedName": "Poem",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A way of speaking or writing that can be like singing. Often poems don’t describe things in a direct way. They create pictures and signs with words. These help people understand what the speaker or writer is saying. Poems describe something by explaining how it’s like something else. The Bible includes many poems written in the Hebrew language. Many of these were spoken and written two lines at a time. The first line shared an idea. Then the second line completed that idea. It did this by sharing the same idea again in a new or different way. This helped people understand and remember what the speaker or writer wanted to say."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 132284,
+  "referenceId": 108338,
+  "name": "Sacrifice animals",
+  "localizedName": "Sacrifice animals",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A certain way of putting animals to death. This was done in order to worship and honour someone or a god. This practice was common in the times and places recorded in the Bible. Followers of the true God sacrificed animals to show that they were turning away from sin. The animal’s death was a sign of the death and harm that sin brings. It was also a sign of the punishment for sins that human beings commit. Animals were killed instead of human beings. In this way animals were sacrificed to pay for people’s sins. People who worshiped false gods sacrificed animals for different reasons. They would do this to show how committed they were to their false gods. They would do it to get a blessing. They would do it because they thought the false gods were hungry or were angry."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

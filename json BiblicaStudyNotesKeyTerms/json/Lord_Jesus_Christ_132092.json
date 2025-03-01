@@ -1,0 +1,58 @@
+{
+  "id": 132092,
+  "referenceId": 108146,
+  "name": "Lord Jesus Christ",
+  "localizedName": "Lord Jesus Christ",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "A title for Jesus that describes him in many ways. As Lord, he has authority over all other rulers on earth. As Jesus, he is a Jew who lived in Israel when the Roman government was in control. Jesus is also God’s Son. As Christ, he is the Jewish Messiah and King. The title Lord Jesus Christ means that Jesus is the King of everything. It means he is the Saviour who rescues God’s people and the natural world. He rescues them from sin, death, and evil. It means he is worthy of worship because he is God."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

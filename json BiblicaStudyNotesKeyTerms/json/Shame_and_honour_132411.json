@@ -1,0 +1,58 @@
+{
+  "id": 132411,
+  "referenceId": 108465,
+  "name": "Shame and honour",
+  "localizedName": "Shame and honour",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "In the times and places of the Bible, shame and honour were very important. People wanted to avoid bringing shame to their family, their community and their people group. Everyone in a community understood what ways of speaking and acting were considered proper. Going against those ways was like saying no to their relationship with their community. This brought shame. Then that person wasn’t respected. They would often run away or hide. Someone with more authority could bring that person back into the community. This was how the shame was taken away. Instead, people wanted to bring honour to their family, community and people group. Honour came by doing things that were considered proper and worthy of respect. The more honour someone had the more authority they had in the community."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

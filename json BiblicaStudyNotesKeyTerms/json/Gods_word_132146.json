@@ -1,0 +1,75 @@
+{
+  "id": 132146,
+  "referenceId": 108200,
+  "name": "God’s word",
+  "localizedName": "God’s word",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "class": null
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Throughout the Bible there are many meanings for God’s word or the word of God. The first meaning is anything God speaks. This includes laws, promises, prophecies and everything God says. God spoke words to create the world. God’s words are powerful and cause things to happen. The second meaning is a name for Jesus. Jesus is called both the Word and God’s Word. These titles mean that God created the world through Jesus. They mean that Jesus has always lived and was never not living. They mean that Jesus shows people who God is. The third meaning for God’s word is the collection of holy writings studied by God’s people. This is also called Scripture. The Old Testament was understood to be God’s word and the Scripture. This was true for God’s people before the time of Jesus. For believers in New Testament times, God’s word also included Jesus’ teachings. The apostles preached God’s word. This included the message about Jesus in the Old Testament. It also included everything that Jesus taught. The Old and New Testaments together are understood to be God’s word and the Scripture. This is true for believers after New Testament times. ("
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108193",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Bible"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "Dictionary",
+    "name": "Key Terms (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Bible Dictionary",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica, Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

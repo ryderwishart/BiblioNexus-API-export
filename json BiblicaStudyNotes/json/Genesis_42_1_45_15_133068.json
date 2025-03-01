@@ -1,0 +1,108 @@
+{
+  "id": 133068,
+  "referenceId": 109122,
+  "name": "Genesis 42:1–45:15",
+  "localizedName": "Genesis 42:1–45:15",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jacob didn’t want to send "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108294",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "Benjamin"
+              },
+              {
+                "type": "text",
+                "text": " to Egypt to buy food. He was afraid of losing him like he had lost Joseph."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Joseph tested his ten brothers by making them bring Benjamin to Egypt. Then he tested them to see if they would treat Benjamin badly."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Judah had changed since he sold Joseph into slavery. He offered to stay as Joseph’s slave so that Benjamin could go free."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Then the ten brothers learnt that Joseph the ruler of Egypt was their brother Joseph. They were afraid of what he would do to them. But Joseph forgave them. He explained how God made good things happen even from their evil actions."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Joseph’s dream from when he was a young man came true. That dream was recorded in Genesis 37:5–11. His brothers bowed down to him. But the brothers no longer hated one another or were jealous. Instead, they wept and hugged and talked together."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

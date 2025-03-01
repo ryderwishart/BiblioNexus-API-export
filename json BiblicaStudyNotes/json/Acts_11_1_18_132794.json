@@ -1,0 +1,99 @@
+{
+  "id": 132794,
+  "referenceId": 108848,
+  "name": "Acts 11:1–18",
+  "localizedName": "Acts 11:1–18",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jewish believers in Jerusalem thought that Peter had gone against God’s instructions. They thought this because of the time Peter spent with Cornelius."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Peter explained that he hadn’t opposed God but had obeyed him. Peter told the story of his vision and of the angel who spoke to Cornelius. He made it clear that what happened in Cornelius’ house was God’s work."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "God had used Peter to share the gift of the Holy Spirit with Gentiles. The Spirit came to them just as he had to the Jewish believers at Pentecost. The Jewish believers listening to Peter were amazed. They praised God for what had happened."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "They were starting to understand that Jesus can save everyone from sin and death. Jesus’ gift of life is for all nations and peoples. That is how Jesus is the "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108545",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "light for the Gentiles"
+              },
+              {
+                "type": "text",
+                "text": ". Prophets from long ago had talked about this. But it was difficult for the Jews to understand and accept."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 132704,
+  "referenceId": 108758,
+  "name": "Luke 19:47–20:19",
+  "localizedName": "Luke 19:47–20:19",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus preached the good news and acted with authority in the temple. The religious leaders in charge of the temple didn’t like that at all. They wanted to know who gave Jesus the authority to teach and to do what he did."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "At first Jesus refused to answer because they wouldn’t answer his question about John. But then he told a story to explain it. In the parable, God the Father is the owner of the vineyard. Jesus is the owner’s son. God’s people Israel are the tenants. The "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108258",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "slaves"
+              },
+              {
+                "type": "text",
+                "text": " are the prophets and servants God had sent to Israel. In the end, the tenants kill the owner’s son to steal the vineyard. Jesus said that God would bring judgement against those who did this. God would share his vineyard with others instead."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Jesus then used words from verse 22 in Psalm 118. These words showed that Jesus is the most important stone. God was doing something new and it was based on Jesus. Those who didn’t accept it wouldn’t share in the joy of God’s kingdom."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}

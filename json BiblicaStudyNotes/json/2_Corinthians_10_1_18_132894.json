@@ -1,0 +1,90 @@
+{
+  "id": 132894,
+  "referenceId": 108948,
+  "name": "2 Corinthians 10:1–18",
+  "localizedName": "2 Corinthians 10:1–18",
+  "content": [
+    {
+      "tiptap": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Paul described Jesus as humble and free of pride. Paul showed how he followed Jesus’ example in his work as an apostle. Paul was very humble as he worked among the Corinthian believers. He was so humble that many thought he was shy."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "But others thought that he bragged about how his authority as an apostle came from Jesus. Paul made it clear that he wasn’t full of pride about himself or his work. He only bragged about the work God did. Paul was completely sure about the work God had given him to do. He was to serve others by preaching the good news and helping people know God."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Anything that keeps people from knowing God is the enemy of God. Paul dealt with these enemies when he preached, taught and wrote "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "resourceReference",
+                    "attrs": {
+                      "resourceId": "108120",
+                      "resourceType": "BiblicaStudyNotesKeyTerms"
+                    }
+                  }
+                ],
+                "text": "his letters"
+              },
+              {
+                "type": "text",
+                "text": ". His words and the way he lived helped show people the truth about God. He boldly corrected the Corinthian believers. He corrected them when they did things that went against how God wanted them to live. He did this to help them be completely committed to following Jesus."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "grouping": {
+    "type": "StudyNotes",
+    "name": "Study Notes (Biblica)",
+    "mediaType": "Text",
+    "licenseInfo": {
+      "title": "Biblica Study Notes",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "Biblica Inc.",
+          "url": "https://www.biblica.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    }
+  },
+  "language": {
+    "id": 1,
+    "code": "eng",
+    "displayName": "English",
+    "scriptDirection": "LTR"
+  }
+}
